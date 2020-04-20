@@ -1,0 +1,61 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Starehe,Nairobi South,-1.314183,36.823585200000004,63eb5eca37d0962e7a4bda1a74c72fdfc3c94cca,The Nairobi Hospital Cancer Centre,-1.2961939,36.8041156,hospital
+1, Starehe,Nairobi South,-1.314183,36.823585200000004,a387a7fd396f95c8f9c555df0b67d8f31187ac07,Senior Staff Clinic,-1.2789984,36.8093813,hospital
+2, Starehe,Nairobi South,-1.314183,36.823585200000004,f8355838ec63f464106a3e33d8fd56bb2575873f,Kenyatta National Hospital,-1.301301,36.8069899,hospital
+3, Starehe,Nairobi South,-1.314183,36.823585200000004,63f398d6ef59c24539d323d7b9352af9960f5371,Mater Misericordiae Hospital,-1.3067471,36.8338343,hospital
+4, Starehe,Nairobi South,-1.314183,36.823585200000004,9cc044af9bab5fd77a0b1f6237d610063b8eb962,Nairobi Ear Nose & Throat Clinic,-1.295874,36.80376700000001,hospital
+5, Starehe,Nairobi South,-1.314183,36.823585200000004,813fd12810acaa1e3975089f40dade3e148aa80a,Healthways Medical Centre,-1.3165268,36.8280911,hospital
+6, Starehe,Nairobi South,-1.314183,36.823585200000004,faefb36cb8ef2e35d7a55ebedf0c269e7e155620,Nairobi South Hospital,-1.3137358,36.8285279,hospital
+7, Starehe,Nairobi South,-1.314183,36.823585200000004,360c0b83fd138fd2289366898ba694778cf655ba,Mariekani Cottage Hospital,-1.3113119,36.83255719999999,hospital
+8, Starehe,Nairobi South,-1.314183,36.823585200000004,802708c10d5cdb6f33fc774aafabf4a57778d415,Access Afya Clinic Kisii,-1.3109856,36.84279349999999,hospital
+9, Starehe,Nairobi South,-1.314183,36.823585200000004,ce2a54dacde45131fbf15b480ea73d4ad9081d50,Gertrude's Children's Hospital,-1.3123203,36.8169421,hospital
+10, Starehe,Nairobi South,-1.314183,36.823585200000004,6bdd66374394d71a4526061605a8a2ef3c28b935,Lords Healthcare Ltd,-1.2927259,36.8159929,hospital
+11, Starehe,Nairobi South,-1.314183,36.823585200000004,4f8b6fc82639cbaa8e8787436eab8bc2ccd9a32b,Sinus Medical centre,-1.295891,36.808192,hospital
+12, Starehe,Nairobi South,-1.314183,36.823585200000004,b2177ffecbb2abc63015cbdc1edf654ccb30e10d,Women fighting aids in kenya,-1.297926,36.799982,hospital
+13, Starehe,Nairobi South,-1.314183,36.823585200000004,f5ff129b78eb28d33e5cdf02a9808186cf7c9889,Youth on the Move,-1.3082679,36.8235835,hospital
+14, Starehe,Nairobi South,-1.314183,36.823585200000004,ff4e2b1ac471513b0ae65756df10cb43581af4af,Silverdine Medical Center,-1.29602,36.8079463,hospital
+15, Starehe,Nairobi South,-1.314183,36.823585200000004,ce12d51311df25f04f52260179f6fb192407072d,Mathenge,-1.3238794,36.8030093,hospital
+16, Starehe,Nairobi South,-1.314183,36.823585200000004,0aa1cce91543906f4017767b27b4010f66fd6a23,Gilead Womens Centre,-1.2922429,36.822134,hospital
+17, Starehe,Nairobi South,-1.314183,36.823585200000004,829b3b2ceddfb401bd615837718470c40c78250c,AAR Healthcare Williamson Outpatient Centre,-1.294441,36.809241,hospital
+18, Starehe,Nairobi South,-1.314183,36.823585200000004,9a60a685fee66914050a655ecb7db821219fcdaa,Consolidated Diagnostic Imaging Centre (CDIC),-1.282234,36.8218522,hospital
+19, Starehe,Nairobi South,-1.314183,36.823585200000004,138778f021678bf39ce159daf70f54fae830b263,Milestone Medical Centre,-1.3050634,36.8441034,hospital
+20, Starehe,Nairobi South,-1.314183,36.823585200000004,19664d816a107fda0cb470b67a67ac6b45b853b3,Hope Ear Nose and Throat Clinic,-1.3137622,36.8174071,hospital
+21, Starehe,Nairobi South,-1.314183,36.823585200000004,083aedfe3bc540e3667d439958fce4890147290f,Meridian Equator Hospital,-1.307814,36.8243533,hospital
+22, Starehe,Nairobi South,-1.314183,36.823585200000004,29fa0e16b768d2396c20423e0ce52dcb87550e60,The Aga Khan Hospital,-1.3122653,36.8170885,hospital
+23, Starehe,Nairobi South,-1.314183,36.823585200000004,5df79f7eb06a0e6077259f9dcce57bb785de0b7a,Resolution Health,-1.3121614,36.81698259999999,hospital
+24, Starehe,Nairobi South,-1.314183,36.823585200000004,42fa7f92fe3e01df66655f5ca39109e54ad70ef9,Bliss Healthcare LTD - Nairobi West Clinic,-1.3224253,36.8196442,hospital
+25, Starehe,Nairobi South,-1.314183,36.823585200000004,312f78cd843e34ebecf26865f04174afd55b56f3,Aga khan Hospital,-1.316701,36.83397100000001,hospital
+26, Starehe,Nairobi South,-1.314183,36.823585200000004,c482aedafaf908d0f15b82668616b7ed495697f8,Aga khan Hospital,-1.302798,36.815475,hospital
+27, Starehe,Nairobi South,-1.314183,36.823585200000004,a8064349ea9ba3acced6121eb865b11cbeaf3393,Medical Students Elective Programme International,-1.2991588,36.81344349999999,hospital
+28, Starehe,Nairobi South,-1.314183,36.823585200000004,d673aa5a2bb601f44c31df34c9b97e115ebbf5e0,Pathway International,-1.2986041,36.81135829999999,hospital
+29, Starehe,Nairobi South,-1.314183,36.823585200000004,6950073c9bdb0830195630f1c14f5e574a409c9f,Kpa Belle Vue Medical Clinic,-1.3237931,36.8414457,hospital
+30, Starehe,Nairobi South,-1.314183,36.823585200000004,11ff6aecfa6c806399a0999e821da248d1b246f2,Metropolis Star Lab Kenya Limited,-1.2983233,36.808613,hospital
+31, Starehe,Nairobi South,-1.314183,36.823585200000004,c5cc10ad57599fe49d86fe7892c5831bb40c9622,Angelic Missions Hospital,-1.3074234,36.8025876,hospital
+32, Starehe,Nairobi South,-1.314183,36.823585200000004,42a0afd08cb47adfc438b9ce55307ec27901819e,Jamia MedClinics,-1.283494,36.82156,hospital
+33, Starehe,Nairobi South,-1.314183,36.823585200000004,a5841e693ce4477f298945d1b872cab15de6b709,Meridian Medical Centre-Head Office,-1.2831688,36.8224812,hospital
+34, Starehe,Nairobi South,-1.314183,36.823585200000004,429fe030a0121de9f9191c26afed02a399d3ee2a,The City Cardiac Centre,-1.2969859,36.8084842,hospital
+35, Starehe,Nairobi South,-1.314183,36.823585200000004,7771d83afb8507c07464e00e843f6b03b1a23758,Africa Radiology Technology Institute,-1.2947182,36.8055591,hospital
+36, Starehe,Nairobi South,-1.314183,36.823585200000004,2e6592e65669ba2730ee1c1133681a7a969efa6f,Clinix Health Care,-1.3107278,36.847436,hospital
+37, Starehe,Nairobi South,-1.314183,36.823585200000004,0eb507115dd603ea2d9d9cd0871a6730155bb890,Better Living Hospital,-1.2892383,36.80844800000001,hospital
+38, Starehe,Nairobi South,-1.314183,36.823585200000004,027efbc12a999813e1d297be3f07126d241606de,Meridian Medical Centre,-1.2883656,36.8261182,hospital
+39, Starehe,Nairobi South,-1.314183,36.823585200000004,978701d70bbbf153ce28e2f26219296a0dbf400b,Nairobi ENT Clinic,-1.2970926,36.8039095,hospital
+40, Starehe,Nairobi South,-1.314183,36.823585200000004,338a088f539243d2aa3091c5d8e914de9a85a9d8,Aga khan Hospital,-1.294256,36.80655399999999,hospital
+41, Starehe,Nairobi South,-1.314183,36.823585200000004,862bcc8ffff7b93e859e8741b877f5422e57a6f0,Spa Nursing Home,-1.287888,36.828103,hospital
+42, Starehe,Nairobi South,-1.314183,36.823585200000004,087ad81024f0fef6e7001a76cd2410f49bd3cb7e,Meridian Medical Centre,-1.2948522,36.8050602,hospital
+43, Starehe,Nairobi South,-1.314183,36.823585200000004,06709d284cf561f3ecd7174133e284644eb22e9b,Aga khan Hospital,-1.287159,36.824625,hospital
+44, Starehe,Nairobi South,-1.314183,36.823585200000004,c5f6d5519d98b142356174b35ff666d9ebf0564c,Kenya Red Cross,-1.2874166,36.8303695,hospital
+45, Starehe,Nairobi South,-1.314183,36.823585200000004,9cdd6bded35e8f81304616b2ec0e9b8ee8fd4b28,Lancet mercy Medical cardinal Otunga,-1.2865921,36.8202779,hospital
+46, Starehe,Nairobi South,-1.314183,36.823585200000004,af0e527883c89c6221074a1141c87d8738378ee9,Nairobi Center for Internal Medicine,-1.2854521,36.8203864,hospital
+47, Starehe,Nairobi South,-1.314183,36.823585200000004,77a1d0555222fd7c9b56ccd4f0e9bcbedfab7eac,Ivory Health Solutions,-1.2849842,36.8240831,hospital
+48, Starehe,Nairobi South,-1.314183,36.823585200000004,c755c73757b0ec7b3f23851eab4d0a44dcf6a96a,Tai Medical Centre,-1.2847137,36.8238715,hospital
+49, Starehe,Nairobi South,-1.314183,36.823585200000004,2681c222921904a594ee183fb02a4de8762681ec,Savannah Healthcare Services,-1.2849315,36.8198419,hospital
+50, Starehe,Nairobi South,-1.314183,36.823585200000004,d52adbf120b4a74363aec4509e262d5eda576bfd,Apex Medical Services,-1.2907261,36.8050729,hospital
+51, Starehe,Nairobi South,-1.314183,36.823585200000004,c32737ea932bc6e5f3e98de903e998e58a5da408,"AAR Healthcare, ICEA Clinic",-1.284225,36.82102200000001,hospital
+52, Starehe,Nairobi South,-1.314183,36.823585200000004,c526803e9d429bfc0bbdb4c5f7e9da37733e0eca,Karibu Medical Centre,-1.2949952,36.79887389999999,hospital
+53, Starehe,Nairobi South,-1.314183,36.823585200000004,ef17a078fe8708ffc8bf881ffaf473454a0f77a3,Aga khan Hospital,-1.283062,36.821867,hospital
+54, Starehe,Nairobi South,-1.314183,36.823585200000004,e7da3417885c470266bc4d2055b583f8c84940ec,Co-op Kwa Jirani Peter Ndege Moute,-1.283333,36.816666,hospital
+55, Starehe,Nairobi South,-1.314183,36.823585200000004,fb6bfaab859f631a3760daafc1a2b4d04b00f431,Texas Cancer Centre- Argwings Kodhek Groove,-1.2954793,36.7980579,hospital
+56, Starehe,Nairobi South,-1.314183,36.823585200000004,6ca4f65cd97c510ba18d13515959cbd0ff8681f2,Avenue Healthcare Industrial Area Clinic,-1.3140747,36.8585944,hospital
+57, Starehe,Nairobi South,-1.314183,36.823585200000004,8256f527c947e5a161859c7efc8a8e75a8455e1e,Berachah Chemists,-1.2849668,36.8380929,hospital
+58, Starehe,Nairobi South,-1.314183,36.823585200000004,cf446d2604ad781d1266da7df92d8d6c766c57ca,Dr. K. C. Wafula,-1.280379999999999,36.82217,hospital
+59, Starehe,Nairobi South,-1.314183,36.823585200000004,5e6d50d8580e2168d806c6515137ed54334f9b8e,Marie Stopes Kenya-Kibera,-1.3071202,36.7887175,hospital

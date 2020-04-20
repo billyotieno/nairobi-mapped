@@ -1,0 +1,41 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Makadara,Makongeni,-1.2873101,36.87210716,db7c546962a3012f0754ab3c51cd9f3403bf149e,Mukuru Health Center,-1.324922,36.8875341,hospital
+1, Makadara,Makongeni,-1.2873101,36.87210716,7d4db5a9d8511264b6b58c61450a6ec3812c4f86,The Wentworth Hospital,-1.3205062,36.8986881,hospital
+2, Makadara,Makongeni,-1.2873101,36.87210716,10674708202d4063cd90ba950377ad62461ba14e,Jamaa Mission Hospital,-1.281695,36.8731424,hospital
+3, Makadara,Makongeni,-1.2873101,36.87210716,598bda5052fd9a5d2cf95df38a9a4b4cdff78e8e,Fikiria Jamii Clinic,-1.3020356,36.8883847,hospital
+4, Makadara,Makongeni,-1.2873101,36.87210716,8e6d9b933a130df7ac22d6bae5103affabbf2736,Meridian Medical Centre,-1.2831738,36.8797433,hospital
+5, Makadara,Makongeni,-1.2873101,36.87210716,da37f65f01299e219af7aa4776e6aeab0819db88,NHIF buruburu branch,-1.2834624,36.8798093,hospital
+6, Makadara,Makongeni,-1.2873101,36.87210716,d8bccbbc35cbb7d9d3389023e36475aeaf9113d7,Makadara Health Centre,-1.2969203,36.872973,hospital
+7, Makadara,Makongeni,-1.2873101,36.87210716,6ca4f65cd97c510ba18d13515959cbd0ff8681f2,Avenue Healthcare Industrial Area Clinic,-1.3140747,36.8585944,hospital
+8, Makadara,Makongeni,-1.2873101,36.87210716,411d9194c4c0627f91ce32ce4c264d3a8ab414c2,Near Home Medical Clinic,-1.2912617,36.8858242,hospital
+9, Makadara,Makongeni,-1.2873101,36.87210716,da802eb1b5a54ad7ff192325db0ed9c06f1946bf,Metropolitan Hospital,-1.2877303,36.8751656,hospital
+10, Makadara,Makongeni,-1.2873101,36.87210716,5cd428776c058bcfab49e8672a7229f135b0f42b,Bliss Medical centre Buruburu,-1.281606,36.878916,hospital
+11, Makadara,Makongeni,-1.2873101,36.87210716,7a7f1361e49db9120ead50b530b919a7639015ec,The Mater Hospital Buruburu,-1.2879419,36.881129,hospital
+12, Makadara,Makongeni,-1.2873101,36.87210716,33d17d8018052a53a207a65f643e3c9a83ad2392,Phadam Hospital,-1.2755749,36.8784837,hospital
+13, Makadara,Makongeni,-1.2873101,36.87210716,9cbdec631d1bab15c9668902faa2710035c99670,Jon Lee International Hospital Limited.,-1.2906627,36.886646,hospital
+14, Makadara,Makongeni,-1.2873101,36.87210716,ecd7921169c01cf33189fab050ab32f0a1077585,Gertrude's Children's Hospital,-1.2954959,36.8877996,hospital
+15, Makadara,Makongeni,-1.2873101,36.87210716,243f81da412544839f2a495d2fd3a4f7eebf24f3,The LifeLine Hospital,-1.2865754,36.8523942,hospital
+16, Makadara,Makongeni,-1.2873101,36.87210716,1517f811408566cbe466a84f32418251f79ca67a,Madina Hospital,-1.276181,36.8506393,hospital
+17, Makadara,Makongeni,-1.2873101,36.87210716,687c9bf88fd2c18a26ec9a549eaa1ad166d0926a,"AAR Healthcare, Donholm Clinic",-1.301341,36.888382,hospital
+18, Makadara,Makongeni,-1.2873101,36.87210716,648c2519860ff07e46daf5c0b26482254bb51d90,Eastern Deanery Aids Relief Program,-1.3017643,36.8884591,hospital
+19, Makadara,Makongeni,-1.2873101,36.87210716,6611b1396a5656546b44a28f7956b8c558d3998e,Emmaus Nursing Home,-1.2834185,36.8941442,hospital
+20, Makadara,Makongeni,-1.2873101,36.87210716,93ab8c0393662f17f961320fb29a7a656881dfce,International Health Centre,-1.278147,36.851415,hospital
+21, Makadara,Makongeni,-1.2873101,36.87210716,b9bf9314d163436aa2ee206908fe85b8559e511d,Cana Family Life,-1.3092054,36.88001779999999,hospital
+22, Makadara,Makongeni,-1.2873101,36.87210716,71fd223c22faa1be3df337d87cb31b797bb97f6d,Valley ear nose and throat centre,-1.2787469,36.8498343,hospital
+23, Makadara,Makongeni,-1.2873101,36.87210716,563e500911819aed07b1416728ea5b56a6dc595a,Medicross Lunga Lunga Square,-1.30864,36.8607604,hospital
+24, Makadara,Makongeni,-1.2873101,36.87210716,e028f77fa05c9dc278118d2f503d8f1f332ae47a,Melihep,-1.3113669,36.8686679,hospital
+25, Makadara,Makongeni,-1.2873101,36.87210716,52c6e8fd44410b375a12d6d209716d695e85d144,Aga Khan University Hospital Medical Centre,-1.276662,36.84953,hospital
+26, Makadara,Makongeni,-1.2873101,36.87210716,48ac10566f4a95e6cdef7e7fbaea90ff2eaaaa70,Aga Khan University Hospital Medical Centre,-1.261599,36.878577,hospital
+27, Makadara,Makongeni,-1.2873101,36.87210716,18e6ff5d4a51ba200159203ae0b8418f24fe46ed,"Aga Khan Hospital, Eastleigh",-1.272829,36.849119,hospital
+28, Makadara,Makongeni,-1.2873101,36.87210716,8de99cdf914fb797bdce9acf0270d7d321260cce,CEKA MEDICAL CENTRE,-1.2851082,36.8996158,hospital
+29, Makadara,Makongeni,-1.2873101,36.87210716,ed2a1c29079cdcb012654a6977313475d6227dee,Medicin San Frontiers,-1.2659742,36.8538879,hospital
+30, Makadara,Makongeni,-1.2873101,36.87210716,7b19b8e14ea994662e50830f80cd6fd52271c1bb,Nairobi ENT Clinic - Greenspan Mall Branch,-1.288918,36.9007721,hospital
+31, Makadara,Makongeni,-1.2873101,36.87210716,d63a996e2e76f46475fe128df48de0499fddb27e,Aga Khan University Hospital Medical Centre,-1.288722,36.900839,hospital
+32, Makadara,Makongeni,-1.2873101,36.87210716,d3433726162bea780ff2dcedd8d155fb40c89d60,Aga khan Hospital,-1.289068,36.901306,hospital
+33, Makadara,Makongeni,-1.2873101,36.87210716,d08ea421d38f3077bcc067480f999a9ce1bb14f3,Wood Street,-1.2712892,36.8466241,hospital
+34, Makadara,Makongeni,-1.2873101,36.87210716,138778f021678bf39ce159daf70f54fae830b263,Milestone Medical Centre,-1.3050634,36.8441034,hospital
+35, Makadara,Makongeni,-1.2873101,36.87210716,2e6592e65669ba2730ee1c1133681a7a969efa6f,Clinix Health Care,-1.3107278,36.847436,hospital
+36, Makadara,Makongeni,-1.2873101,36.87210716,1f0274db9ece0da8f53f175eccdddc835ea9502d,Alpha Medical Center,-1.3218986,36.8687045,hospital
+37, Makadara,Makongeni,-1.2873101,36.87210716,8256f527c947e5a161859c7efc8a8e75a8455e1e,Berachah Chemists,-1.2849668,36.8380929,hospital
+38, Makadara,Makongeni,-1.2873101,36.87210716,e8924df4948a08b6c52d830a285f913c1b6f51cf,"Bristol Park Hospital, Fedha",-1.3131498,36.8945775,hospital
+39, Makadara,Makongeni,-1.2873101,36.87210716,05088f9f7f1ed8a595d7f0eb4ec63296988cfe43,Marura Nursing Home,-1.2531354,36.86601769999999,hospital

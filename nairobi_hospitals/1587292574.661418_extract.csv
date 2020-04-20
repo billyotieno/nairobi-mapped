@@ -1,0 +1,46 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,d0edf4268545908847139c82e95265d7c476775d,The Animal Clinic Of Nairobi,-1.1722461,36.8296856,hospital
+1, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,1816b6c562c8beb9c4eba173cefc54c924785e98,Aga Khan University Hospital Medical Centre,-1.174826,36.83079600000001,hospital
+2, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,83b8919677719249eb31c1b98e7ebe1c894a7c9e,Aga Khan University Hospital Medical Center,-1.1720252,36.8292749,hospital
+3, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,1f0617a39d1cdd4bea567ab0195f7abf7214e51d,Radiant Hospital - Kiambu Branch,-1.1651266,36.8229703,hospital
+4, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,888e93e05f5988e9b6ab9c17e4ba1c13f3c76f4d,Angelic Hospital,-1.20473,36.833866,hospital
+5, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,c5e1b97d76c799f02f7a55f27b72948aa288a5fd,Josny Enterprises,-1.1703635,36.8546408,hospital
+6, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,81caa15ea8110f2fc7b1732e2b43e0442bec5f8d,Gititu-Riabai Dispensary,-1.1562854,36.8386658,hospital
+7, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,0740939aff47978135eaf0a7344e8643e65e8cfa,Bliss GVS Medical Centre Kiambu,-1.1726919,36.8317452,hospital
+8, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,4db086cb5641f1e69332db369263fcd6087d6ccc,Kiambu Sub-County Level 5 Hospital,-1.1716424,36.8309236,hospital
+9, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,fd8ee034302b22d79cf437ce97424d5ef3fe9e15,Kiambu Road Veterinary Clinic,-1.1849835,36.8387984,hospital
+10, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,c99697ea442d190350ddf0d38e9a6bd868d15170,Mercy Light Hospital,-1.1727555,36.8307376,hospital
+11, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,aaf8c555dfc389ab4af6893164b4243a46491eaa,Kiambu Medical Clinic,-1.1725454,36.8302,hospital
+12, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,d74e10b3963e4d3d2a49d8f916c3033f630682b5,Out patient clinic,-1.1725454,36.8302,hospital
+13, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,07c0c09111fa7bb047bb30ac8483545544063c39,Kikinga House Clinic,-1.1723717,36.8296953,hospital
+14, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,f4d9368fd7471c3c02f522bd6ac8a765cdef6bf0,summer scan and diagonistic centre,-1.1748105,36.8304102,hospital
+15, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,24d3c8a391d4276d856b6a713edaf2eb4fa673f9,"SPECIALISTS DOCTORS PLAZA, KIAMBU",-1.1748105,36.8304102,hospital
+16, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,ea70cc3079ac75d6622cccac6cef1fce5976895a,Igegania Level 4 Hospital,-1.1748105,36.8304102,hospital
+17, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,a868c52285381ec68d66d9e19c7c2ac29781a3fd,Bliss Medical Centre Kiambu,-1.1748105,36.8304102,hospital
+18, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,e9015f193fc423b08da95a232384e13e9a0a6e8f,Kiambu Level 5 Hospital,-1.1748105,36.8304102,hospital
+19, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,0397cd07f88876030e87e3186a6095acf9b6d333,Kiambu County Referral Hospital,-1.1748105,36.8304102,hospital
+20, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,c85b37c808d7ac5ff8767156b3e9ae8e9e21d8cd,Aga Khan University Hospital Medical Center,-1.1720785,36.8292966,hospital
+21, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,463dda52f313965695658f4b1f334cb84a2fb599,The Aga Khan University Hospital,-1.1721193,36.8292946,hospital
+22, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,25aa8f47cf1632dc686404e1959fec168654cfb1,Radiant Hospital-Cbd kiambu branch,-1.1720964,36.8291861,hospital
+23, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,be31d7d5efb2455b373e5f7e91c03fbdbe521b33,St. Mary's Mothers Child Medical Services,-1.1718281,36.82907,hospital
+24, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,b25b3bf3c4ca3425f8110b6a65ad2fe8287d458d,Turning Point Rehab Kihingo,-1.1609825,36.8286036,hospital
+25, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,9c06fe3eb33108ab8f62c7a77f6961216c275a7d,caretech medical center,-1.1903134,36.84375389999999,hospital
+26, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,8dbce3a73e69c1aa3f6d1367ecd0da4827046c20,Living hope counseling and treatment center,-1.1673678,36.88309580000001,hospital
+27, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,759367f3f42e7bc90e1b1402e22080c2384b2c5d,Dr. Irimu Clinic,-1.1895034,36.840468,hospital
+28, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,b71091a3aa54576304954f12d5e40f8087e831a0,AFYA BORA NUTRITIONAL CLINIC,-1.1703434,36.8271076,hospital
+29, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,56676cff5944c61f1b69137c1811b2e40a6e13f7,St. Mark Medical Clinic,-1.1700283,36.8270415,hospital
+30, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,02290997241c2a490a950d116571c2a50aa516b8,St Anns Medical Clinic,-1.1666323,36.82532179999999,hospital
+31, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,21dd67c2f8366ac0c57f7f65174913f2a5890248,Out patient clinic,-1.1666186,36.82527870000001,hospital
+32, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,33eedca70039ba00c9fab60a5ae8bb336843f46e,St. Mary's Medical &Lab,-1.1649554,36.82376279999999,hospital
+33, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,598da3d33e8693039f24c331fd00e1513dcc70c8,Kaka Medical Clinic - Kiambu,-1.1615422,36.8217037,hospital
+34, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,f26569fc6149f773daca4ee739ed362ce2d33d54,NJATHAINI MEDICAL SERVICES,-1.1993499,36.870769,hospital
+35, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,e6906fb7e16c0c790833de14b693c54b66666d49,St Teresa Hospital,-1.1991075,36.8361897,hospital
+36, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,18e9587840da03c082980c38e956437d8fa9f2ac,St Teresa Maternity,-1.1991616,36.8362483,hospital
+37, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,b4e9c9a3d693e7bd6b9bad0496c5b84399fbe688,Jamii Yadah Medical Centre-Jogoo rd,-1.2048719,36.8602923,hospital
+38, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,05238ad4576590eb5d0a281a2d91752b6bbf0bdf,Oasis Health Services,-1.2004565,36.83592239999999,hospital
+39, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,ecf1d555e8e248aafba7b2fd65982acbdb369376,Ruiru Hospital Limited,-1.1561771,36.8955846,hospital
+40, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,9a8d13a7702eed93c9f826f0a2f43f2c71581141,Genus Medical Services,-1.1879609,36.89151059999999,hospital
+41, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,77bcdb28b662ed57aea2a55e8e332e6605bdcdb4,Equity Afia Kahawa West,-1.1826947,36.8965631,hospital
+42, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,e2bd9a89e209d40b77d247509cad83f493cdf449,Neem Healthcare Limited,-1.1832167,36.8964504,hospital
+43, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,3e78e54f549f45e4c718b63e65619d531f19a2a1,Equity Afia Medical Center,-1.1827433,36.8968521,hospital
+44, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,23b0e9449e9987251a0882c50ff078824b1f8a6a,Kiambu District Hospital,-1.1711865,36.8300738,hospital

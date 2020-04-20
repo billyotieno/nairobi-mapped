@@ -1,0 +1,61 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Kamukunji,Pumwani,-1.2797575,36.8442693,a387a7fd396f95c8f9c555df0b67d8f31187ac07,Senior Staff Clinic,-1.2789984,36.8093813,hospital
+1, Kamukunji,Pumwani,-1.2797575,36.8442693,63eb5eca37d0962e7a4bda1a74c72fdfc3c94cca,The Nairobi Hospital Cancer Centre,-1.2961939,36.8041156,hospital
+2, Kamukunji,Pumwani,-1.2797575,36.8442693,63f398d6ef59c24539d323d7b9352af9960f5371,Mater Misericordiae Hospital,-1.3067471,36.8338343,hospital
+3, Kamukunji,Pumwani,-1.2797575,36.8442693,f8355838ec63f464106a3e33d8fd56bb2575873f,Kenyatta National Hospital,-1.301301,36.8069899,hospital
+4, Kamukunji,Pumwani,-1.2797575,36.8442693,dca4a94c2455af221c590ab97a97189363b39738,Mathura,-1.2609828,36.8167272,hospital
+5, Kamukunji,Pumwani,-1.2797575,36.8442693,9a60a685fee66914050a655ecb7db821219fcdaa,Consolidated Diagnostic Imaging Centre (CDIC),-1.282234,36.8218522,hospital
+6, Kamukunji,Pumwani,-1.2797575,36.8442693,a5841e693ce4477f298945d1b872cab15de6b709,Meridian Medical Centre-Head Office,-1.2831688,36.8224812,hospital
+7, Kamukunji,Pumwani,-1.2797575,36.8442693,7e632e2a71aa18a44b9b9fb959a9baa1730437f8,Humming Health Medical Facility,-1.2617739,36.8398159,hospital
+8, Kamukunji,Pumwani,-1.2797575,36.8442693,42a0afd08cb47adfc438b9ce55307ec27901819e,Jamia MedClinics,-1.283494,36.82156,hospital
+9, Kamukunji,Pumwani,-1.2797575,36.8442693,10674708202d4063cd90ba950377ad62461ba14e,Jamaa Mission Hospital,-1.281695,36.8731424,hospital
+10, Kamukunji,Pumwani,-1.2797575,36.8442693,802708c10d5cdb6f33fc774aafabf4a57778d415,Access Afya Clinic Kisii,-1.3109856,36.84279349999999,hospital
+11, Kamukunji,Pumwani,-1.2797575,36.8442693,6bdd66374394d71a4526061605a8a2ef3c28b935,Lords Healthcare Ltd,-1.2927259,36.8159929,hospital
+12, Kamukunji,Pumwani,-1.2797575,36.8442693,1517f811408566cbe466a84f32418251f79ca67a,Madina Hospital,-1.276181,36.8506393,hospital
+13, Kamukunji,Pumwani,-1.2797575,36.8442693,71fd223c22faa1be3df337d87cb31b797bb97f6d,Valley ear nose and throat centre,-1.2787469,36.8498343,hospital
+14, Kamukunji,Pumwani,-1.2797575,36.8442693,52c6e8fd44410b375a12d6d209716d695e85d144,Aga Khan University Hospital Medical Centre,-1.276662,36.84953,hospital
+15, Kamukunji,Pumwani,-1.2797575,36.8442693,93ab8c0393662f17f961320fb29a7a656881dfce,International Health Centre,-1.278147,36.851415,hospital
+16, Kamukunji,Pumwani,-1.2797575,36.8442693,8256f527c947e5a161859c7efc8a8e75a8455e1e,Berachah Chemists,-1.2849668,36.8380929,hospital
+17, Kamukunji,Pumwani,-1.2797575,36.8442693,18e6ff5d4a51ba200159203ae0b8418f24fe46ed,"Aga Khan Hospital, Eastleigh",-1.272829,36.849119,hospital
+18, Kamukunji,Pumwani,-1.2797575,36.8442693,d08ea421d38f3077bcc067480f999a9ce1bb14f3,Wood Street,-1.2712892,36.8466241,hospital
+19, Kamukunji,Pumwani,-1.2797575,36.8442693,e880a040e6397245ae1f4e96cf294dcb7b965469,Ladnan Hospital,-1.2699645,36.8408989,hospital
+20, Kamukunji,Pumwani,-1.2797575,36.8442693,243f81da412544839f2a495d2fd3a4f7eebf24f3,The LifeLine Hospital,-1.2865754,36.8523942,hospital
+21, Kamukunji,Pumwani,-1.2797575,36.8442693,6578112020dec094d17a215cb646218fedcef565,Inkamax Medical Services,-1.2692355,36.8418655,hospital
+22, Kamukunji,Pumwani,-1.2797575,36.8442693,c5f6d5519d98b142356174b35ff666d9ebf0564c,Kenya Red Cross,-1.2874166,36.8303695,hospital
+23, Kamukunji,Pumwani,-1.2797575,36.8442693,0aa1cce91543906f4017767b27b4010f66fd6a23,Gilead Womens Centre,-1.2922429,36.822134,hospital
+24, Kamukunji,Pumwani,-1.2797575,36.8442693,ed2a1c29079cdcb012654a6977313475d6227dee,Medicin San Frontiers,-1.2659742,36.8538879,hospital
+25, Kamukunji,Pumwani,-1.2797575,36.8442693,862bcc8ffff7b93e859e8741b877f5422e57a6f0,Spa Nursing Home,-1.287888,36.828103,hospital
+26, Kamukunji,Pumwani,-1.2797575,36.8442693,e07d3ccb00c1386d5f39b44f407b44784852c197,"Apples+Sense, Inspiring Health",-1.2612526,36.8395877,hospital
+27, Kamukunji,Pumwani,-1.2797575,36.8442693,138778f021678bf39ce159daf70f54fae830b263,Milestone Medical Centre,-1.3050634,36.8441034,hospital
+28, Kamukunji,Pumwani,-1.2797575,36.8442693,cf446d2604ad781d1266da7df92d8d6c766c57ca,Dr. K. C. Wafula,-1.280379999999999,36.82217,hospital
+29, Kamukunji,Pumwani,-1.2797575,36.8442693,027efbc12a999813e1d297be3f07126d241606de,Meridian Medical Centre,-1.2883656,36.8261182,hospital
+30, Kamukunji,Pumwani,-1.2797575,36.8442693,77a1d0555222fd7c9b56ccd4f0e9bcbedfab7eac,Ivory Health Solutions,-1.2849842,36.8240831,hospital
+31, Kamukunji,Pumwani,-1.2797575,36.8442693,c755c73757b0ec7b3f23851eab4d0a44dcf6a96a,Tai Medical Centre,-1.2847137,36.8238715,hospital
+32, Kamukunji,Pumwani,-1.2797575,36.8442693,06709d284cf561f3ecd7174133e284644eb22e9b,Aga khan Hospital,-1.287159,36.824625,hospital
+33, Kamukunji,Pumwani,-1.2797575,36.8442693,ef17a078fe8708ffc8bf881ffaf473454a0f77a3,Aga khan Hospital,-1.283062,36.821867,hospital
+34, Kamukunji,Pumwani,-1.2797575,36.8442693,c32737ea932bc6e5f3e98de903e998e58a5da408,"AAR Healthcare, ICEA Clinic",-1.284225,36.82102200000001,hospital
+35, Kamukunji,Pumwani,-1.2797575,36.8442693,af0e527883c89c6221074a1141c87d8738378ee9,Nairobi Center for Internal Medicine,-1.2854521,36.8203864,hospital
+36, Kamukunji,Pumwani,-1.2797575,36.8442693,9cdd6bded35e8f81304616b2ec0e9b8ee8fd4b28,Lancet mercy Medical cardinal Otunga,-1.2865921,36.8202779,hospital
+37, Kamukunji,Pumwani,-1.2797575,36.8442693,2681c222921904a594ee183fb02a4de8762681ec,Savannah Healthcare Services,-1.2849315,36.8198419,hospital
+38, Kamukunji,Pumwani,-1.2797575,36.8442693,86d04a968968f6875e22d00ad1824dbeb37d940e,Stratus Medical Imaging Solutions,-1.2577126,36.8301695,hospital
+39, Kamukunji,Pumwani,-1.2797575,36.8442693,a80724828e6256aaa48f199baa1f03bddc354a33,Aga Khan University Hospital Diagnostic Centre,-1.2621914,36.8246655,hospital
+40, Kamukunji,Pumwani,-1.2797575,36.8442693,41e45c47ff6ea2f3c985344d3f3eac9f82253792,Aga Khan University Hospital,-1.262241,36.82454550000001,hospital
+41, Kamukunji,Pumwani,-1.2797575,36.8442693,360c0b83fd138fd2289366898ba694778cf655ba,Mariekani Cottage Hospital,-1.3113119,36.83255719999999,hospital
+42, Kamukunji,Pumwani,-1.2797575,36.8442693,5182d431278ed86e18d153a61586065d753b5390,The Aga Khan University Hospital,-1.2611565,36.8241229,hospital
+43, Kamukunji,Pumwani,-1.2797575,36.8442693,e7da3417885c470266bc4d2055b583f8c84940ec,Co-op Kwa Jirani Peter Ndege Moute,-1.283333,36.816666,hospital
+44, Kamukunji,Pumwani,-1.2797575,36.8442693,3cd891e4f3a2944abf23352f4f31ce3201913dee,Aga Khan University Hospital - Children's Ward,-1.2614711,36.8227732,hospital
+45, Kamukunji,Pumwani,-1.2797575,36.8442693,ac44b36cb8bd588d458ec82abcbc129c337ca276,St. Scholastica Uzima Hospital,-1.2535045,36.8566371,hospital
+46, Kamukunji,Pumwani,-1.2797575,36.8442693,69de50561714e278ae6d6e65a77dc3fb28622e08,Healthcare - Wellness Medical Services (K) Limited,-1.2612015,36.8215932,hospital
+47, Kamukunji,Pumwani,-1.2797575,36.8442693,9e2f53d4b33f5a4c2a3c9d3963c2d8055015cbcb,BSR Hospital Nairobi,-1.2654703,36.81723099999999,hospital
+48, Kamukunji,Pumwani,-1.2797575,36.8442693,2e6592e65669ba2730ee1c1133681a7a969efa6f,Clinix Health Care,-1.3107278,36.847436,hospital
+49, Kamukunji,Pumwani,-1.2797575,36.8442693,da802eb1b5a54ad7ff192325db0ed9c06f1946bf,Metropolitan Hospital,-1.2877303,36.8751656,hospital
+50, Kamukunji,Pumwani,-1.2797575,36.8442693,d8bccbbc35cbb7d9d3389023e36475aeaf9113d7,Makadara Health Centre,-1.2969203,36.872973,hospital
+51, Kamukunji,Pumwani,-1.2797575,36.8442693,563e500911819aed07b1416728ea5b56a6dc595a,Medicross Lunga Lunga Square,-1.30864,36.8607604,hospital
+52, Kamukunji,Pumwani,-1.2797575,36.8442693,fc07aaa172a06933802e70934e76f18367f6d8c3,Aga Khan University Hospital Medical Centre,-1.260747,36.81697599999999,hospital
+53, Kamukunji,Pumwani,-1.2797575,36.8442693,7f4567a0d9a4c9ebb88d9efb3698774e49fc0556,Chiromo Lane Medical Centre ( Westlands Branch),-1.2691889,36.8096947,hospital
+54, Kamukunji,Pumwani,-1.2797575,36.8442693,05088f9f7f1ed8a595d7f0eb4ec63296988cfe43,Marura Nursing Home,-1.2531354,36.86601769999999,hospital
+55, Kamukunji,Pumwani,-1.2797575,36.8442693,083aedfe3bc540e3667d439958fce4890147290f,Meridian Equator Hospital,-1.307814,36.8243533,hospital
+56, Kamukunji,Pumwani,-1.2797575,36.8442693,33d17d8018052a53a207a65f643e3c9a83ad2392,Phadam Hospital,-1.2755749,36.8784837,hospital
+57, Kamukunji,Pumwani,-1.2797575,36.8442693,f5ff129b78eb28d33e5cdf02a9808186cf7c9889,Youth on the Move,-1.3082679,36.8235835,hospital
+58, Kamukunji,Pumwani,-1.2797575,36.8442693,5cd428776c058bcfab49e8672a7229f135b0f42b,Bliss Medical centre Buruburu,-1.281606,36.878916,hospital
+59, Kamukunji,Pumwani,-1.2797575,36.8442693,8e6d9b933a130df7ac22d6bae5103affabbf2736,Meridian Medical Centre,-1.2831738,36.8797433,hospital

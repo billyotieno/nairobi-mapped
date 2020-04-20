@@ -1,0 +1,61 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Starehe,Pangani,-1.2648989,36.8372708,fa4a7dc57dbd71cdf4e3989469f031450dadcb61,Royal Snacks Ltd,-1.2591663,36.8156131,supermarket
+1, Starehe,Pangani,-1.2648989,36.8372708,91ffc5aeb1c663a9e639c68d06cc46bb480fc523,Tuskys Supermarket (OTC),-1.2849705,36.8313603,supermarket
+2, Starehe,Pangani,-1.2648989,36.8372708,9785bda87ebcac70d42a892ed8c950de23fc384c,Tuskys Supermarket,-1.2874505,36.8285265,supermarket
+3, Starehe,Pangani,-1.2648989,36.8372708,3e9b868d27b35375dd8f2b8f70937b00b3ddd83a,Chandarana Foodplus Supermarket (Diamond Plaza Branch),-1.258195,36.818533,supermarket
+4, Starehe,Pangani,-1.2648989,36.8372708,577a86324b4da1a8c62412819c2006a57a9c5c23,Tuskys,-1.2863862,36.8267929,supermarket
+5, Starehe,Pangani,-1.2648989,36.8372708,f4615defee85dcfc9f299dee74114dcdf9525ae6,Tuskys Supermarket (Chap Chap Nairobi),-1.283148,36.819868,supermarket
+6, Starehe,Pangani,-1.2648989,36.8372708,881bb9470c48c9ba77a525fb8415d8a273d489cf,Chandarana Supermarket,-1.2741709,36.8191247,supermarket
+7, Starehe,Pangani,-1.2648989,36.8372708,c770c42c686cbaf24ad75a111c6a6e2d3148811b,Chandarana Foodplus Supermarket (Highridge Branch),-1.25938,36.8178724,supermarket
+8, Starehe,Pangani,-1.2648989,36.8372708,7a48666a4c385b5d3a8b58fe13dd54e1d8d94aa5,Chandarana Foodplus Supermarket mobil plaza muthaigaBranch),-1.2610042,36.8392251,supermarket
+9, Starehe,Pangani,-1.2648989,36.8372708,01ffcd1f20e0400f2f6a733a16f5b353ed5766ec,Chandarana Foodplus Supermarket (Ngara Branch),-1.274228,36.8192,supermarket
+10, Starehe,Pangani,-1.2648989,36.8372708,268eac73b384d4a3a33af4e7e326b64b379e78f0,Kid's Camp Ltd,-1.2841321,36.83262930000001,supermarket
+11, Starehe,Pangani,-1.2648989,36.8372708,95d16199ee9ebcc319b04e4fab7eb7a88aa52818,A-Plus Motors Ltd Parklands Branch,-1.258883,36.822474,supermarket
+12, Starehe,Pangani,-1.2648989,36.8372708,6efeda5e9daf2af5c516eaded8364b88f8ad4ba0,Rumorth Group of Companies. Ltd,-1.28217,36.8285606,supermarket
+13, Starehe,Pangani,-1.2648989,36.8372708,b3f256614735540a1c9ff354eda7aed486d94346,Tuskys Building,-1.2846446,36.8272648,supermarket
+14, Starehe,Pangani,-1.2648989,36.8372708,8351eb5c1c566388ee21136a7e689bb004a66950,EastMatt Mfangano Supermarket,-1.2880317,36.8286227,supermarket
+15, Starehe,Pangani,-1.2648989,36.8372708,caaed20f0bce54e20953cd1bd6e2018156150dd0,Ujazi Enterprises,-1.2834232,36.8238601,supermarket
+16, Starehe,Pangani,-1.2648989,36.8372708,09db237f711c0a5a1d8f1bf592c205ac60c8388c,Tuskys Chap Chap,-1.2831612,36.8199386,supermarket
+17, Starehe,Pangani,-1.2648989,36.8372708,1373fbe19df6aaaf447eaabad7620f374689127b,FoodPlus Two Rivers Mall,-1.283029,36.821789,supermarket
+18, Starehe,Pangani,-1.2648989,36.8372708,7196e8fb10171cbed0e135e0948c7cc58dc31f2d,Uchumi Supermarket,-1.287405,36.82541399999999,supermarket
+19, Starehe,Pangani,-1.2648989,36.8372708,8714fb1ac450c307a533c64d6c0f45b2d3e70127,Ujazi,-1.2920659,36.82194619999999,supermarket
+20, Starehe,Pangani,-1.2648989,36.8372708,23fe9f8b1be0e81256ee03723c52704474a88e40,M-Pesa Nakumat Mega Supermarket,-1.2909194,36.8198268,supermarket
+21, Starehe,Pangani,-1.2648989,36.8372708,cb3669a104b0fe63208ed56072fa836901a46c80,Njonde Supermarket,-1.2531937,36.8670914,supermarket
+22, Starehe,Pangani,-1.2648989,36.8372708,a459264a8143bf6c6750890fee23cc8e9eee6aa4,House Of Leather & Gifts Lifestyle,-1.2613514,36.80382669999999,supermarket
+23, Starehe,Pangani,-1.2648989,36.8372708,f668d16a9aee6dfdcd7621e277fc91b69889f12a,Naivas Supermarket - Westlands,-1.2647819,36.8026876,supermarket
+24, Starehe,Pangani,-1.2648989,36.8372708,ae08191c7e4fa31bf175a1413f9cdaf9f6abafc2,Uchumi Supermarket,-1.295784,36.8607814,supermarket
+25, Starehe,Pangani,-1.2648989,36.8372708,881a6f71f63e75a0c9234181aea4456ec41c90c3,Alpha Developers Ltd,-1.2551896,36.7966555,supermarket
+26, Starehe,Pangani,-1.2648989,36.8372708,39ce3210c0bdfb6929c531dbb3c18b740f8395e0,Nakumatt,-1.2596318,36.8184324,supermarket
+27, Starehe,Pangani,-1.2648989,36.8372708,a57eec6ace640cd09d02c8b0a54e2787acd23b91,Tuskys Supermarket (Pioneer),-1.288539,36.826684,supermarket
+28, Starehe,Pangani,-1.2648989,36.8372708,9b6944beefb7ee0f2e6f20756acfd55dd95a2933,M-Pesa Uchumi Supermarket,-1.2871439,36.8253893,supermarket
+29, Starehe,Pangani,-1.2648989,36.8372708,a50704affeb125005587388d4f214d69c6959ae7,"Tuskys supermarket-sheikh karume rd, nairobi",-1.285518,36.827706,supermarket
+30, Starehe,Pangani,-1.2648989,36.8372708,559fa91045d79dcd889dda86cdbbff270affda59,Tuskys Karasha,-1.2848813,36.8197251,supermarket
+31, Starehe,Pangani,-1.2648989,36.8372708,3f62fdd3c529e8e658621d2c07a7ea609316be5f,Tuskys Supermarket,-1.2832492,36.824246,supermarket
+32, Starehe,Pangani,-1.2648989,36.8372708,7a415b91f2595e45e201a150c679ffc74265b19b,Tumaini Supermarket,-1.2668395,36.8424007,supermarket
+33, Starehe,Pangani,-1.2648989,36.8372708,2403326fb73fb853da3ced9ef9cbff64fa848e10,Mamba Supermarket,-1.2687609,36.841836,supermarket
+34, Starehe,Pangani,-1.2648989,36.8372708,6cce284df4e78f052cace3b525c70e312d8893a2,Lango Supermarket,-1.267299,36.84414829999999,supermarket
+35, Starehe,Pangani,-1.2648989,36.8372708,32708f46d75e7a42865e59aea7f60c1d1053a13b,Wa Carol mini supermarket,-1.2663877,36.84626699999999,supermarket
+36, Starehe,Pangani,-1.2648989,36.8372708,3bb1b6a5181d266b4cd0f1dc15eb6e3af1813631,Sayona Supermarket,-1.2725061,36.83217559999999,supermarket
+37, Starehe,Pangani,-1.2648989,36.8372708,6682a2dbb1ba1c3320d57a75623b05ed832bd84a,Rohoboth Supermarket,-1.2757667,36.8381351,supermarket
+38, Starehe,Pangani,-1.2648989,36.8372708,69670255ecf3e64ff969cdc1c6070636bf0fddb7,Mustard Supermarket,-1.2697075,36.8478815,supermarket
+39, Starehe,Pangani,-1.2648989,36.8372708,398afae00f70d376a47baaa62de6ff2fc6673893,Misky Mini Supermarket,-1.2740583,36.8444672,supermarket
+40, Starehe,Pangani,-1.2648989,36.8372708,385111be59a972571fb2d85b0210f3b78616f7bb,Onn The Way Supermarket.Parklands,-1.259426,36.8269132,supermarket
+41, Starehe,Pangani,-1.2648989,36.8372708,2d0f9afea0e63b07ad29aaa55294306ad31dd746,Kithite mini suprmarket,-1.2692945,36.848233,supermarket
+42, Starehe,Pangani,-1.2648989,36.8372708,df81cfffb0962d93fe54728848a9ef3b5bcffb42,Dan supermarket,-1.2672217,36.8495286,supermarket
+43, Starehe,Pangani,-1.2648989,36.8372708,16ee689566fce081a18255855b5f6d96bc0f98c9,Safamart,-1.2738541,36.8459714,supermarket
+44, Starehe,Pangani,-1.2648989,36.8372708,8ba159e27edf9c9ce3a35f54de3768a67cd00315,GALMART SUPERMAKET LTD,-1.2738008,36.84608829999999,supermarket
+45, Starehe,Pangani,-1.2648989,36.8372708,7212465892292f77bb7dd65e3a1ba901b0c60803,SAFAMART SUPERMAKET LTD,-1.2738008,36.84608829999999,supermarket
+46, Starehe,Pangani,-1.2648989,36.8372708,cb904ba8aa9846f812d77f9ff0bb1b32e1d610d5,Carrefour,-1.2733411,36.8274854,supermarket
+47, Starehe,Pangani,-1.2648989,36.8372708,da2484783247e813e30c332dd655d7b1858ac55b,Sahan Mini Market,-1.2712523,36.8486644,supermarket
+48, Starehe,Pangani,-1.2648989,36.8372708,c47ef4462d20ee9805598c872d82ae4d0dc5eddb,Wanag Mini Market,-1.2740301,36.8471628,supermarket
+49, Starehe,Pangani,-1.2648989,36.8372708,8d07cedcac2007cb9b85afac08f301fc0363ac02,Beder mini supermarket,-1.2719366,36.8488091,supermarket
+50, Starehe,Pangani,-1.2648989,36.8372708,1adc5d893ed5830b05d46fa61cfa34f71394519b,Mumtaz Supermarket,-1.274124,36.8471736,supermarket
+51, Starehe,Pangani,-1.2648989,36.8372708,251ca477145b5c1c3b2eedc5f165cfd974174dab,Permarket,-1.2735137,36.84784259999999,supermarket
+52, Starehe,Pangani,-1.2648989,36.8372708,55949c19be661f942b3da3b5ddcfb50a6e801f12,Urban Supermarket,-1.265535,36.8510172,supermarket
+53, Starehe,Pangani,-1.2648989,36.8372708,42902671939fd659743d69b434bc23ce2bf6b417,Galnart Supermarkets,-1.2670251,36.8510676,supermarket
+54, Starehe,Pangani,-1.2648989,36.8372708,a2780fbe2bdce9a8ff1a25ab2910124f2f1febcd,Small City Mini Shop,-1.2709383,36.8500677,supermarket
+55, Starehe,Pangani,-1.2648989,36.8372708,53a02844a86adec0af0761bc08ec47edc8460fa4,Greystone apartments,-1.2586165,36.8246189,supermarket
+56, Starehe,Pangani,-1.2648989,36.8372708,78bac706fb79eca3f3f5f34d81df2bed2ec265f1,The People Supermarket,-1.2773126,36.82982630000001,supermarket
+57, Starehe,Pangani,-1.2648989,36.8372708,8427e323b81261ea4f0ef49b741351c330b9866b,Sam adika,-1.2737779,36.8490634,supermarket
+58, Starehe,Pangani,-1.2648989,36.8372708,37ca8afbd6c281310d9161fd63be2cdc1ed359a2,Kagemu Supermarket,-1.2720538,36.8502876,supermarket
+59, Starehe,Pangani,-1.2648989,36.8372708,4e94f60f9aa3ceb4c4058235e95b2b96c6c1a26e,Dire One Supermarket,-1.2728988,36.8503342,supermarket

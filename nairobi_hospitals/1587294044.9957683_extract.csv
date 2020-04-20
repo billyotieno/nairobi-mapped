@@ -1,0 +1,61 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Kibra,Sarangombe,-1.31226715,36.77745932,63eb5eca37d0962e7a4bda1a74c72fdfc3c94cca,The Nairobi Hospital Cancer Centre,-1.2961939,36.8041156,hospital
+1, Kibra,Sarangombe,-1.31226715,36.77745932,f8355838ec63f464106a3e33d8fd56bb2575873f,Kenyatta National Hospital,-1.301301,36.8069899,hospital
+2, Kibra,Sarangombe,-1.31226715,36.77745932,26f05a01114bc6197f7a1eef6dff9e6ef526305c,Menelik Medical Centre,-1.296924,36.7838012,hospital
+3, Kibra,Sarangombe,-1.31226715,36.77745932,9cc044af9bab5fd77a0b1f6237d610063b8eb962,Nairobi Ear Nose & Throat Clinic,-1.295874,36.80376700000001,hospital
+4, Kibra,Sarangombe,-1.31226715,36.77745932,fb7fd118385efad5711beffa041f14953e94cad6,Lang'ata hospital,-1.3279,36.78928999999999,hospital
+5, Kibra,Sarangombe,-1.31226715,36.77745932,f7787ccab5c394a5375f7361cc17d767b298dcf0,Centre For Tropical & Travel Medicine,-1.2994906,36.7822488,hospital
+6, Kibra,Sarangombe,-1.31226715,36.77745932,5e6d50d8580e2168d806c6515137ed54334f9b8e,Marie Stopes Kenya-Kibera,-1.3071202,36.7887175,hospital
+7, Kibra,Sarangombe,-1.31226715,36.77745932,b2177ffecbb2abc63015cbdc1edf654ccb30e10d,Women fighting aids in kenya,-1.297926,36.799982,hospital
+8, Kibra,Sarangombe,-1.31226715,36.77745932,28dbbfa06f81ec022eea83281c38d5bb2a4e2f11,Getrude's Children's Hospital Lavington Clinic,-1.2869659,36.772812,hospital
+9, Kibra,Sarangombe,-1.31226715,36.77745932,1112c0e4d4e1a94850d6885baf660e6a4ac6033c,Vips Health Services,-1.3022059,36.7892073,hospital
+10, Kibra,Sarangombe,-1.31226715,36.77745932,2db591f6f96619af982b9d0ece6af55e8502ee86,Oasis Health,-1.3006011,36.7817853,hospital
+11, Kibra,Sarangombe,-1.31226715,36.77745932,3dd4bc845b8be7b4bbdfb5d1ac59fbd499c9ad87,Precise Healthcare,-1.3005389,36.781705,hospital
+12, Kibra,Sarangombe,-1.31226715,36.77745932,b1e6c68601951cc27e599fe0755bf441ecfdf34a,Aga Khan University Hospital Medical Centre,-1.300751,36.787754,hospital
+13, Kibra,Sarangombe,-1.31226715,36.77745932,eb1b65e0ad0aa6db0f1a5c1a8495c9df407072fa,NAIROBI RADIOTHERAPY AND CANCER CENTRE,-1.2978445,36.7871115,hospital
+14, Kibra,Sarangombe,-1.31226715,36.77745932,fe6220d27a02e24ef6922f5ec462968251626021,Med Rep,-1.2989643,36.7909273,hospital
+15, Kibra,Sarangombe,-1.31226715,36.77745932,c63bab715a8dc7086bfb664f95fb1b9e77d9789a,Body By Design Kenya,-1.2972986,36.76510109999999,hospital
+16, Kibra,Sarangombe,-1.31226715,36.77745932,ce12d51311df25f04f52260179f6fb192407072d,Mathenge,-1.3238794,36.8030093,hospital
+17, Kibra,Sarangombe,-1.31226715,36.77745932,9de49f5c1f2689891329f1db0afbb52402dcc682,Meridian Medical Centres,-1.2929181,36.7878719,hospital
+18, Kibra,Sarangombe,-1.31226715,36.77745932,e1dd72299e57fa7d89adec64eecec476e79beec1,Medicross HQ,-1.2909029,36.7827767,hospital
+19, Kibra,Sarangombe,-1.31226715,36.77745932,38877c8412189e8660b25aa562d4314de431e333,Aga Khan University Hospital Valley Arcade Medical Centre,-1.290893,36.770044,hospital
+20, Kibra,Sarangombe,-1.31226715,36.77745932,d18276b9d70e4aef2c8bedb4b0a96e7264bbbf5b,Help a child face tomorrow,-1.2934069,36.7917752,hospital
+21, Kibra,Sarangombe,-1.31226715,36.77745932,2b63f676324f078835c5551189fcf1bb3c2c54b3,Gertrude's Children's Hospital,-1.2868968,36.7727265,hospital
+22, Kibra,Sarangombe,-1.31226715,36.77745932,c526803e9d429bfc0bbdb4c5f7e9da37733e0eca,Karibu Medical Centre,-1.2949952,36.79887389999999,hospital
+23, Kibra,Sarangombe,-1.31226715,36.77745932,7588fdc51f4a14226506ef131610055757ebdc0a,Hurlingham Park - Doctors Beyond Borders,-1.2934655,36.7933597,hospital
+24, Kibra,Sarangombe,-1.31226715,36.77745932,c5cc10ad57599fe49d86fe7892c5831bb40c9622,Angelic Missions Hospital,-1.3074234,36.8025876,hospital
+25, Kibra,Sarangombe,-1.31226715,36.77745932,fb6bfaab859f631a3760daafc1a2b4d04b00f431,Texas Cancer Centre- Argwings Kodhek Groove,-1.2954793,36.7980579,hospital
+26, Kibra,Sarangombe,-1.31226715,36.77745932,fcd52d4ea484fec51d6f9bff55685d814d02942e,Bliss Medical Centre,-1.289396,36.793048,hospital
+27, Kibra,Sarangombe,-1.31226715,36.77745932,7b6939b3c93b449f32eb52e8c2dba15511baa587,Lifecare Hospitals Kenya,-1.2893065,36.7930959,hospital
+28, Kibra,Sarangombe,-1.31226715,36.77745932,9f928a06ef4ff992ab65e80f112b6079b5cf2056,"Eagle Eye & Laser Centre, Lavington",-1.2863085,36.763081,hospital
+29, Kibra,Sarangombe,-1.31226715,36.77745932,fbe267db5daabd395334cdd6629d091006903edc,Pulse Healthcare Ltd,-1.288792,36.7965372,hospital
+30, Kibra,Sarangombe,-1.31226715,36.77745932,978701d70bbbf153ce28e2f26219296a0dbf400b,Nairobi ENT Clinic,-1.2970926,36.8039095,hospital
+31, Kibra,Sarangombe,-1.31226715,36.77745932,f5ecea7969f0a610bc1c5a924547699f5952e050,Surgeoderm Clinic,-1.2882247,36.7963598,hospital
+32, Kibra,Sarangombe,-1.31226715,36.77745932,899c38ebf35087eefb93086ddc85bf528deb422f,Texas Cancer Centre (Inpatient),-1.289095,36.797983,hospital
+33, Kibra,Sarangombe,-1.31226715,36.77745932,7771d83afb8507c07464e00e843f6b03b1a23758,Africa Radiology Technology Institute,-1.2947182,36.8055591,hospital
+34, Kibra,Sarangombe,-1.31226715,36.77745932,087ad81024f0fef6e7001a76cd2410f49bd3cb7e,Meridian Medical Centre,-1.2948522,36.8050602,hospital
+35, Kibra,Sarangombe,-1.31226715,36.77745932,ff4e2b1ac471513b0ae65756df10cb43581af4af,Silverdine Medical Center,-1.29602,36.8079463,hospital
+36, Kibra,Sarangombe,-1.31226715,36.77745932,4f8b6fc82639cbaa8e8787436eab8bc2ccd9a32b,Sinus Medical centre,-1.295891,36.808192,hospital
+37, Kibra,Sarangombe,-1.31226715,36.77745932,11ff6aecfa6c806399a0999e821da248d1b246f2,Metropolis Star Lab Kenya Limited,-1.2983233,36.808613,hospital
+38, Kibra,Sarangombe,-1.31226715,36.77745932,338a088f539243d2aa3091c5d8e914de9a85a9d8,Aga khan Hospital,-1.294256,36.80655399999999,hospital
+39, Kibra,Sarangombe,-1.31226715,36.77745932,429fe030a0121de9f9191c26afed02a399d3ee2a,The City Cardiac Centre,-1.2969859,36.8084842,hospital
+40, Kibra,Sarangombe,-1.31226715,36.77745932,d52adbf120b4a74363aec4509e262d5eda576bfd,Apex Medical Services,-1.2907261,36.8050729,hospital
+41, Kibra,Sarangombe,-1.31226715,36.77745932,829b3b2ceddfb401bd615837718470c40c78250c,AAR Healthcare Williamson Outpatient Centre,-1.294441,36.809241,hospital
+42, Kibra,Sarangombe,-1.31226715,36.77745932,cb76974ce4398402feb46bf12ef998bfc4792ce2,Midhill Hospital,-1.291332,36.748098,hospital
+43, Kibra,Sarangombe,-1.31226715,36.77745932,d673aa5a2bb601f44c31df34c9b97e115ebbf5e0,Pathway International,-1.2986041,36.81135829999999,hospital
+44, Kibra,Sarangombe,-1.31226715,36.77745932,0eb507115dd603ea2d9d9cd0871a6730155bb890,Better Living Hospital,-1.2892383,36.80844800000001,hospital
+45, Kibra,Sarangombe,-1.31226715,36.77745932,a8064349ea9ba3acced6121eb865b11cbeaf3393,Medical Students Elective Programme International,-1.2991588,36.81344349999999,hospital
+46, Kibra,Sarangombe,-1.31226715,36.77745932,ce2a54dacde45131fbf15b480ea73d4ad9081d50,Gertrude's Children's Hospital,-1.3123203,36.8169421,hospital
+47, Kibra,Sarangombe,-1.31226715,36.77745932,ea6ebdda17ae8f525a63323f1b717bba7119353e,Kileleshwa Medical Plaza,-1.2753612,36.7890441,hospital
+48, Kibra,Sarangombe,-1.31226715,36.77745932,c482aedafaf908d0f15b82668616b7ed495697f8,Aga khan Hospital,-1.302798,36.815475,hospital
+49, Kibra,Sarangombe,-1.31226715,36.77745932,5df79f7eb06a0e6077259f9dcce57bb785de0b7a,Resolution Health,-1.3121614,36.81698259999999,hospital
+50, Kibra,Sarangombe,-1.31226715,36.77745932,29fa0e16b768d2396c20423e0ce52dcb87550e60,The Aga Khan Hospital,-1.3122653,36.8170885,hospital
+51, Kibra,Sarangombe,-1.31226715,36.77745932,19664d816a107fda0cb470b67a67ac6b45b853b3,Hope Ear Nose and Throat Clinic,-1.3137622,36.8174071,hospital
+52, Kibra,Sarangombe,-1.31226715,36.77745932,5fa6ac70a0c070b03b8a8db26e63061b596aed5e,Sky Hill Medical Centre,-1.2812408,36.7521992,hospital
+53, Kibra,Sarangombe,-1.31226715,36.77745932,1ea55c1e1c99783ad4f02a49a162cda432aea915,Nairobi Women's Hospital,-1.2935706,36.7960926,hospital
+54, Kibra,Sarangombe,-1.31226715,36.77745932,6bdd66374394d71a4526061605a8a2ef3c28b935,Lords Healthcare Ltd,-1.2927259,36.8159929,hospital
+55, Kibra,Sarangombe,-1.31226715,36.77745932,1ed71c27677f6b07f97735f92b8c9980e53e11c4,Coptic Hospital,-1.2982966,36.7975012,hospital
+56, Kibra,Sarangombe,-1.31226715,36.77745932,42fa7f92fe3e01df66655f5ca39109e54ad70ef9,Bliss Healthcare LTD - Nairobi West Clinic,-1.3224253,36.8196442,hospital
+57, Kibra,Sarangombe,-1.31226715,36.77745932,3084c59c65fdea5edf553b73ea014b5f9eeb2fd2,The Nairobi Women's Hospital - Adams,-1.2989769,36.7818374,hospital
+58, Kibra,Sarangombe,-1.31226715,36.77745932,ecc8e1d36bc25232d14e877ef7e4af4d07488228,Kenya Defense Forces Memorial Hospital,-1.3115122,36.80416520000001,hospital
+59, Kibra,Sarangombe,-1.31226715,36.77745932,fe8e7f164c41fea2b0d28311a634603e23f80ad9,St Mary's Mission Hospital,-1.3223226,36.77423590000001,hospital
