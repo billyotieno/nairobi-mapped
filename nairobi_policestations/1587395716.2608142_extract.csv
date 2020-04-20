@@ -1,0 +1,5 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,9ab45427f00be1d400f3e4af61b8cf489df2dc0c,Kiambu Police Station,-1.1731839,36.83220780000001,police
+1, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,03df24a553f1bc7f41b7fd86ef83e5c751d47d7a,Ruturu Police Post,-1.153053,36.8835762,police
+2, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,fd3ba463f5a8a3cde8c963e9f9c5bb89c6b910bb,Kihingo AP post,-1.1566854,36.8220218,police
+3, Dagoretti North,Gatina,-1.1655719999999998,36.85526373,b36c6e8009807dd89f5dee3bcf34b6af422d015a,Kiamumbi Police Station,-1.1871466,36.89213279999999,police

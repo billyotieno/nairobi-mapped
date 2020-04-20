@@ -9,7 +9,7 @@ def main():
     hospice_df = dd.read_csv("*.csv")
     df = hospice_df.compute()
     df = df.iloc[:, 1:]
-    df.to_csv("consolidated\combined_nairobi_supermarkets.csv", index=False)
+    df.to_csv("consolidated\combined_nairobi_policestations.csv", index=False)
 
 
 if __name__ == "__main__":

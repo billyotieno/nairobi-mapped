@@ -57,7 +57,7 @@ def main():
 
     print(os.getcwd())
     nairobi_df = pd.read_csv \
-        ('C://Users//bootieno//Desktop//PyCharmProjects//LocationSearch//'
+        ('C://Users//botieno//PyCharmProjects//nairobi-mapped//'
          'nairobi_constituencies//nairobi_consituencies.csv')
 
     print(nairobi_df.head())

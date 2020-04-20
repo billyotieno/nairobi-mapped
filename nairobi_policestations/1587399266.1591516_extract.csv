@@ -1,0 +1,61 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,75b561dd3f67e500153fedd17027f3fac31edaa8,Kilimani Police Station,-1.2914363,36.79524239999999,police
+1, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,605989cc4c1b81083f7368418af4d0bfac362d66,Muthaiga Police Station,-1.2592718,36.84302469999999,police
+2, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,2a7e5ef74ff6779617db925c8d53cf1bbd58bfb9,Kenya Police,-1.2844257,36.8597685,police
+3, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,d6bf4c9d8cf84d523440d3e0771b408f7515d8d0,Central police,-1.2794229,36.8182285,police
+4, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,2c902b778e4eb52c3f00f331a077e7b3d0432989,Kileleshwa Police Station,-1.2754653,36.7942262,police
+5, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,d002b0e6cc65412ab9c54810cb3cde1a2d773c35,Parklands Police Station.,-1.2652668,36.8121225,police
+6, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,a7d48e30583527860d814e95c67bca1c18c844c0,Parliament Police Station,-1.2909972,36.8206623,police
+7, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,18a6c0c254454e582165496e1991af3e41387f05,"National Police HQ, Jogoo Hs",-1.2882657,36.82450720000001,police
+8, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,8d7805e00e10d6561023a40a360d05923b9a8081,CBD police post,-1.2843921,36.8261914,police
+9, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,58a2a355baf084509e499f58c354b4c5466ea5a3,Vigilance House,-1.2896696,36.82361849999999,police
+10, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,cb8dd26226176548ba7bf5002c3c065545740991,Kenya Police Service Headquarters,-1.2896696,36.82361849999999,police
+11, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,0d7b73ff26976d3ad960abe1dfdb42ba30d06524,Kenya Police Staff Sacco Head Office,-1.2730178,36.819348,police
+12, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,68006201ef944f6f35b0b59ad1bc85efc864adbc,County Police H Q,-1.2900593,36.8082289,police
+13, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,0d54256604b1f17cdf45e64bcc95acd2e2b6624f,"Administration Police Post, Ngara",-1.2759567,36.8258852,police
+14, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,06ab1448bd693a09ac2870dcdeb107552fec61c2,Criminal Investigation Department,-1.2896794,36.8068039,police
+15, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,82b35bbf44909c17e4fc1d5e6d926b052c1623f6,The Kenya Railways Police Divisional Criminal Investigation Officer,-1.2923165,36.8265101,police
+16, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,5822b1cba54d422561700aeb95e33d2d3f8af9f0,The Commandant Kenya Railways Police,-1.2922377,36.82671370000001,police
+17, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,d1f68a44a129569c1c3384390edbaa18707bdf55,Railways Police Station,-1.2920604,36.8270392,police
+18, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,fc661bbc81d532e7752a873eaad96b5baa1bbef5,PCIO Railways Police Office,-1.291991,36.8272421,police
+19, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,631b554addc3e0730b9638389f567ebf55b555eb,Kenya Railways $ Ports Police Station,-1.2922619,36.8272823,police
+20, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,cd4a745fb3ef896be6b8bb286d32fed1240efb4e,Capitol Hill police station,-1.2960754,36.8125856,police
+21, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,f5bb1a2b4c6bf7f5ab413fd8f12909691ed51ccc,Kamukunji Police Station,-1.2845298,36.8333116,police
+22, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,dc718b252a705fbcf6d311917cd56fc113be2f43,Nairobi Area Traffic Police Headquaters,-1.2967526,36.8082039,police
+23, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,692ff3391e426a01eab3cbd03fd2f83c9b5c99a1,ATPU,-1.2974599,36.8086939,police
+24, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,c66b3f4395e35b467a30fb548fcf0400e781527d,Muthurwa Police Station,-1.2881457,36.8352485,police
+25, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,53a81a025942e2775e735406230a5a34923c51df,Muoroto Police Station,-1.2863571,36.8359673,police
+26, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,0b2c09236e24a9adda7fca8de5f04bdae331061b,Starehe Division Police Station,-1.2696276,36.83503380000001,police
+27, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,3608713fcbc9532e5a361bf193012d59c9e08722,Kenyatta Hospital Police Post,-1.3033451,36.806308,police
+28, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,7cd4054e6131e4408833e09f4122db587e547117,Pangani Police Station,-1.2699696,36.8360283,police
+29, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,e1f83499f19349e7890152f200081e634dd5b311,Kenya Police Station,-1.3049243,36.8252611,police
+30, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,bd99c90fd51fca9ae71b0b9816da8a0adb923e62,Industrial Area Police Station,-1.300662,36.834154,police
+31, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,3d51dfa506d4c653d4d5e5b7df187ed7f5376e95,A. P Camp City Park,-1.2630076,36.8318196,police
+32, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,f8ed89b9049e622066b1cbe3f2bee391cb25af75,Police Post,-1.3080962,36.82269569999999,police
+33, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,60c4b345c11688a8da8a1d2253ab8ffcb3ea233f,Administration Police Service,-1.2843614,36.8427449,police
+34, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,ee0d77e0a6d029adaf38f0edc30b89900245e0f8,A.P BASE Pangani,-1.2628283,36.83562729999999,police
+35, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,ee444fcbd4b529ace00e22b2b8218770f038c2bc,Pumwani Police Post,-1.279727,36.8459428,police
+36, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,3a752fc801e9fd567150f666eeec504268efa885,Eastleigh North Police Post,-1.2796724,36.8465228,police
+37, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,a2cfa14c9242aeb25531ddcb4f2cf1ff59e678c9,PEU CAMPS PHASE II,-1.2536191,36.8198677,police
+38, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,00dd06e64c4bd14f966ff3200a5cada35b615516,The Kenya Police Shauri Moyo Police station,-1.2915455,36.846277,police
+39, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,6812683c96022ca533f6d5443192b4d3cc1b7121,Shauri Moyo - bcok - bridge hope ministries,-1.2911276,36.84642789999999,police
+40, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,42cae2bc2e9a6566c0f39d49f33346a29fec60f0,Shauri Moyo Police Station,-1.2908702,36.84652980000001,police
+41, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,395de944a49ae8f4c4a2e8ae05799d35c3e7fd78,California Police Post,-1.282545499999999,36.8487734,police
+42, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,e95376b6ef5750789985f76641bd98039ba4faae,Prison Service Officers Mess,-1.3148708,36.8154644,police
+43, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,259bbfc38432fe6a3d1e823b0fe2bd7ce9add1da,Wilson Airport Police Canteen,-1.3154359,36.81559710000001,police
+44, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,cb7672db3b57d850e4f22cc43c95fc06f88302af,Sgb Unit Shauri Moyo Ap Camp,-1.290291,36.85020980000001,police
+45, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,fb3b7ef83e762fa1ec33fffcc102187882dd0293,Administration police post,-1.3111319,36.7976079,police
+46, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,eda3b74a69682a0310ffcb3543a5e81f7ad4a7cf,Wilson Airport Police Station,-1.3174386,36.8154806,police
+47, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,6ab113942abe6fba397ee4563c32bb84e09e34f9,Golf Course AP Post,-1.3113164,36.797439,police
+48, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,85b7f6821cdf72dbdc27a7bce2ef5f5527b2485c,Makongeni Police Station,-1.2947258,36.8505311,police
+49, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,25ec76593cfd88b081538d8faf59e3d9785348d1,Muthaiga Police Station,-1.2593838,36.84323,police
+50, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,602ba4b6071f075aaab0777220e980ec18f72d6c,Kenya Police CID Headquaters,-1.3149877,36.8327487,police
+51, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,fbb5ec7b18dbbf9d352dca970e4b840484d25137,National Police Airwing,-1.3187418,36.8151135,police
+52, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,13505a3f037ed540c8e872f552948640c524d97d,CID Police Traning School,-1.3165115,36.83080169999999,police
+53, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,4d874547e5459a83e49f62b1ef05da42f0e81ba5,Kenya Prisons Staff Training School,-1.3188839,36.8091425,police
+54, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,acc311ffbc4990710f735fc808a08919052cca42,Administration Police Camp Eastleigh,-1.2690263,36.8520991,police
+55, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,e75205bf1557eae96eb9ab29661a2c18517a094c,CID Police Station,-1.3193162,36.8295004,police
+56, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,e7fa0e59544c328752c37dea816f296f837d62f2,The Kenya Police - Akila Police Post,-1.3228451,36.8303101,police
+57, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,1589237eb879ecbf9896d150f36d78fff91d4108,Akila III Police Post,-1.3228878,36.8302826,police
+58, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,7c0bdf9525b673e9b77b3acea7cf35f9e77723ba,Outpost Community Policing,-1.3112323,36.78515549999999,police
+59, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,274931aae1fc2015013fae1f441d194850098245,D.C.I HQs,-1.250186,36.847075,police
