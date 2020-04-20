@@ -73,7 +73,7 @@ def main():
         "grocery_or_supermarket"
     ]
 
-    place_type = 'supermarket'
+    place_type = 'police'
 
     for k in range(0, len(nairobi_df)):
 
