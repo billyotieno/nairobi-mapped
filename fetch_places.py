@@ -72,7 +72,7 @@ def main():
         "grocery_or_supermarket"
     ]
 
-    place_type = 'liquor_store'
+    place_type = 'liquor_store' # Change this variable to fetch any place you'd want
 
     for k in range(0, len(nairobi_df)):
 

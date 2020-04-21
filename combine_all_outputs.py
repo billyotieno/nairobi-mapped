@@ -8,6 +8,14 @@ from clean_data.remove_duplicates import *
 
 
 def consolidate_data_extracts(extracts_file_path="*.csv", output_file_name="default"):
+    """
+    Function: combines all the data extracts into a single CSV and returns a tuple of FILE_PATH and FILE_NAME
+        args
+            : extracts_file_path: the file path to the csv extracts
+            : output_file_name: file_name to save the final consolidated file
+        returns
+            : tuple of consolidated csv file path and output_file_name
+    """
     ddf = dd.read_csv(extracts_file_path)
     df = ddf.compute()
     df = df.iloc[:, 1:]
@@ -24,6 +32,7 @@ def consolidate_data_extracts(extracts_file_path="*.csv", output_file_name="defa
 
 
 def main():
+    """ The main function consolidates file combination and phase 1 data cleaning using harvesine distance"""
     # Test Function (consolidate_data_extracts)
     df, file_name = read_file(
         *consolidate_data_extracts(output_file_name="combined_nairobi_liqour_stores")
