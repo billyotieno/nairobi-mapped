@@ -3,7 +3,7 @@ import dask.dataframe as dd
 import os
 import shutil
 import glob
-from LocationSearch.clean_data.remove_duplicates import *
+from clean_data.remove_duplicates import *
 # from nairobi-mapped.clean_data.remove_duplicates import *
 
 
