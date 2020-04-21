@@ -1,0 +1,41 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Kibra,Lindi,-1.31516185,36.79284123,7ac5f5a16158a0bd4ac9539c0a910601a85c32d2,Geostan Liquor Store,-1.3232436,36.7865972,liquor_store
+1, Kibra,Lindi,-1.31516185,36.79284123,4120fd662e2ef518f0713566574acf32e5c53d35,Chandarana Foodplus Supermarket (Adlife Plaza Branch),-1.2945242,36.7872416,liquor_store
+2, Kibra,Lindi,-1.31516185,36.79284123,614ef6c28e242943ad3bfa736b43709af6dd9f85,Whisky Sundays,-1.2944573,36.7986498,liquor_store
+3, Kibra,Lindi,-1.31516185,36.79284123,80861a0c58fdc6b182119e20c302a9ddfa0202e7,The Well - Wine Masters,-1.3040828,36.77104490000001,liquor_store
+4, Kibra,Lindi,-1.31516185,36.79284123,1c217ad7c1bb6022f98f97244a26ee223b04538f,Alcohol Delivery Nairobi,-1.2835128,36.8175093,liquor_store
+5, Kibra,Lindi,-1.31516185,36.79284123,7c5d034c8a5f43afd5764c051ddfbd0c692930ed,Gallo Sachs Wine & Spirit,-1.287628,36.762308,liquor_store
+6, Kibra,Lindi,-1.31516185,36.79284123,7a9bef5a87805ae08db8c578ce5e04fe5f272aeb,Chandarana Foodplus Supermarket (Lavington Branch),-1.2799422,36.7707551,liquor_store
+7, Kibra,Lindi,-1.31516185,36.79284123,8fa21717c3f2f2af89a32cef35459d83249f0217,Urban WineHouse,-1.2815,36.8172535,liquor_store
+8, Kibra,Lindi,-1.31516185,36.79284123,dd466b4f79c0dc865561d226f14b44b7d30b8524,NAIROBI DRINKS - Alcohol Delivery Kenya,-1.2828549,36.8217024,liquor_store
+9, Kibra,Lindi,-1.31516185,36.79284123,f8598fe5e6e86e36d62fcc712d1854c0b62dd7c1,Nairobi Alcohol Delivery-Drinks Delivery Kenya,-1.280676,36.819278,liquor_store
+10, Kibra,Lindi,-1.31516185,36.79284123,0008ba44b01fe89cb166792953ac3f69b75ea331,Museum Hill Wines,-1.2814593,36.82065459999999,liquor_store
+11, Kibra,Lindi,-1.31516185,36.79284123,28a0791091a19671a987872bd88c5b627555a047,Park Wines,-1.3226606,36.7874065,liquor_store
+12, Kibra,Lindi,-1.31516185,36.79284123,6d10a53db683458dc5faea849fdfbdc5221c0824,Supersize Wine & Spirits,-1.323,36.7870733,liquor_store
+13, Kibra,Lindi,-1.31516185,36.79284123,8327590310c1ae309a6985b3220d4e54352b563c,Goldminds Wines & Spirit,-1.3233776,36.7864874,liquor_store
+14, Kibra,Lindi,-1.31516185,36.79284123,497158ecc475fe34477feea592d488f38dce9abb,Corner Point Agencies,-1.3063586,36.7868856,liquor_store
+15, Kibra,Lindi,-1.31516185,36.79284123,0bcdb05a44322f324d3af5920ac5bffe156fbc98,Bralales Wines & Spirits,-1.3244632,36.7847505,liquor_store
+16, Kibra,Lindi,-1.31516185,36.79284123,24b71987fd3fbe01ba51f92709dce5037d2500fd,G4 Liqoure,-1.3244954,36.7847344,liquor_store
+17, Kibra,Lindi,-1.31516185,36.79284123,498c436d1907c0207f464404675e1f3f48aef8df,GUDU Wines & Spirits H-9,-1.3163375,36.8068532,liquor_store
+18, Kibra,Lindi,-1.31516185,36.79284123,3f0983b429fe7ad0500e5930110c38fd203e84e3,Baraka Wines & Spirits,-1.3122863,36.7787671,liquor_store
+19, Kibra,Lindi,-1.31516185,36.79284123,5f115a402c3b490abce611208f722554943f02b5,Lorwin Agencies Wines and Spirits,-1.3234103,36.77941289999999,liquor_store
+20, Kibra,Lindi,-1.31516185,36.79284123,66111fb8df2a76019ae39e284b4be9ac3d6d1c65,Bubbles Wines And Spirit,-1.3077218,36.7779372,liquor_store
+21, Kibra,Lindi,-1.31516185,36.79284123,c722d3ee0cec96546380f7152b5528d220933ce3,The Bowery,-1.2983666,36.7913199,liquor_store
+22, Kibra,Lindi,-1.31516185,36.79284123,957f02663e92b969974fb03dcc414f2fda312d4d,Steff Wines & Spirit,-1.3038341,36.7796426,liquor_store
+23, Kibra,Lindi,-1.31516185,36.79284123,227c5caf5d416a48efce860d32fe5c39fca560ae,Asche Wines,-1.2978097,36.7910966,liquor_store
+24, Kibra,Lindi,-1.31516185,36.79284123,b8039f0b0ea3d15e52dfcc5138f5772c61dce2e4,Beehive Wines & Spirits,-1.3063324,36.777771,liquor_store
+25, Kibra,Lindi,-1.31516185,36.79284123,5e1645c5cacedbc62f7e2382928b0436e6fe6873,Kwench Valley,-1.3004774,36.7826728,liquor_store
+26, Kibra,Lindi,-1.31516185,36.79284123,c947035d608ed7a44fca005940627734bab2695c,Oaks & Corks - Drinks Delivery Nairobi,-1.298952,36.78464700000001,liquor_store
+27, Kibra,Lindi,-1.31516185,36.79284123,c77cdd637f9496dd4867b6b1f405430fe063d991,SUNVALLEY WINES AND SPIRITS,-1.3260261,36.7781442,liquor_store
+28, Kibra,Lindi,-1.31516185,36.79284123,76519d93dc6fffdbd4f20921e19948340c65b414,Havens Wine & Spirits,-1.300595,36.7817038,liquor_store
+29, Kibra,Lindi,-1.31516185,36.79284123,a549b00f7368a57293df0f0f77e6ddf6590f68f2,Haven Wines & Spirits (Green House),-1.300476,36.781773,liquor_store
+30, Kibra,Lindi,-1.31516185,36.79284123,f9dd8414af75f38f7fd73c56e5130958c59d2167,Trigi Wines & Spirits,-1.3018751,36.7801153,liquor_store
+31, Kibra,Lindi,-1.31516185,36.79284123,fd0f266055b23967ed59130cffa163efda1e3c5a,Anchor Wines And Spirits,-1.325963,36.77794799999999,liquor_store
+32, Kibra,Lindi,-1.31516185,36.79284123,8406a9e0b881eafdd46bf7fe4d1c516b68a6f667,Platinum Liquor World,-1.3260498,36.7778476,liquor_store
+33, Kibra,Lindi,-1.31516185,36.79284123,2e1b9fb1b605c74c261c5023367e86994639fca8,Cogno Ventures Ltd,-1.3108408,36.7742993,liquor_store
+34, Kibra,Lindi,-1.31516185,36.79284123,8f1a369e87a9275c8175b2cb2decbc3968a2bd22,K & L Wines And Spirits,-1.3058632,36.77582599999999,liquor_store
+35, Kibra,Lindi,-1.31516185,36.79284123,8a3089752f172bf0b8a4d7b13b8ce033f9e156e9,Legacy,-1.2951738,36.78630569999999,liquor_store
+36, Kibra,Lindi,-1.31516185,36.79284123,9115b81f348ac4a989afb76e6e31a7134e9340c3,Wines And Spirit,-1.3019953,36.7740807,liquor_store
+37, Kibra,Lindi,-1.31516185,36.79284123,4ba07522c77cf4120cb852ad266fe8b7307c1daf,KEROM's WINES & DISTRIBUTORS,-1.301371,36.8113533,liquor_store
+38, Kibra,Lindi,-1.31516185,36.79284123,77c4b60b2029a8c22863e1739964a36d976c87ec,Calmost Commercial Enterprise Ltd.,-1.2928462,36.7861904,liquor_store
+39, Kibra,Lindi,-1.31516185,36.79284123,f9cc999ea0af89984ed322db4b3a2f907b16268d,REAL WINES & SPIRITS,-1.3098585,36.8156065,liquor_store

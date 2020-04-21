@@ -57,8 +57,7 @@ def main():
 
     print(os.getcwd())
     nairobi_df = pd.read_csv \
-        ('C://Users//botieno//PyCharmProjects//nairobi-mapped//'
-         'nairobi_constituencies//nairobi_consituencies.csv')
+        ('nairobi_constituencies//nairobi_consituencies.csv')
 
     print(nairobi_df.head())
     lat_long = (nairobi_df["latitude"], nairobi_df["longitude"])
@@ -73,7 +72,7 @@ def main():
         "grocery_or_supermarket"
     ]
 
-    place_type = 'police'
+    place_type = 'liquor_store'
 
     for k in range(0, len(nairobi_df)):
 
