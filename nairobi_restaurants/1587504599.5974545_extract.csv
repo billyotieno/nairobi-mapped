@@ -1,0 +1,61 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Embakasi South,Kwa Njenga,-1.3166386,36.884663,e501af19e9e0387ec894741ddc0f84603856a1a9,Chomazone,-1.328652,36.881374,restaurant
+1, Embakasi South,Kwa Njenga,-1.3166386,36.884663,9a033b1ac3efff3423a4ad2de5a67c8e4b65b391,Steers restaurants,-1.301344,36.88817099999999,restaurant
+2, Embakasi South,Kwa Njenga,-1.3166386,36.884663,0737442b2ccd0c20f68a6b98d785086fd2544593,SaharaClassicGardens,-1.3271671,36.8826699,restaurant
+3, Embakasi South,Kwa Njenga,-1.3166386,36.884663,71a3a7e143c0943ad14063933968df0113f445f2,Winway Butchershop,-1.3174011,36.89588789999999,restaurant
+4, Embakasi South,Kwa Njenga,-1.3166386,36.884663,9e216278d12d0794c2a9d92898c9632ddf3e2b11,Chicken Inn,-1.3281535,36.8917572,restaurant
+5, Embakasi South,Kwa Njenga,-1.3166386,36.884663,c7c124a53c550a6b192552b5864d91fd16888796,Pizza Inn,-1.3281535,36.8917572,restaurant
+6, Embakasi South,Kwa Njenga,-1.3166386,36.884663,07b371722c16212987884f67372da38d1fd67ae3,Pizza Inn-Embakasi,-1.328261,36.891853,restaurant
+7, Embakasi South,Kwa Njenga,-1.3166386,36.884663,d715d9ea254b6004492561327ec558937e9f0105,Chicken Inn-Embakasi,-1.328382,36.891985,restaurant
+8, Embakasi South,Kwa Njenga,-1.3166386,36.884663,bfab97c48f814804b78003f64a0bc5a8e8201110,City Cabanas Restaurant,-1.3303098,36.888662,restaurant
+9, Embakasi South,Kwa Njenga,-1.3166386,36.884663,d0e9389b51e22c5f080282922473be33c29e5142,Flamegrill Restaurant-donholm,-1.3002709,36.8891347,restaurant
+10, Embakasi South,Kwa Njenga,-1.3166386,36.884663,d608f8459077ea631c003941e81eb7072ed12b01,Simbisa brands kenya,-1.3305857,36.8717204,restaurant
+11, Embakasi South,Kwa Njenga,-1.3166386,36.884663,d552ae3bb83473ec54519613941e4cc26195c898,Creamy Inn-Buruburu,-1.295145,36.877069,restaurant
+12, Embakasi South,Kwa Njenga,-1.3166386,36.884663,5bb86e02f9750c5e9d75dada126e623bda3489c8,Chicken Inn-Buruburu,-1.295163,36.87697000000001,restaurant
+13, Embakasi South,Kwa Njenga,-1.3166386,36.884663,3cc81b6c0e56f61215b8efd3c51aa7e554e5bd17,Pizza Inn-Buruburu,-1.29515,36.87685400000001,restaurant
+14, Embakasi South,Kwa Njenga,-1.3166386,36.884663,64209847ae924827c52c6108ceb18db9e27ae05f,Eagles Furnished Apartments,-1.308534,36.909156,restaurant
+15, Embakasi South,Kwa Njenga,-1.3166386,36.884663,b2654a60641d29ad79d0f825ce5886e6f9a45cfe,NAIROBI,-1.3084394,36.911662,restaurant
+16, Embakasi South,Kwa Njenga,-1.3166386,36.884663,8be407a4c51a0f694c3903a91cbb51e906397f45,Ricos Place,-1.31146,36.91344600000001,restaurant
+17, Embakasi South,Kwa Njenga,-1.3166386,36.884663,4ed9cc32255c28e6195ad0f288eee00bc382ca5b,pizza inn,-1.3114656,36.9139324,restaurant
+18, Embakasi South,Kwa Njenga,-1.3166386,36.884663,d909520f208fc157c0f4593042807699a0d5169d,Oloiboni Hotel,-1.2873584,36.8944116,restaurant
+19, Embakasi South,Kwa Njenga,-1.3166386,36.884663,cdbb733b1fb322ce6fef0f3171a7b0e175edfe66,Red Garnet @ Panari,-1.3288537,36.85607049999999,restaurant
+20, Embakasi South,Kwa Njenga,-1.3166386,36.884663,26968f43e7c6582ada031432906f2807cf192f91,Pizza Inn - Greenspan,-1.2891844,36.9008352,restaurant
+21, Embakasi South,Kwa Njenga,-1.3166386,36.884663,3437528e6dd26d255791cb86f041bf5a9754196c,Chicken Inn-Greenspan,-1.28872,36.900648,restaurant
+22, Embakasi South,Kwa Njenga,-1.3166386,36.884663,fb23fac92cf86a55a2c1b248e0fb3b017c6361ec,Bubblez Lounge,-1.288851,36.9010055,restaurant
+23, Embakasi South,Kwa Njenga,-1.3166386,36.884663,8dd47c9cd960f5e58a137c83b96f010babcb7d4f,Mc Fry's-Mombasa Road,-1.3273102,36.8528478,restaurant
+24, Embakasi South,Kwa Njenga,-1.3166386,36.884663,142789fe39e8082a57f609db99a9187189fa4ea2,Munchies,-1.2833035,36.8798713,restaurant
+25, Embakasi South,Kwa Njenga,-1.3166386,36.884663,0b5946792e09ae38ee345caa79f1f44b68425ad5,KFC DRIVE THROUGH,-1.3257228,36.8500545,restaurant
+26, Embakasi South,Kwa Njenga,-1.3166386,36.884663,3e5e903d744f39cf887e3e2d8a48cae9cf8e1a04,Just Fish,-1.309681,36.920623,restaurant
+27, Embakasi South,Kwa Njenga,-1.3166386,36.884663,87a1e13232dedf624a752d8fd981deea0424c270,Tamaduni Foods and Caterers,-1.2798866,36.8777132,restaurant
+28, Embakasi South,Kwa Njenga,-1.3166386,36.884663,0f34a55ba18c7f046c32af34cd0d79de05522650,Plan B pub,-1.2787121,36.8884608,restaurant
+29, Embakasi South,Kwa Njenga,-1.3166386,36.884663,4bfef8451a568cb30236309c9460b397ac4c8313,Oilibya Buruburu,-1.2786102,36.8780297,restaurant
+30, Embakasi South,Kwa Njenga,-1.3166386,36.884663,2da000a9fb515778169997b5bc8e5e2a2a9ed56b,Eagles Steakhouse,-1.326171,36.847503,restaurant
+31, Embakasi South,Kwa Njenga,-1.3166386,36.884663,b780caef2755005a5e6b67b3d3ecfb9c4d194cb2,Empire Lounge grill,-1.2799215,36.89735770000001,restaurant
+32, Embakasi South,Kwa Njenga,-1.3166386,36.884663,35210cb194140933b621de7bb7acfc4a350da1cc,Ngatrick Cyber Cafe,-1.278995,36.8975897,restaurant
+33, Embakasi South,Kwa Njenga,-1.3166386,36.884663,23c1785fdbdc56dddaca4ead39d4c57e010c29a7,Big Five Restaurant,-1.3269355,36.8457694,restaurant
+34, Embakasi South,Kwa Njenga,-1.3166386,36.884663,7724dc6b25e09e296eb3baf06b5221796a4c13ee,Flame Grill Kayole,-1.2816088,36.9053131,restaurant
+35, Embakasi South,Kwa Njenga,-1.3166386,36.884663,e97acd60755822c1701e0e7b2eeb72de631aa46f,Peppercorn,-1.3240428,36.8426812,restaurant
+36, Embakasi South,Kwa Njenga,-1.3166386,36.884663,713998c6fee711f27bfc58586295890285b51120,Big Square - BelleVue,-1.321128,36.84178430000001,restaurant
+37, Embakasi South,Kwa Njenga,-1.3166386,36.884663,736a44b99dece2bd9a005df87236308287a2d29c,"Big Square Branch, Shell Bellevue",-1.3209599,36.8414153,restaurant
+38, Embakasi South,Kwa Njenga,-1.3166386,36.884663,0cce3e3d7e0db2d61495582917e97f66fd8b60ff,beautiful cakes,-1.2728223,36.8762442,restaurant
+39, Embakasi South,Kwa Njenga,-1.3166386,36.884663,c57c2c09268eb688a0e43f30d55f9f6ca7080a55,Spinners Bar and Restaurant,-1.3153976,36.8951222,restaurant
+40, Embakasi South,Kwa Njenga,-1.3166386,36.884663,f234db986ac61a2f6825b14b2b86889cb2e96a17,Java House - Greenspan Mall,-1.289474,36.90077060000001,restaurant
+41, Embakasi South,Kwa Njenga,-1.3166386,36.884663,c6a57a6deec60edb4e907e3b9c47d4edc83a65df,"Heshima Junior Bar and Restaurant, Kwa Njenga Nairobi",-1.3157781,36.8819947,restaurant
+42, Embakasi South,Kwa Njenga,-1.3166386,36.884663,c395b904e50632aefd6116c02c5080578065b46a,Kabarrnenge Omena Depot,-1.3144132,36.882962,restaurant
+43, Embakasi South,Kwa Njenga,-1.3166386,36.884663,d30ff370d1e77e05e56eb3423d1f08bef93c1567,Eichie Spice,-1.3217349,36.88297379999999,restaurant
+44, Embakasi South,Kwa Njenga,-1.3166386,36.884663,83ef78c5946ab2e6628ad93f4c42df10a9c0b17d,Church,-1.3171199,36.8900245,restaurant
+45, Embakasi South,Kwa Njenga,-1.3166386,36.884663,f2512d9dd9f041f19de814ad79f38e06f68156a3,Good fellas,-1.3127989,36.8884612,restaurant
+46, Embakasi South,Kwa Njenga,-1.3166386,36.884663,b14d323e5e9fbaafd64b7e099a0bd4fb17ef5b2a,Chicken Corner,-1.322691,36.884349,restaurant
+47, Embakasi South,Kwa Njenga,-1.3166386,36.884663,db5c80380c10a2345e19046289fa7bb335f4939a,Urembo Hotel,-1.3127888,36.8895373,restaurant
+48, Embakasi South,Kwa Njenga,-1.3166386,36.884663,cc55d92e86bb6b66f6c6227dc57e76b2404409d0,Galaxy Fry's,-1.3124215,36.8896313,restaurant
+49, Embakasi South,Kwa Njenga,-1.3166386,36.884663,8cb32143b01d472878877cb9acf04de7dc184f08,Baraka Hotel,-1.3137904,36.8906179,restaurant
+50, Embakasi South,Kwa Njenga,-1.3166386,36.884663,7a55a5aff9f1f4674af8acefad717446316efe10,Sofie Chips Cafe,-1.3137639,36.890743,restaurant
+51, Embakasi South,Kwa Njenga,-1.3166386,36.884663,b1d6522344b88464fc4d45d86bfd4338867bfd73,golden taste Cafe,-1.3227864,36.88745649999999,restaurant
+52, Embakasi South,Kwa Njenga,-1.3166386,36.884663,931d9fc715a0f2f6baa7f5dc6408fa929bbbe0c3,Sam Big Holidays Inn,-1.3119737,36.8895471,restaurant
+53, Embakasi South,Kwa Njenga,-1.3166386,36.884663,b460b553733294797192eb1248107a6a8161a083,Monte Carlo,-1.3155609,36.8914089,restaurant
+54, Embakasi South,Kwa Njenga,-1.3166386,36.884663,492a369e6cfbfc48f1ab6cbcc483847a51fd2cce,KK Inn,-1.31443,36.8911779,restaurant
+55, Embakasi South,Kwa Njenga,-1.3166386,36.884663,2060db611ec3e07af9ff29aa40cfc0a407a367ab,Villa Franca Bar & Restaurant,-1.3231465,36.881486,restaurant
+56, Embakasi South,Kwa Njenga,-1.3166386,36.884663,e671fb2539aecbb2f8223044924093e3f042e96a,Mama maisy maziwa fresh,-1.3159081,36.8919028,restaurant
+57, Embakasi South,Kwa Njenga,-1.3166386,36.884663,41c90d768bdbb6807bfb504cf8dba5ad925259f1,Royal Ken Chips,-1.3234146,36.8877165,restaurant
+58, Embakasi South,Kwa Njenga,-1.3166386,36.884663,2953d7e7a17ef4a2cc0d210f1e9ef44b33cf09b9,Royal Park Restaurant,-1.3233529,36.8881952,restaurant
+59, Embakasi South,Kwa Njenga,-1.3166386,36.884663,85bf31c6e85120b0d8f4ab815b9d051d348ee1c6,Pams Makuti Bar & Restaurant,-1.3235879,36.8877419,restaurant

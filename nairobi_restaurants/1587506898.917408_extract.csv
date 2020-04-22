@@ -1,0 +1,41 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Makadara,Maringo,-1.2920714,36.86572592,e4c45d55952104d539d3bc2e57ef31ba53dbc86e,Sentrim Hotels and Lodges,-1.2833955,36.8234749,restaurant
+1, Makadara,Maringo,-1.2920714,36.86572592,5624dd89edc8ee3d3e1c3decd7ad02fcd88157be,Ambassadeur Hotel,-1.2853437,36.8260786,restaurant
+2, Makadara,Maringo,-1.2920714,36.86572592,0e6977f5c48884d357571fdba6aa479aac5529dd,Java-capital centre,-1.316712,36.833977,restaurant
+3, Makadara,Maringo,-1.2920714,36.86572592,e501af19e9e0387ec894741ddc0f84603856a1a9,Chomazone,-1.328652,36.881374,restaurant
+4, Makadara,Maringo,-1.2920714,36.86572592,9a033b1ac3efff3423a4ad2de5a67c8e4b65b391,Steers restaurants,-1.301344,36.88817099999999,restaurant
+5, Makadara,Maringo,-1.2920714,36.86572592,55df4382d74a2c935e5fb9b4fe1594065fe9aa49,Kilimanjaro Food Court,-1.279041,36.850447,restaurant
+6, Makadara,Maringo,-1.2920714,36.86572592,4bfef8451a568cb30236309c9460b397ac4c8313,Oilibya Buruburu,-1.2786102,36.8780297,restaurant
+7, Makadara,Maringo,-1.2920714,36.86572592,c3afaebcd2cbbfcb15e57f4bdc95be5ac397b312,Landmawe Bar and Restaurant,-1.289261,36.83751,restaurant
+8, Makadara,Maringo,-1.2920714,36.86572592,0f34a55ba18c7f046c32af34cd0d79de05522650,Plan B pub,-1.2787121,36.8884608,restaurant
+9, Makadara,Maringo,-1.2920714,36.86572592,3cc81b6c0e56f61215b8efd3c51aa7e554e5bd17,Pizza Inn-Buruburu,-1.29515,36.87685400000001,restaurant
+10, Makadara,Maringo,-1.2920714,36.86572592,5bb86e02f9750c5e9d75dada126e623bda3489c8,Chicken Inn-Buruburu,-1.295163,36.87697000000001,restaurant
+11, Makadara,Maringo,-1.2920714,36.86572592,d552ae3bb83473ec54519613941e4cc26195c898,Creamy Inn-Buruburu,-1.295145,36.877069,restaurant
+12, Makadara,Maringo,-1.2920714,36.86572592,142789fe39e8082a57f609db99a9187189fa4ea2,Munchies,-1.2833035,36.8798713,restaurant
+13, Makadara,Maringo,-1.2920714,36.86572592,87a1e13232dedf624a752d8fd981deea0424c270,Tamaduni Foods and Caterers,-1.2798866,36.8777132,restaurant
+14, Makadara,Maringo,-1.2920714,36.86572592,4595a849dcf17c1b87aefe7dc3e993b207857f34,Kilimanjaro Food Court,-1.2789448,36.85078120000001,restaurant
+15, Makadara,Maringo,-1.2920714,36.86572592,0cce3e3d7e0db2d61495582917e97f66fd8b60ff,beautiful cakes,-1.2728223,36.8762442,restaurant
+16, Makadara,Maringo,-1.2920714,36.86572592,d0e9389b51e22c5f080282922473be33c29e5142,Flamegrill Restaurant-donholm,-1.3002709,36.8891347,restaurant
+17, Makadara,Maringo,-1.2920714,36.86572592,e893603e46f35dfe7b0517c091cbae59fd7bf02f,Oilibya Lusaka Road,-1.296962,36.83846700000001,restaurant
+18, Makadara,Maringo,-1.2920714,36.86572592,8608dc9a45db39ad747352cdb962ca4beb18a6d8,Rigz Fries Chicken,-1.3030171,36.8413159,restaurant
+19, Makadara,Maringo,-1.2920714,36.86572592,d909520f208fc157c0f4593042807699a0d5169d,Oloiboni Hotel,-1.2873584,36.8944116,restaurant
+20, Makadara,Maringo,-1.2920714,36.86572592,396a2b063868ae6b1cd402ec0a1d5c5bed73b48f,Pizza Inn-Lusaka,-1.298974,36.837171,restaurant
+21, Makadara,Maringo,-1.2920714,36.86572592,2a482d7aa6f01bae90dc8c15ea31a75a6a7a69fc,My Shop-Lusaka,-1.298727,36.837061,restaurant
+22, Makadara,Maringo,-1.2920714,36.86572592,6c4261d64b15e7a93f70ecdd422523871e0870d7,Creamy Inn-Lusaka,-1.29884,36.83702599999999,restaurant
+23, Makadara,Maringo,-1.2920714,36.86572592,23cd0a0c2eb51f5df1206a33a99c85362fca9cd3,Chicken Inn-Lusaka,-1.298791,36.836935,restaurant
+24, Makadara,Maringo,-1.2920714,36.86572592,b9b0dcc2e30a850b4e9b4b8e57f915eeaf8c0e00,Galitos-Lusaka,-1.298974,36.83685200000001,restaurant
+25, Makadara,Maringo,-1.2920714,36.86572592,4f7af782786c3f2a31508bbcb814d76298d0afc3,Mc Fry's-Butere Road,-1.304471,36.836835,restaurant
+26, Makadara,Maringo,-1.2920714,36.86572592,b780caef2755005a5e6b67b3d3ecfb9c4d194cb2,Empire Lounge grill,-1.2799215,36.89735770000001,restaurant
+27, Makadara,Maringo,-1.2920714,36.86572592,a455fb77d8de0af05001939510b81dc61df37858,African Dishes-Nairobi,-1.2826298,36.8324938,restaurant
+28, Makadara,Maringo,-1.2920714,36.86572592,d3e5489d155137dd3c7b5b424af5c0185931eddc,Mc Fry's-South B,-1.311671,36.83763,restaurant
+29, Makadara,Maringo,-1.2920714,36.86572592,35210cb194140933b621de7bb7acfc4a350da1cc,Ngatrick Cyber Cafe,-1.278995,36.8975897,restaurant
+30, Makadara,Maringo,-1.2920714,36.86572592,3437528e6dd26d255791cb86f041bf5a9754196c,Chicken Inn-Greenspan,-1.28872,36.900648,restaurant
+31, Makadara,Maringo,-1.2920714,36.86572592,7fc90dfd55c533b3398a85a9bb073ffdeb7243fc,Dovey fry's,-1.2828858,36.831794,restaurant
+32, Makadara,Maringo,-1.2920714,36.86572592,26968f43e7c6582ada031432906f2807cf192f91,Pizza Inn - Greenspan,-1.2891844,36.9008352,restaurant
+33, Makadara,Maringo,-1.2920714,36.86572592,fb23fac92cf86a55a2c1b248e0fb3b017c6361ec,Bubblez Lounge,-1.288851,36.9010055,restaurant
+34, Makadara,Maringo,-1.2920714,36.86572592,cd393fd61daf00f120ccce145e491a3ccf8c5eb9,Spears,-1.3110781,36.8357366,restaurant
+35, Makadara,Maringo,-1.2920714,36.86572592,91813d3ecb7b53b87f390618e60eaf06c8292ff9,Pizza-Inn,-1.3079463,36.8333118,restaurant
+36, Makadara,Maringo,-1.2920714,36.86572592,3fc5245cdf97c7b53a1efa98022251ed7a5f7ac3,Bakers Inn-Salama,-1.28444,36.830619,restaurant
+37, Makadara,Maringo,-1.2920714,36.86572592,dc037951d170a21a9cae29de89b7b7eaabbc5dd8,Panini's Restaurant,-1.3031163,36.8307628,restaurant
+38, Makadara,Maringo,-1.2920714,36.86572592,0a9750d1e7868ffb4e11a479f4fd901b661ad0d9,A A Mithaiwalla,-1.267242,36.838047,restaurant
+39, Makadara,Maringo,-1.2920714,36.86572592,0b5946792e09ae38ee345caa79f1f44b68425ad5,KFC DRIVE THROUGH,-1.3257228,36.8500545,restaurant

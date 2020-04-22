@@ -1,5 +1,6 @@
 ## Location Intelligence
-## https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522,151.1957362&radius=1500&type=restaurant&keyword=cruise&key=YOUR_API_KEY
+## https://maps.googleapis.com/maps/api/place/nearbysearch/json?
+# location=-33.8670522,151.1957362&radius=1500&type=restaurant&keyword=cruise&key=YOUR_API_KEY
 
 import pandas as pd
 import json
@@ -62,84 +63,81 @@ def main():
     print(nairobi_df.head())
     lat_long = (nairobi_df["latitude"], nairobi_df["longitude"])
 
-    categories_types = [
-        "hospital",
-        "pharmacy",
-        "church",
-        "embassy",
-        "shopping_mall",
-        "supermarket",
-        "grocery_or_supermarket"
-    ]
+    # Change this variable to fetch any place you'd want
+    place_types = ["night_club", "shopping_mall", "embassy", "gym", "library",
+                   "bank", "atm", "gas_station", "primary_school"]
 
-    place_type = 'liquor_store' # Change this variable to fetch any place you'd want
+    for place_type in place_types:
 
-    for k in range(0, len(nairobi_df)):
+        for k in range(0, len(nairobi_df)):
 
-        page_token = -1
-        lat = lat_long[0][k]
-        long = lat_long[1][k]
-        constituency = nairobi_df["constituency"][k]
-        ward = nairobi_df["wards"][k]
+            page_token = -1
+            lat = lat_long[0][k]
+            long = lat_long[1][k]
+            constituency = nairobi_df["constituency"][k]
+            ward = nairobi_df["wards"][k]
 
-        # Introducing Pandas Dataframe
-        cols = ["constituency",
-                "ward",
-                "clat",
-                "clon",
-                "place_id",
-                "place_name",
-                "place_lat",
-                "place_long",
-                "place_type"]
+            # Introducing Pandas DataFrame
+            cols = ["constituency",
+                    "ward",
+                    "clat",
+                    "clon",
+                    "place_id",
+                    "place_name",
+                    "place_lat",
+                    "place_long",
+                    "place_type"]
 
-        df = pd.DataFrame(columns=cols)
+            df = pd.DataFrame(columns=cols)
 
-        # Running a total of 10 requests: Each Request 20 results = 200 results
-        # Per each (lat, long) combination
-        for total_requests in range(0, 10):
-            request_url = create_request(lat, long, place_type, page_token)
-            if request_url == 0:
-                continue
+            # Running a total of 10 requests: Each Request 20 results = 200 results
+            # Per each (lat, long) combination
+            for total_requests in range(0, 10):
+                request_url = create_request(lat, long, place_type, page_token)
+                if request_url == 0:
+                    continue
 
-            r = requests.get(request_url)
-            data = json.loads(r.text)
+                r = requests.get(request_url)
+                data = json.loads(r.text)
 
-            for count in range(0, len(data["results"])):
-                print(
-                    data["results"][count]["name"],
-                    data["results"][count]["geometry"]["location"]["lat"],
-                    data["results"][count]["geometry"]["location"]["lng"],
-                    data["results"][count]["geometry"]["location"],
-                    data["results"][count]["id"]
-                    # data["results"][i]["rating"],
-                    # data["results"][i]["user_ratings_total"],
-                    # data["results"][i]["vicinity"]
+                for count in range(0, len(data["results"])):
+                    print(
+                        data["results"][count]["name"],
+                        data["results"][count]["geometry"]["location"]["lat"],
+                        data["results"][count]["geometry"]["location"]["lng"],
+                        data["results"][count]["geometry"]["location"],
+                        data["results"][count]["id"]
+                        # data["results"][i]["rating"],
+                        # data["results"][i]["user_ratings_total"],
+                        # data["results"][i]["vicinity"]
+                    )
+
+                    df = df.append({
+                        'constituency': constituency,
+                        'ward': ward,
+                        'clat': lat,
+                        'clon': long,
+                        'place_id': data["results"][count]["id"],
+                        'place_name': data["results"][count]["name"],
+                        'place_lat': data["results"][count]["geometry"]["location"]["lat"],
+                        'place_long': data["results"][count]["geometry"]["location"]["lng"],
+                        'place_type': place_type
+                    }, ignore_index=True)
+
+                time.sleep(30)  # Creating a 1 Minute Delay Process
+                try:
+                    if data["next_page_token"]:
+                        page_token = data["next_page_token"]
+                except KeyError:
+                    page_token = 0
+
+                df.to_csv(
+                    "{0}_extract.csv".format(time.time()),
+                    header=True
                 )
 
-                df = df.append({
-                    'constituency': constituency,
-                    'ward': ward,
-                    'clat': lat,
-                    'clon': long,
-                    'place_id': data["results"][count]["id"],
-                    'place_name': data["results"][count]["name"],
-                    'place_lat': data["results"][count]["geometry"]["location"]["lat"],
-                    'place_long': data["results"][count]["geometry"]["location"]["lng"],
-                    'place_type': place_type
-                }, ignore_index=True)
-
-            time.sleep(30)  # Creating a 1 Minute Delay Process
-            try:
-                if data["next_page_token"]:
-                    page_token = data["next_page_token"]
-            except KeyError:
-                page_token = 0
-
-            df.to_csv(
-                "{0}_extract.csv".format(time.time()),
-                header=True
-            )
+        # Execute Next Stage
+        os.system("python combine_all_outputs.py {0}".format(place_type))
 
 
 if __name__ == '__main__':

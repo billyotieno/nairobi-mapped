@@ -1,15 +1,17 @@
 import dask
 import dask.dataframe as dd
 import os
+import sys
 import shutil
 import glob
-from clean_data.remove_duplicates import *
+from LocationSearch.clean_data.remove_duplicates import *
 # from nairobi-mapped.clean_data.remove_duplicates import *
 
 
 def consolidate_data_extracts(extracts_file_path="*.csv", output_file_name="default"):
     """
-    Function: combines all the data extracts into a single CSV and returns a tuple of FILE_PATH and FILE_NAME
+    Function: combines all the data extracts into a single CSV and returns a tuple of FILE_PATH
+    and FILE_NAME
         args
             : extracts_file_path: the file path to the csv extracts
             : output_file_name: file_name to save the final consolidated file
@@ -32,10 +34,13 @@ def consolidate_data_extracts(extracts_file_path="*.csv", output_file_name="defa
 
 
 def main():
-    """ The main function consolidates file combination and phase 1 data cleaning using harvesine distance"""
+    """ The main function consolidates file combination and phase 1 data cleaning using Harvesine
+    distance"""
+    # Get file_name
+    file_name = sys.argv[1]
     # Test Function (consolidate_data_extracts)
     df, file_name = read_file(
-        *consolidate_data_extracts(output_file_name="combined_nairobi_liqour_stores")
+        *consolidate_data_extracts(output_file_name="combined_nairobi_"+file_name)
     )
     df = add_distance_column(df)
     df = remove_duplicate_places(df)

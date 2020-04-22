@@ -1,0 +1,61 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Dagoretti South,Waithaka,-1.2833,36.7166,52994a1a016401b5aca8e32047bbe9ea34efe861,Rangechem Pharmaceuticals Ltd,-1.2625208,36.7179524,pharmacy
+1, Dagoretti South,Waithaka,-1.2833,36.7166,6c90f3ca15df6dd8630c92e13bfefebd6da41a23,M-Pesa DanPhamarcies Ltd,-1.2598456,36.7102556,pharmacy
+2, Dagoretti South,Waithaka,-1.2833,36.7166,a86749befeaf42f05066df5ada07db43c0984f50,Goodlife Mountain View,-1.2652407,36.7407043,pharmacy
+3, Dagoretti South,Waithaka,-1.2833,36.7166,cb76974ce4398402feb46bf12ef998bfc4792ce2,Midhill Hospital,-1.291332,36.748098,pharmacy
+4, Dagoretti South,Waithaka,-1.2833,36.7166,b4d4e836111d92fc42c5790605559f73e401e3d7,Gitrose Pharmacy,-1.2552391,36.6943735,pharmacy
+5, Dagoretti South,Waithaka,-1.2833,36.7166,e5e11d32912f12debab51a70dbc192b7db694451,Ava pharmacy,-1.320582,36.705787,pharmacy
+6, Dagoretti South,Waithaka,-1.2833,36.7166,f70c12e35d2bdf84d013e41534b1f42505704a28,Goodlife Pharmacy Shell Karen,-1.3223789,36.7080991,pharmacy
+7, Dagoretti South,Waithaka,-1.2833,36.7166,55eafe4d3c94eb984dd3455748c430f486cd1b7a,Doveypharma Ltd,-1.3225032,36.70702579999999,pharmacy
+8, Dagoretti South,Waithaka,-1.2833,36.7166,468460605dc5ca0e422155a7a43e9b055372a644,Dovey Pharma Karen,-1.3227438,36.7070553,pharmacy
+9, Dagoretti South,Waithaka,-1.2833,36.7166,2e58010212eedc4e05096b93424ffb5d104669fe,Goodlife Pharmacy Karen Crossroads,-1.3231194,36.706782,pharmacy
+10, Dagoretti South,Waithaka,-1.2833,36.7166,f8556e38f763ae5147734c7bf14f79504796665a,Haltons pharmacy-karen,-1.3234424,36.7077693,pharmacy
+11, Dagoretti South,Waithaka,-1.2833,36.7166,da7594d54be3630c17a3ffebbb18a11cba34e0c5,Loimah Chemist,-1.2810901,36.7146033,pharmacy
+12, Dagoretti South,Waithaka,-1.2833,36.7166,bcda5780c080a2da81238f125f414077c59e4c2f,Medicare Pharmacy,-1.280986,36.71941460000001,pharmacy
+13, Dagoretti South,Waithaka,-1.2833,36.7166,5f71f2fd22c8cfb1d1cd32313839d3d612f14665,Muthama Chemist,-1.2809378,36.72013070000001,pharmacy
+14, Dagoretti South,Waithaka,-1.2833,36.7166,4d5e30c689d1a56099d7d42ea1936713c6d29188,Heritage Chemist,-1.2794613,36.7200707,pharmacy
+15, Dagoretti South,Waithaka,-1.2833,36.7166,fc114d1c67fc7f143b435b7c03d21b937477a1b7,Chemist,-1.2792068,36.71313689999999,pharmacy
+16, Dagoretti South,Waithaka,-1.2833,36.7166,e15463f3e8419246f140910cd5c697c0e35ec14a,Flavour Dispensing Chemist,-1.2885935,36.72200430000001,pharmacy
+17, Dagoretti South,Waithaka,-1.2833,36.7166,57ff41f80cce8d21efc651d7325f5c5dc8f34928,Chemist,-1.2898592,36.7232783,pharmacy
+18, Dagoretti South,Waithaka,-1.2833,36.7166,e615a3385f572840de65bfa86f7e8e34e8d886a9,Nursing Chemist,-1.2832251,36.7267478,pharmacy
+19, Dagoretti South,Waithaka,-1.2833,36.7166,b3e4263433819f2162fdfd9339e1020ddf0b0486,TIBAZONE CHEMIST,-1.2894067,36.7264594,pharmacy
+20, Dagoretti South,Waithaka,-1.2833,36.7166,dd50e883c9db0d8feebfe65177c600aaa3fb9e46,Ibiza-Afya-Centre & Pharmacy.,-1.2861198,36.7052544,pharmacy
+21, Dagoretti South,Waithaka,-1.2833,36.7166,4e8e5c5051bf77b6e69ddef0296bf625a8c59836,Centrac Pharmacy,-1.2903861,36.72595250000001,pharmacy
+22, Dagoretti South,Waithaka,-1.2833,36.7166,3aef4e900d6b1cce58af8d47a10fc647e233dd0f,Spring Chemist,-1.2904076,36.7260477,pharmacy
+23, Dagoretti South,Waithaka,-1.2833,36.7166,5d73c554b1ba82378521cd41a5a99450442b5345,Goodhope Chemist,-1.2791103,36.7285149,pharmacy
+24, Dagoretti South,Waithaka,-1.2833,36.7166,13aa3953bd6f18eee5e02cbf047f24b03751e441,Medichem Services,-1.2903955,36.7284885,pharmacy
+25, Dagoretti South,Waithaka,-1.2833,36.7166,bf785efa8c56b236ad394809c5443fd1d1a76566,Jabali Chemist,-1.2908632,36.72835839999999,pharmacy
+26, Dagoretti South,Waithaka,-1.2833,36.7166,f292e477df5a19aa02b80a869b6cfe7642ad7b1d,Petluc Chemist,-1.2904291,36.7288493,pharmacy
+27, Dagoretti South,Waithaka,-1.2833,36.7166,87d45b2dc4344a634511bbbafe0f6f39fa48b7d0,Chemist,-1.2840537,36.73098299999999,pharmacy
+28, Dagoretti South,Waithaka,-1.2833,36.7166,ce525a1500f345c62128975375c044ba3eab029f,Pharmcom Pharmacy And Cosmetics,-1.290653,36.7316321,pharmacy
+29, Dagoretti South,Waithaka,-1.2833,36.7166,440aaad25ce05d4dfe7eaa3663005a0089b6fb11,Georic Prehealth Pharmacy,-1.2911048,36.7329919,pharmacy
+30, Dagoretti South,Waithaka,-1.2833,36.7166,872141a88bdbfe9ada8f5d7479bb3a205a02083d,Ochards Chemist,-1.2906287,36.7338114,pharmacy
+31, Dagoretti South,Waithaka,-1.2833,36.7166,372e3a4fd128f00e0ce974cc4b9a14cea454c524,Kutoi Chemist,-1.2914869,36.7340514,pharmacy
+32, Dagoretti South,Waithaka,-1.2833,36.7166,5391b8201e0518c6f27e44a5d6917b99ddc2c259,Doclink pharmacy,-1.2638323,36.7160196,pharmacy
+33, Dagoretti South,Waithaka,-1.2833,36.7166,a14a5958614f8b52aa6ee78170e13a2782e931ca,Nile Phamarcy And Cosmetics,-1.2918864,36.7341198,pharmacy
+34, Dagoretti South,Waithaka,-1.2833,36.7166,4105e4a726ec6eb6916ff8adb366e484f30a5620,Den Pharmacy,-1.2791545,36.7356902,pharmacy
+35, Dagoretti South,Waithaka,-1.2833,36.7166,7ecf8283193a54e87156e46597f73758b1e52358,Murih Chemist,-1.2640094,36.7201334,pharmacy
+36, Dagoretti South,Waithaka,-1.2833,36.7166,dd9428e0382379f19b2afb3b311f98404f308e29,Apec Pharmacy Chemist,-1.2638033,36.7198913,pharmacy
+37, Dagoretti South,Waithaka,-1.2833,36.7166,c03b387949b9cbd468382628f398f195612d8216,KEI PHARMACY LTD (MYDAWA Approved),-1.2638167,36.7201052,pharmacy
+38, Dagoretti South,Waithaka,-1.2833,36.7166,d4e1b570bb4f4cb560318d77bc001988b1575c4c,Late Night Chemist & Photocopy,-1.263781,36.7201688,pharmacy
+39, Dagoretti South,Waithaka,-1.2833,36.7166,97aa1dd3a83852d4e52029860840129c0625c450,Drug Chemist,-1.2635359,36.7190123,pharmacy
+40, Dagoretti South,Waithaka,-1.2833,36.7166,d30590c8a145d37452232d18da6b8a18c15852ce,Dajim Pharmacy,-1.2634946,36.7191412,pharmacy
+41, Dagoretti South,Waithaka,-1.2833,36.7166,bf2ec07c0b44f09bdfa099b5bf664444dacea8fd,Makel Chemist,-1.2820828,36.736526,pharmacy
+42, Dagoretti South,Waithaka,-1.2833,36.7166,272e3d8dfd12ee3182edac444fbd15a0f5027e7f,Chemist Medical Center,-1.263613,36.7119247,pharmacy
+43, Dagoretti South,Waithaka,-1.2833,36.7166,e142510f701e89b074b4d2e07cfd5d7953f4906f,Apec Pharmacy,-1.2627515,36.7180882,pharmacy
+44, Dagoretti South,Waithaka,-1.2833,36.7166,9d2df6e5e0b81ba0864789c134c31a4be3d7c938,Supremacy Pharmacy,-1.2631869,36.7108563,pharmacy
+45, Dagoretti South,Waithaka,-1.2833,36.7166,4efb16700d54b20ecc0921a695a5ef21d50b15d7,Tannia Chemist,-1.2621927,36.7185619,pharmacy
+46, Dagoretti South,Waithaka,-1.2833,36.7166,f7a0f65dd7504a163bad6d8302f907fc6e8109b2,Riruta Junction Chemist,-1.2849628,36.7377314,pharmacy
+47, Dagoretti South,Waithaka,-1.2833,36.7166,2844e296dde14947f9dd370a2d4ff274af3a3724,Riruta Shopping Mall - Shop 1,-1.2851256,36.7378282,pharmacy
+48, Dagoretti South,Waithaka,-1.2833,36.7166,f910c3201b2b834a3b8a2abc8c4880e537dc9f81,Nam Pharmacy,-1.2619795,36.7183299,pharmacy
+49, Dagoretti South,Waithaka,-1.2833,36.7166,58290382e3f2de017d1e5d1615951bcd467bec0c,Docline Pharmacy,-1.2837802,36.7385213,pharmacy
+50, Dagoretti South,Waithaka,-1.2833,36.7166,b46f2c8f7cea24c1e7a42625c84a588aaa425398,Hekima Chemist,-1.2616658,36.71083009999999,pharmacy
+51, Dagoretti South,Waithaka,-1.2833,36.7166,d86abcb91f50975a9a8f80afd7b903cd039030bd,Rwana Chemist,-1.2642126,36.7283959,pharmacy
+52, Dagoretti South,Waithaka,-1.2833,36.7166,d63811211aa6ae78b84500ababb6f2516552852b,Stir Chemist,-1.2641864,36.7287215,pharmacy
+53, Dagoretti South,Waithaka,-1.2833,36.7166,9cb0c0b8e4c7a23705918966b7518d1f5915d8cd,Medical Clinic & Pharmacy,-1.2643503,36.7293494,pharmacy
+54, Dagoretti South,Waithaka,-1.2833,36.7166,1f6bb5e95f4714f959eb8387285cd32803fd3a9d,Dan Pharmacie,-1.260676,36.71110110000001,pharmacy
+55, Dagoretti South,Waithaka,-1.2833,36.7166,67d06af2fbe33a8282141adb881989cb6dbb7e02,Ben J chemist,-1.2862982,36.7400864,pharmacy
+56, Dagoretti South,Waithaka,-1.2833,36.7166,be8df639d28bbe8070f66365539de9ff813644ad,Goodwill Chemist,-1.2933063,36.738575,pharmacy
+57, Dagoretti South,Waithaka,-1.2833,36.7166,fa33d3517f25810c9d5fe5f63eacf96274bf243b,Mumbilink Chemist,-1.2859959,36.7407662,pharmacy
+58, Dagoretti South,Waithaka,-1.2833,36.7166,c82d82d6cec491e0f2078191ebaa8a4b5d098ff5,Chemist,-1.2598259,36.7101985,pharmacy
+59, Dagoretti South,Waithaka,-1.2833,36.7166,07b97e4b5d294a81c34a8cf1591d745cb4db3a79,Dispensing Chemist,-1.2907924,36.7398611,pharmacy
