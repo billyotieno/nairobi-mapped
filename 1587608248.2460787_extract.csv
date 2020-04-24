@@ -1,0 +1,61 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Kibra,Makina,-1.30854575,36.78652379,5e6ee0934a524f897869500056ebbd8d5d778684,Russian Embassy,-1.2906829,36.80086440000001,embassy
+1, Kibra,Makina,-1.30854575,36.78652379,cfb0c72be8e849091288f8658805fd163db8291e,Chinese Economic and Commercial Counselor's Office,-1.2997791,36.7957934,embassy
+2, Kibra,Makina,-1.30854575,36.78652379,c6bafea9d5028fe4d7e505812e73c2aeb3929721,Nigeria High Commission,-1.28896,36.790533,embassy
+3, Kibra,Makina,-1.30854575,36.78652379,697daf68841ea775000fb1de404b529e1d0bbee4,Bangladesh High Commission,-1.294666,36.774156,embassy
+4, Kibra,Makina,-1.30854575,36.78652379,0cdb9278f40f182b223acaa6e9af9c547153493e,KenRuss,-1.284649,36.7648888,embassy
+5, Kibra,Makina,-1.30854575,36.78652379,ceb3c6f2107fdbe3863c673e497e76b4187ce8c5,French Institute For Research In Africa (Ifra),-1.271981,36.796268,embassy
+6, Kibra,Makina,-1.30854575,36.78652379,a26c896c9564c7741ea72dba2405414ae38e36e4,Zambia High Commission Residence - Nairobi,-1.2694775,36.7908733,embassy
+7, Kibra,Makina,-1.30854575,36.78652379,e6e6628723149d7a60dac9c8e2ead22a72fd3882,Embassy of Sudan,-1.3022265,36.7900924,embassy
+8, Kibra,Makina,-1.30854575,36.78652379,9e5c962fc55ea0f46083b85bd33c249706ffbaa0,Venezuela Embassy,-1.2858009,36.8237543,embassy
+9, Kibra,Makina,-1.30854575,36.78652379,eecf69633c2afbafc74c39e244e0139f2a6ea2a7,Embassy of Cuba,-1.2858385,36.8237597,embassy
+10, Kibra,Makina,-1.30854575,36.78652379,7606805631a9377f7b4d6f59c48ce208be350e21,Tanzanian High Commission,-1.287314,36.82477819999999,embassy
+11, Kibra,Makina,-1.30854575,36.78652379,6e2022b95426ec3ff65d94c7c23653ab4af18d31,Embassy of the People's Republic of China,-1.2909702,36.7977707,embassy
+12, Kibra,Makina,-1.30854575,36.78652379,8da9094001a6edb4c4be362dbb2e7f294f2812f8,Embajada de España en Kenia | Embassy of Spain in Kenya,-1.297921,36.813243,embassy
+13, Kibra,Makina,-1.30854575,36.78652379,18483b8b44a89ad3850cd4959d0ff4edbc4079c8,Ethiopian Embassy in Kenya,-1.2865277,36.80926,embassy
+14, Kibra,Makina,-1.30854575,36.78652379,46c9a65f955cc1fb15084cce1fe55e0572927907,Embassy of Germany,-1.2681804,36.7844314,embassy
+15, Kibra,Makina,-1.30854575,36.78652379,27095f12e253035d34a86405a4e6e94807f830fe,Embassy of the Czech Republic,-1.2890693,36.7935941,embassy
+16, Kibra,Makina,-1.30854575,36.78652379,ffeb4d0625c15f453653df1e8e7fa84149cb40c7,Consular Section of the Embassy of Israel,-1.2912845,36.8095104,embassy
+17, Kibra,Makina,-1.30854575,36.78652379,1c910ae9d7298ab466e426b4124995068b06785b,Embassy of Japan,-1.2974382,36.81520940000001,embassy
+18, Kibra,Makina,-1.30854575,36.78652379,7b751293f1c161631486cdb108eade21f26c96bf,Embassy of Switzerland,-1.2857431,36.8235219,embassy
+19, Kibra,Makina,-1.30854575,36.78652379,1d31cb34b8c3d8b6efa07311aeaac96480050de7,Embassy of Sudan,-1.3022652,36.7900881,embassy
+20, Kibra,Makina,-1.30854575,36.78652379,27f786380fd93de56fec32d4e14c5cece9c365ae,Embassy South Sudan,-1.302264,36.790772,embassy
+21, Kibra,Makina,-1.30854575,36.78652379,128743e025c2b34e0c14f09cd56410d05042aa29,"Yemen, Embassy Of",-1.299513,36.794414,embassy
+22, Kibra,Makina,-1.30854575,36.78652379,fddceab9db86c82188c559ca3b7e95d86065d0ac,Chinese Embassy Commercial Office,-1.299881,36.795812,embassy
+23, Kibra,Makina,-1.30854575,36.78652379,9779156aea33c6fe41e35c9a854175ae74f28b8d,Economic & Commercial Counselor's Office Of The Chinese Embassy In Kenya,-1.2995968,36.7960533,embassy
+24, Kibra,Makina,-1.30854575,36.78652379,3f187b7211bf643aabdf7c7299a94f8e019a3e40,Embassy Of The Somali Republic,-1.291643,36.781219,embassy
+25, Kibra,Makina,-1.30854575,36.78652379,a8347238f9c936190913b6480640b7b93f19e8b6,Wakanda Embassy,-1.2908398,36.7828812,embassy
+26, Kibra,Makina,-1.30854575,36.78652379,a943df0b0acab2cfc3263d71dd78620cb1b49d71,Embassy Of Somali,-1.2913,36.780876,embassy
+27, Kibra,Makina,-1.30854575,36.78652379,59a00b67b5f1eafafe1fe3a5f0fb00d1c572f668,Ivory Coast High Comission,-1.290279,36.7847277,embassy
+28, Kibra,Makina,-1.30854575,36.78652379,1feac057d47de03a38bc2788bae170cc1e8e02c7,Embassy Of The People's Republic of China,-1.294389,36.7984859,embassy
+29, Kibra,Makina,-1.30854575,36.78652379,0b99fa0d0b35ae3e3098e5698148917aedfbbd89,Embassy Of Ivory Coast Nairobi,-1.290036,36.784879,embassy
+30, Kibra,Makina,-1.30854575,36.78652379,a8c633a46e6e5f6b89c0b1564ed4d275ec5ce0c1,South African High Commission,-1.289867,36.788145,embassy
+31, Kibra,Makina,-1.30854575,36.78652379,7306b55487446414b1ec83221e8934eb7482d236,Sri Lanka High Commission,-1.289733,36.786503,embassy
+32, Kibra,Makina,-1.30854575,36.78652379,7a444e04354ab6e4266132fde2d6dc5d8b167920,South Sudan Embassy,-1.2894141,36.7830617,embassy
+33, Kibra,Makina,-1.30854575,36.78652379,b65ec00954b35ea62aba9fb1bad9ac62c117d1ee,Srilanka High Commission,-1.2892196,36.7841027,embassy
+34, Kibra,Makina,-1.30854575,36.78652379,766e80853897d4f35c4ffc319f59a19ac6067497,Government Of Southern Sudan Mission In Kenya,-1.289371,36.78307199999999,embassy
+35, Kibra,Makina,-1.30854575,36.78652379,96b3f90c26d4da11360e81a8cda535c1620b9958,The Embassy Of The People Republic Of China,-1.2909648,36.795582,embassy
+36, Kibra,Makina,-1.30854575,36.78652379,b3b99514d550f818cdb889efb83b4f15da0b3619,South African High Commission,-1.2887994,36.7945034,embassy
+37, Kibra,Makina,-1.30854575,36.78652379,9b6256eb9550162ba13744e01d5c8f78b9342d1f,"China, Embassy Of The People'S Republic Of",-1.289253,36.795708,embassy
+38, Kibra,Makina,-1.30854575,36.78652379,0db917c9ab7405d4f060567be36237e0ed38beb4,High Commission Of The Democratic Socialist Republic Of Sri Lanka,-1.286816,36.78307,embassy
+39, Kibra,Makina,-1.30854575,36.78652379,35d14808ba7c828edb35566686fc13f9f8e7655c,Russian Embassy,-1.291368,36.801205,embassy
+40, Kibra,Makina,-1.30854575,36.78652379,c0735eb6baa4dfd8de154df2600c565803b8a3d5,Royal Thai Embassy,-1.285952,36.792441,embassy
+41, Kibra,Makina,-1.30854575,36.78652379,295429330c9db26c706574812cf2cfcb6770e00f,Embassy of the Federal Republic of Somalia.,-1.2843299,36.789492,embassy
+42, Kibra,Makina,-1.30854575,36.78652379,89221a3dfb76bdb79652123fd06d8e896924f09c,"Embassy Of Somalia, Nairobi",-1.2843205,36.789568,embassy
+43, Kibra,Makina,-1.30854575,36.78652379,2a3549205930fc70874355d8e356507cbd11f512,French Development Agency,-1.303124,36.8105886,embassy
+44, Kibra,Makina,-1.30854575,36.78652379,914e92456972783f11b8cf25def7b3251e0d3bf0,The Embassy Of The Arab Republic Of Egypt,-1.286533,36.774098,embassy
+45, Kibra,Makina,-1.30854575,36.78652379,aafb48cfe32e97c0f56d63240b1d2f32453c437d,The Embassy of the Republic of South Sudan,-1.2929255,36.8069105,embassy
+46, Kibra,Makina,-1.30854575,36.78652379,9c21f4da824090344abe288d9a20db6865fd9423,South Susan Embassy,-1.2932728,36.8075288,embassy
+47, Kibra,Makina,-1.30854575,36.78652379,3cf181fb7b246f1d35027bed91c4154934300915,Embassy Of The Slovak Republic,-1.28929,36.804051,embassy
+48, Kibra,Makina,-1.30854575,36.78652379,e30b58031454a6c5ce0ee58ab4b23a96a9c89efc,Embassy of Egypt,-1.2852668,36.7747439,embassy
+49, Kibra,Makina,-1.30854575,36.78652379,a94ef365e785018f9198d490e2756fc5f1032927,Embassy Of Indonesia,-1.301421,36.812393,embassy
+50, Kibra,Makina,-1.30854575,36.78652379,674a62d6b8d882189c62e8ee6c4fef6a63497648,Embassy of Slovakia,-1.2898274,36.8061423,embassy
+51, Kibra,Makina,-1.30854575,36.78652379,e54d5d1a85ffba674e9f45c9db3280e4e5f3ec3c,Honorary Consulate Of The Slovak Republic,-1.289634,36.806798,embassy
+52, Kibra,Makina,-1.30854575,36.78652379,bac7b79d9a879e817768f9fd0f1f342440ab3bb7,Embajada Espana,-1.2982615,36.8134378,embassy
+53, Kibra,Makina,-1.30854575,36.78652379,990f9ae45b573632b6eded43a695873ff5a4e086,Embassy Of Spain,-1.29692,36.813118,embassy
+54, Kibra,Makina,-1.30854575,36.78652379,023b9216bf083f655a53bfd3e289fab42f9dddb5,Embassy Of The Republic Of The Philippines,-1.286353,36.805421,embassy
+55, Kibra,Makina,-1.30854575,36.78652379,9c2c6a9688c6051143697efd027988e1af8cccbd,Embassy Of Lesotho(Not In Kenya),-1.296738,36.813408,embassy
+56, Kibra,Makina,-1.30854575,36.78652379,f22c53ca481ca6cd4c5688b0ffce92f2213f3f3c,European Union Delegation To Kenya,-1.296891,36.813573,embassy
+57, Kibra,Makina,-1.30854575,36.78652379,b80cd20bb43a95eb048594058375370e6f8f9a49,Embassy Of Israel,-1.291455,36.810538,embassy
+58, Kibra,Makina,-1.30854575,36.78652379,40121ec6d900144f9ce51d616bf548ea47becf75,Consulate of Lithuania - Kenya,-1.2921467,36.8113553,embassy
+59, Kibra,Makina,-1.30854575,36.78652379,d35efb1e0f9ae7222a49c3d1b9aff1e39d06a2c8,Malaysian Trade Commission (Matrade),-1.301056,36.81565800000001,embassy

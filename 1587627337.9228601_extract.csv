@@ -1,0 +1,61 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Embakasi West,Umoja 1,-1.2778669,36.8881172,24fa14f798254712c7b5b78916e618827c7f2509,KCB Buru Buru,-1.2883975,36.88055039999999,bank
+1, Embakasi West,Umoja 1,-1.2778669,36.8881172,05ee486f954c2e46f8c91aa0b789a62c959be468,Co-operative Bank,-1.3018651,36.88802859999999,bank
+2, Embakasi West,Umoja 1,-1.2778669,36.8881172,a49a15802ff9f6cb4761be6a0fc86a8fec773269,Co - operative Bank,-1.2831242,36.8797741,bank
+3, Embakasi West,Umoja 1,-1.2778669,36.8881172,b17c960e6fcd69561705c8848669aa12705805a3,Standard Chartered Bank ATM,-1.287593,36.880969,bank
+4, Embakasi West,Umoja 1,-1.2778669,36.8881172,5e929acc7dac3dac8e79d9b66a313802f85d2898,KCB ATM,-1.2846061,36.8850598,bank
+5, Embakasi West,Umoja 1,-1.2778669,36.8881172,c2b6363be10c7cbe78c5f6506dbdfee0c3456131,PesaPoint POS Mwea Traders,-1.285925,36.883265,bank
+6, Embakasi West,Umoja 1,-1.2778669,36.8881172,888c2d548fd796c94b587e03a9920ba55fb2b503,PesaPoint POS Logical Links - Kariobangi South,-1.266586,36.88474000000001,bank
+7, Embakasi West,Umoja 1,-1.2778669,36.8881172,b1f79a5985ab4afd87b19fcecf604f654e2aa44f,PesaPoint POS Kent Pharmacitical Ltd - Gulf Jogoo,-1.290264,36.883903,bank
+8, Embakasi West,Umoja 1,-1.2778669,36.8881172,692ee4cb1ddcfe8a2ea89f08c3ab18e26197b3c4,PesaPoint POS Southend Grocers - Kariobangi,-1.266543,36.884585,bank
+9, Embakasi West,Umoja 1,-1.2778669,36.8881172,4b4ffc2e7ff052223f0415415da48f9f4777ffdf,Equity Bank Donholm,-1.3021438,36.8879913,bank
+10, Embakasi West,Umoja 1,-1.2778669,36.8881172,762508b365fa67ea5fb13e94d6ce83c09d501a5a,PesaPoint POS Rangechem Pharmacy - Buruburu,-1.286729,36.879343,bank
+11, Embakasi West,Umoja 1,-1.2778669,36.8881172,93e6fee4729e2da3deb7e07f51c1ed431668cb66,PesaPoint POS Wabcom Technologies - Buruburu,-1.272533,36.87975399999999,bank
+12, Embakasi West,Umoja 1,-1.2778669,36.8881172,2447ba8bc5993532fe19f18aa3f93f3018513b20,PesaPoint POS Caltex Donholm Tassia,-1.301089,36.88830499999999,bank
+13, Embakasi West,Umoja 1,-1.2778669,36.8881172,d1344c448d0ca34211215bb241c7fa5e41007e8f,PesaPoint POS Alca System -Buruburu,-1.272437,36.877273,bank
+14, Embakasi West,Umoja 1,-1.2778669,36.8881172,542e7a77645c8fd06480eaff1274ed7303c374b8,PesaPoint POS Plan B Bar & Restaurant,-1.275156,36.90697,bank
+15, Embakasi West,Umoja 1,-1.2778669,36.8881172,e8e313339c318480e1c3e0b20c2d2cdfca255393,Pioneer FSA Savings and Loans,-1.2726679,36.9116271,bank
+16, Embakasi West,Umoja 1,-1.2778669,36.8881172,44ad20844f4a1efcaffacc031dc9e3e21f3fba21,Equity Bank Buru Buru,-1.282729,36.8795522,bank
+17, Embakasi West,Umoja 1,-1.2778669,36.8881172,2370218acab9d397920d6513eef6a873f9964273,PesaPoint POS Caltex - Outering Road,-1.301081,36.888307,bank
+18, Embakasi West,Umoja 1,-1.2778669,36.8881172,f83e409a7920c5de546d379660f9ef734c229891,Standard Chartered Bank ATM,-1.301806,36.88814099999999,bank
+19, Embakasi West,Umoja 1,-1.2778669,36.8881172,741295b6ca0f8b0325f5cac68f86b26e4fdd0411,PesaPoint POS Mt. Moriah - Mama Fred,-1.268012,36.89726100000001,bank
+20, Embakasi West,Umoja 1,-1.2778669,36.8881172,f55b06434f5a5b45794d6acc365807572f91741f,PesaPoint POS Kamindi Selfridges Donholm,-1.298453,36.891172,bank
+21, Embakasi West,Umoja 1,-1.2778669,36.8881172,bb06dd4e63c491eb7bc41e48953a217a9e539758,PesaPoint POS Bungoma East Pharmaceuticals,-1.275445,36.911509,bank
+22, Embakasi West,Umoja 1,-1.2778669,36.8881172,60f1f61788bee2091dabbfee728086a2f0d73ec8,PesaPoint POS Mark G Shop,-1.280203,36.877536,bank
+23, Embakasi West,Umoja 1,-1.2778669,36.8881172,c178c8769721ec4a355e388ecf5d2178418a4133,Equity Bank Agent,-1.2602684,36.87443020000001,bank
+24, Embakasi West,Umoja 1,-1.2778669,36.8881172,1624caf07442d6b66766001126180ba601554584,PesaPoint POS East Side Mini Shop,-1.272925,36.877659,bank
+25, Embakasi West,Umoja 1,-1.2778669,36.8881172,8aa3f282d2f89cf20cee2beee0ad07c47696e2d5,PesaPoint POS Tats Enterprises - Kean Company,-1.27241,36.87871,bank
+26, Embakasi West,Umoja 1,-1.2778669,36.8881172,520bd7bf2b117c6fb9ecb297a831ce2f36160a55,PesaPoint POS Oil Libya - Josco Ltd,-1.283517,36.882806,bank
+27, Embakasi West,Umoja 1,-1.2778669,36.8881172,e6899567dc94d442b1bf5bbe914b4c7345af1b90,PesaPoint POS Macnut Farm Product,-1.301821,36.888189,bank
+28, Embakasi West,Umoja 1,-1.2778669,36.8881172,b3435b7249548595fd168d50b554703c96f995fd,PesaPoint POS Conner Shop,-1.274684,36.87764,bank
+29, Embakasi West,Umoja 1,-1.2778669,36.8881172,4acc046479f23509c47c96ece20891a579a1fa3c,PesaPoint POS Juaglo Enterprises,-1.271917,36.879499,bank
+30, Embakasi West,Umoja 1,-1.2778669,36.8881172,1683b3d29dd3737afd80c8701208e5ea1135391e,Chase Bank - Umoja Cycles Solutions,-1.278702,36.888438,bank
+31, Embakasi West,Umoja 1,-1.2778669,36.8881172,5f73444447763e734e3c9640029b14a0343d4fb0,Chase Bank - Umoja Cycles Solutions,-1.282477,36.886772,bank
+32, Embakasi West,Umoja 1,-1.2778669,36.8881172,bfa83a511f15140e78044694a6abda1d424ffacc,The Co-operative Bank,-1.2840457,36.88728870000001,bank
+33, Embakasi West,Umoja 1,-1.2778669,36.8881172,91e1683410e66d8161dc05b7e8316b7103ac8ac9,Chase Bank - Fair Deal Solutions,-1.2847654,36.8842634,bank
+34, Embakasi West,Umoja 1,-1.2778669,36.8881172,712ee0f06598a563f0c99d286bc54355fab8e33a,Chase Bank - Power Point General Suppliers,-1.285677,36.884725,bank
+35, Embakasi West,Umoja 1,-1.2778669,36.8881172,00ddf232ae3722ad400c40b27c9023627de0fbc9,PesaPoint POS Top Up Africa - Kariobangi North,-1.252743,36.879209,bank
+36, Embakasi West,Umoja 1,-1.2778669,36.8881172,ba54896f211e2fd37b6f876b9965276084ed5dd2,PesaPoint POS Magson 2 Investments,-1.2602042,36.8788682,bank
+37, Embakasi West,Umoja 1,-1.2778669,36.8881172,6be73f98123ed453867452fec93b0fef1a6dca30,Co-operative Bank of Kenya,-1.283462,36.879809,bank
+38, Embakasi West,Umoja 1,-1.2778669,36.8881172,19a0a01f2ec29878561eded48cf3b6d766b3043b,Co-op Kwa Jirani Lynn Communications Ltd,-1.279134,36.898166,bank
+39, Embakasi West,Umoja 1,-1.2778669,36.8881172,c8c45845350ad13e27b119a69c10d27ee2687513,Stanbic Bank-Buruburu,-1.2826375,36.87912339999999,bank
+40, Embakasi West,Umoja 1,-1.2778669,36.8881172,4c5f53bc4185dbe657bd4b005ac3f69b44830194,National Bank ATM-Buruburu,-1.279238,36.87756,bank
+41, Embakasi West,Umoja 1,-1.2778669,36.8881172,5f9a46c96d32ceeb1e18846b5bac2f257e298bd4,PesaPoint POS Bivolex Electrical,-1.266913,36.884689,bank
+42, Embakasi West,Umoja 1,-1.2778669,36.8881172,0b9bf672294cfa31ebb73f9db3a3e995ee99aa11,PesaPoint POS Quick Mart - Donholm,-1.292951,36.898709,bank
+43, Embakasi West,Umoja 1,-1.2778669,36.8881172,e0d181e5c96b272c6e2e2259fbbf6807144786fc,PesaPoint POS Victory Mini Shop,-1.290848,36.883002,bank
+44, Embakasi West,Umoja 1,-1.2778669,36.8881172,f2c1a167978aa9a8996bf908d530f37613d2610b,PesaPoint POS Smart Shop,-1.2928,36.886199,bank
+45, Embakasi West,Umoja 1,-1.2778669,36.8881172,86a325fc325a90b37abe0286cb1ace9784f8a2e6,Chase Bank - Naivas Limited - Umoja,-1.28248,36.902604,bank
+46, Embakasi West,Umoja 1,-1.2778669,36.8881172,51e4b4afa87c3f8002212f5e3ab345c82d38b5dc,KCB ATM,-1.2955152,36.8883665,bank
+47, Embakasi West,Umoja 1,-1.2778669,36.8881172,1bf5aefd9f24e46eefd09b34c0b06ce5ac288386,PostBank,-1.2620958,36.8796403,bank
+48, Embakasi West,Umoja 1,-1.2778669,36.8881172,986f694f271b96cd431f672fcdf1ec0ff2e9751c,Micom Investment Agency,-1.2709116,36.9046399,bank
+49, Embakasi West,Umoja 1,-1.2778669,36.8881172,dad0d4622f080bae2d9d5d051511449a25790d2c,Equity Bank Agent,-1.295783,36.889386,bank
+50, Embakasi West,Umoja 1,-1.2778669,36.8881172,f9344edb4e42f15c27ba6a8b4dc62996c0c10d12,PesaPoint POS Fotune 100 - Kioi Soweto,-1.275445,36.91153,bank
+51, Embakasi West,Umoja 1,-1.2778669,36.8881172,b4af3ac03874035dd63b774dfd4033e1ffaa298c,PesaPoint POS Acacia Jubilee Insurance - Korogocho,-1.250743,36.889536,bank
+52, Embakasi West,Umoja 1,-1.2778669,36.8881172,432e21e632929f97f84e1bc22d6eab8dbccf1ed8,Jamii Bora,-1.2609227,36.8793654,bank
+53, Embakasi West,Umoja 1,-1.2778669,36.8881172,01be7afc77980dd411aaeb1a096b16e3abe8a914,Co-Operative Bank Kariobangi,-1.2608691,36.8793708,bank
+54, Embakasi West,Umoja 1,-1.2778669,36.8881172,bd18acd6f51149bb296e72d2490999e894ed115f,Family Bank-Kariobangi,-1.2598608,36.8793547,bank
+55, Embakasi West,Umoja 1,-1.2778669,36.8881172,719995fc43ff37c1fb65ec092319b113b5fa1127,Faulu Kenya,-1.2595175,36.8793386,bank
+56, Embakasi West,Umoja 1,-1.2778669,36.8881172,18f1d4b6af51be4f73ec422f17d4e0add4192300,PesaPoint POS Surfworld Technologies,-1.298088,36.891081,bank
+57, Embakasi West,Umoja 1,-1.2778669,36.8881172,31b5eaf639d2bbe6c53f09fa11c11f3cdb83af60,Post Bank,-1.2579511,36.893044,bank
+58, Embakasi West,Umoja 1,-1.2778669,36.8881172,f10ef746691cbfab534b74b2bcf977c94d6b52f6,Co-op Kwa Jirani Caxton Mwangi Mundia,-1.2578,36.8818,bank
+59, Embakasi West,Umoja 1,-1.2778669,36.8881172,f8dd69945eadb1d29c8fc4d1bb5779c773479d3c,Equity Bank,-1.2581062,36.8793206,bank

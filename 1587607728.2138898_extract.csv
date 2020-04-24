@@ -1,0 +1,41 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,5e6ee0934a524f897869500056ebbd8d5d778684,Russian Embassy,-1.2906829,36.80086440000001,embassy
+1, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,9e5c962fc55ea0f46083b85bd33c249706ffbaa0,Venezuela Embassy,-1.2858009,36.8237543,embassy
+2, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,7606805631a9377f7b4d6f59c48ce208be350e21,Tanzanian High Commission,-1.287314,36.82477819999999,embassy
+3, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,eecf69633c2afbafc74c39e244e0139f2a6ea2a7,Embassy of Cuba,-1.2858385,36.8237597,embassy
+4, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,cfb0c72be8e849091288f8658805fd163db8291e,Chinese Economic and Commercial Counselor's Office,-1.2997791,36.7957934,embassy
+5, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,c6bafea9d5028fe4d7e505812e73c2aeb3929721,Nigeria High Commission,-1.28896,36.790533,embassy
+6, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,7b751293f1c161631486cdb108eade21f26c96bf,Embassy of Switzerland,-1.2857431,36.8235219,embassy
+7, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,e6e6628723149d7a60dac9c8e2ead22a72fd3882,Embassy of Sudan,-1.3022265,36.7900924,embassy
+8, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,6e2022b95426ec3ff65d94c7c23653ab4af18d31,Embassy of the People's Republic of China,-1.2909702,36.7977707,embassy
+9, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,8da9094001a6edb4c4be362dbb2e7f294f2812f8,Embajada de España en Kenia | Embassy of Spain in Kenya,-1.297921,36.813243,embassy
+10, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,18483b8b44a89ad3850cd4959d0ff4edbc4079c8,Ethiopian Embassy in Kenya,-1.2865277,36.80926,embassy
+11, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,0147e8e9fcf062b47c1e3d693dabd2ca35d6d1ed,Tanzania Embassy,-1.2873409,36.8246659,embassy
+12, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,1c910ae9d7298ab466e426b4124995068b06785b,Embassy of Japan,-1.2974382,36.81520940000001,embassy
+13, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,ffeb4d0625c15f453653df1e8e7fa84149cb40c7,Consular Section of the Embassy of Israel,-1.2912845,36.8095104,embassy
+14, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,73bb0acf3c3c8818ccc66310420b9264a83cea45,Embassy of Japan,-1.297526,36.8154632,embassy
+15, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,8b7cc842195d64c7106cf9e571199b18c5355c96,Benin Consulate,-1.300064,36.825384,embassy
+16, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,d35efb1e0f9ae7222a49c3d1b9aff1e39d06a2c8,Malaysian Trade Commission (Matrade),-1.301056,36.81565800000001,embassy
+17, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,c04cce92600e66ecc6794f908344025f6bb172f0,British High Commission Emergency,-1.297841,36.817736,embassy
+18, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,a94ef365e785018f9198d490e2756fc5f1032927,Embassy Of Indonesia,-1.301421,36.812393,embassy
+19, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,2a3549205930fc70874355d8e356507cbd11f512,French Development Agency,-1.303124,36.8105886,embassy
+20, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,7e187684598e305a9f1a735c32dbea05c2fa37fe,Embassy Of Japan,-1.297083,36.815545,embassy
+21, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,6e4e73aa61f9d0ca0dc8c7d68a1132bd5efb66c3,British High Commission - Department For International Development Kenya (Dfidk),-1.296134,36.816956,embassy
+22, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,b5f39bc762269b0323f65c999e18279b322ea670,British High Commission Nairobi,-1.2958934,36.8173694,embassy
+23, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,bac7b79d9a879e817768f9fd0f1f342440ab3bb7,Embajada Espana,-1.2982615,36.8134378,embassy
+24, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,f22c53ca481ca6cd4c5688b0ffce92f2213f3f3c,European Union Delegation To Kenya,-1.296891,36.813573,embassy
+25, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,9c2c6a9688c6051143697efd027988e1af8cccbd,Embassy Of Lesotho(Not In Kenya),-1.296738,36.813408,embassy
+26, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,990f9ae45b573632b6eded43a695873ff5a4e086,Embassy Of Spain,-1.29692,36.813118,embassy
+27, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,c4a65d3a033be98ac5457e8ce643d69c26217c23,Embassy Of Cook Islands,-1.31906,36.83603859999999,embassy
+28, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,f9d9ee8a0eea0ab07bdbcf1ac01a9c0613045729,Echo Media Tech Agency,-1.2920659,36.82194619999999,embassy
+29, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,c03f790bc900985db6036fb28a9494d9ff67410f,Atlantis Business Systems Ltd,-1.290782,36.821615,embassy
+30, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,40121ec6d900144f9ce51d616bf548ea47becf75,Consulate of Lithuania - Kenya,-1.2921467,36.8113553,embassy
+31, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,9982618c0fb3dcc0eea53086d622ee8075afd3ef,Mozambique High Commission,-1.288307,36.821264,embassy
+32, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,d2c8ced979502a3bd8bd1857c852f894b276bae5,India High Commission,-1.288368,36.8261208,embassy
+33, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,2ea78256e93239f712667ad44fbf72fcab72bb31,Indian High Commission,-1.288371,36.826155,embassy
+34, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,ece469a66875dbefef62b755dcbbecc3344a9fde,Nyabena Nyakundi & Company Advocates,-1.2884048,36.8276185,embassy
+35, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,c0dd90f5809a34452b9ce6a6d91b8d42e9250b9e,Wachakana & Co. Advocates,-1.2884048,36.8276185,embassy
+36, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,a1955e808b87f42428b594b24e3860de3703d5c7,Embassy of the Democratic Republic of Congo,-1.2878186,36.8258446,embassy
+37, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,b80cd20bb43a95eb048594058375370e6f8f9a49,Embassy Of Israel,-1.291455,36.810538,embassy
+38, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,9e7c97f27982b356e93fc36c113914ed12756032,Consulate Of The Republic Of Mozambique,-1.287449,36.820921,embassy
+39, Lang'ata,Nairobi West,-1.3087022,36.823097499999996,8490f16766172f1056178d41f38449e3569cab23,Portugal Embassy,-1.2873677,36.8247303,embassy

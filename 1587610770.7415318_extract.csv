@@ -1,0 +1,15 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Mathare,Mabatini,-1.2602912,36.86361626,d883028a8aede8faf21b867da6907f22a06d2944,Honorary Consulate Of Lebanon,-1.245525,36.86782,embassy
+1, Mathare,Mabatini,-1.2602912,36.86361626,f8687f2956ecc051825f9cc829a5ce2faea2f0fb,Consulate of Lebanon,-1.2455261,36.8688525,embassy
+2, Mathare,Mabatini,-1.2602912,36.86361626,6e0c52f175542394b11386b37390d26c10cbb70b,Brazillian Embassy Kenya,-1.2626925,36.8417233,embassy
+3, Mathare,Mabatini,-1.2602912,36.86361626,a7c4e1eda7fa4c52b75690c2b7294fc306bd1ca4,Embassy Of Algeria,-1.261341,36.840889,embassy
+4, Mathare,Mabatini,-1.2602912,36.86361626,800164dd13a66390314750543254c20e753dac22,Embassy of Algeria,-1.2613421,36.8395201,embassy
+5, Mathare,Mabatini,-1.2602912,36.86361626,e665b8d8122544653a3e78c89e9f1dac4ebdadb9,Royal Embassy Of Saudi Arabia,-1.261818,36.837326,embassy
+6, Mathare,Mabatini,-1.2602912,36.86361626,4e09a694f659e16d8985f9a4f5b89e9cbdad331b,Embassy of Saudi Arabia,-1.2606139,36.8370121,embassy
+7, Mathare,Mabatini,-1.2602912,36.86361626,6523633dd92e58bfddffbc3bbd277e494d111be1,Embassy of the state of Kuwait,-1.2599359,36.83493199999999,embassy
+8, Mathare,Mabatini,-1.2602912,36.86361626,1c69390bcb9aa80fb1f1309d5410615f8d023ecc,Ukraine Embassy,-1.251883,36.82128,embassy
+9, Mathare,Mabatini,-1.2602912,36.86361626,ec3dec2dfc5006dc05ce22dc2f58301d8e737bda,Embassy Of Swizaland,-1.2502997,36.8214358,embassy
+10, Mathare,Mabatini,-1.2602912,36.86361626,51766d77e8bdc8db44bc47de1e32452af55f1e82,Embassy of Austria,-1.249382,36.8207668,embassy
+11, Mathare,Mabatini,-1.2602912,36.86361626,c0b1b0b66d272b9ef23a1045375bf9b420795511,Embassy Of Cuba,-1.278286,36.82341399999999,embassy
+12, Mathare,Mabatini,-1.2602912,36.86361626,0ccbf7bba64908e0bdb99c27f6a3476bf74fa65f,VFS Canada,-1.267854,36.81995000000001,embassy
+13, Mathare,Mabatini,-1.2602912,36.86361626,5924708861b960ec003d1904941aeca3e85114a9,Austrian Honorary Consulate,-1.251441,36.819734,embassy

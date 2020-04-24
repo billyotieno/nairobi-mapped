@@ -1,0 +1,61 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Mathare,Kiamaiko,-1.25377765,36.87573249,f3fab4bb91b287b1391e8cbacdc4a638ce2e8b81,Dense Gas Logistics & Kerosene,-1.2299237,36.8775254,gas_station
+1, Mathare,Kiamaiko,-1.25377765,36.87573249,395fc3da99de407e1fdb5dee7b1b38abccae86ed,Shell,-1.249925,36.86129199999999,gas_station
+2, Mathare,Kiamaiko,-1.25377765,36.87573249,0a48bcb137825cc0ff9edb4e26590defc11e415f,Co-op Kwa Jirani Sango Filling Station,-1.266,36.8858,gas_station
+3, Mathare,Kiamaiko,-1.25377765,36.87573249,72d0c8680e9a13905433a1cd8e15dc846db85027,Kenol Buruburu Mesora,-1.279034,36.877686,gas_station
+4, Mathare,Kiamaiko,-1.25377765,36.87573249,ffd4756d693e7c8330ea0c729130a5fdf5dc055a,G-gas shop,-1.2774,36.89364,gas_station
+5, Mathare,Kiamaiko,-1.25377765,36.87573249,7f7475c3d55a955c66f02e6b85e3b2bf8d7c0fb7,National Oil Corporation-Mutindwa,-1.281981,36.879478,gas_station
+6, Mathare,Kiamaiko,-1.25377765,36.87573249,eda209d07c0f97234aa8144438fd4c4cd1e9329f,Wild Beest Safaris,-1.2832818,36.8802081,gas_station
+7, Mathare,Kiamaiko,-1.25377765,36.87573249,11019dd1774587f5a364c8f2ef7753c21cf55019,Engen Petrol Station,-1.2881701,36.8518864,gas_station
+8, Mathare,Kiamaiko,-1.25377765,36.87573249,19540c286ff0cb495e5c17db8b13a020511659cd,Gulf Energy-Thome,-1.2102992,36.87525449999999,gas_station
+9, Mathare,Kiamaiko,-1.25377765,36.87573249,6214652fbf60a77dd72afbf98ee8006cb7990155,OLA Energy,-1.2550285,36.8317764,gas_station
+10, Mathare,Kiamaiko,-1.25377765,36.87573249,95582341d959a82106b7da99d55447cc4240278f,Oilibya Pangani,-1.268059,36.8337438,gas_station
+11, Mathare,Kiamaiko,-1.25377765,36.87573249,efc2f7c7836de167dc6dc4c1c149d8c839122fb7,Petrol Station,-1.2563117,36.8790919,gas_station
+12, Mathare,Kiamaiko,-1.25377765,36.87573249,afd2f5474407e92d381a6ade769356fbaf80c291,Shell,-1.2561969,36.87941049999999,gas_station
+13, Mathare,Kiamaiko,-1.25377765,36.87573249,2e2ccb2a8aec84fe5e531f3395e8ca8bb16d55aa,Capital Garage,-1.2581929,36.8793225,gas_station
+14, Mathare,Kiamaiko,-1.25377765,36.87573249,e0c4a150e7b98282e9a930ce38f5b61bf077ace6,New Shell Service Station Baba Dogo,-1.2480478,36.87598749999999,gas_station
+15, Mathare,Kiamaiko,-1.25377765,36.87573249,c492c97ea0576fcc3382dbd4dc32bae98c158b70,New Ruaraka Shell Service Station,-1.2473675,36.8751763,gas_station
+16, Mathare,Kiamaiko,-1.25377765,36.87573249,f0b1ced4cc41d9a213617f74affc1be6be2e31df,Swani Merchants Limited,-1.2596197,36.87933290000001,gas_station
+17, Mathare,Kiamaiko,-1.25377765,36.87573249,6cde48495e4e98d213436aaf83f46aa4f4ba4d38,Oil Libya,-1.24767,36.8722016,gas_station
+18, Mathare,Kiamaiko,-1.25377765,36.87573249,d78139ca236ab34d90732a771c83315ec2c38b80,Junction Cooking Gas,-1.2607618,36.8743819,gas_station
+19, Mathare,Kiamaiko,-1.25377765,36.87573249,1d82ad6b0b2b89e1e75d80aec965d4574b425971,Ogaden Agencies,-1.261075,36.87887899999999,gas_station
+20, Mathare,Kiamaiko,-1.25377765,36.87573249,53d86eef3d015ca4cc79159f4ec356669f33a86b,Shell,-1.24696,36.871483,gas_station
+21, Mathare,Kiamaiko,-1.25377765,36.87573249,a1e27655770f8396a22d4987daa449ad35b27461,Shell Ruaraka,-1.2469257,36.8715026,gas_station
+22, Mathare,Kiamaiko,-1.25377765,36.87573249,b3a51795efce6e2cb7731c409837e52c1eeae55f,Davis Gas Shop,-1.2524784,36.86722839999999,gas_station
+23, Mathare,Kiamaiko,-1.25377765,36.87573249,d91881547defea0a4bffbfe660e627ce7a87a559,Wamkoko Gas House,-1.2525026,36.8672231,gas_station
+24, Mathare,Kiamaiko,-1.25377765,36.87573249,0e283c421aae7134a298ef94b3883e7e5093c474,Gas Chem Agencies,-1.2618505,36.8789232,gas_station
+25, Mathare,Kiamaiko,-1.25377765,36.87573249,63483d064b642dc489d10568f3a5988cbf9bcbcc,Kobil Service Station,-1.2620811,36.8786573,gas_station
+26, Mathare,Kiamaiko,-1.25377765,36.87573249,970ff075e405d5e208d1831455131f3a3b7d0249,Eastern Gas Distributors,-1.2620878,36.8799233,gas_station
+27, Mathare,Kiamaiko,-1.25377765,36.87573249,8821eb11a04b4802aeb553832cbe1574e2c172b5,Mkota Gas,-1.253228,36.88509579999999,gas_station
+28, Mathare,Kiamaiko,-1.25377765,36.87573249,f73ce7ca9cb1c4b05eeb5c529f77c88e33a53e96,Simba Energy,-1.2576775,36.8662297,gas_station
+29, Mathare,Kiamaiko,-1.25377765,36.87573249,58bd154428001af5f3db218db8ea5a7623546686,Euro EPP etrol Stations,-1.2438937,36.881468,gas_station
+30, Mathare,Kiamaiko,-1.25377765,36.87573249,d1b1450af88c21fd06c9f44d5cdef6b0bed6b3fe,Eppl,-1.2437472,36.882466,gas_station
+31, Mathare,Kiamaiko,-1.25377765,36.87573249,27cf5b8184dbd2387a42e006b1a0f9213fd303d6,Gas Point & Kerosene,-1.265065,36.880285,gas_station
+32, Mathare,Kiamaiko,-1.25377765,36.87573249,246c5ff165d73c0116497770e8645bb6465c49b1,Hass Petrol Station,-1.2622289,36.8657485,gas_station
+33, Mathare,Kiamaiko,-1.25377765,36.87573249,694da1042cefa275c6bc5fd180e0957a72d78f1b,Caltex - donholm (formerly caltex),-1.266583,36.87958199999999,gas_station
+34, Mathare,Kiamaiko,-1.25377765,36.87573249,24c18dbdf227d34c7f56db5eddcd45f5c04766d9,Wantech Services Company,-1.2414035,36.8702647,gas_station
+35, Mathare,Kiamaiko,-1.25377765,36.87573249,974d6edf419fe4beeda4daefcce45f55b25043d2,Total - kayole,-1.266456,36.881303,gas_station
+36, Mathare,Kiamaiko,-1.25377765,36.87573249,130a1d8f7ef6823ec27237f34d5a8895d536505e,Joy-see Gas Suppliers,-1.2623734,36.8876025,gas_station
+37, Mathare,Kiamaiko,-1.25377765,36.87573249,e6af6f015c74396d0828d16a586226312acbf14f,Mzuri Gas,-1.2650523,36.88633379999999,gas_station
+38, Mathare,Kiamaiko,-1.25377765,36.87573249,7b1e71a8156de1619af03a98da08cab240c08537,Petrol Station,-1.2630022,36.8632829,gas_station
+39, Mathare,Kiamaiko,-1.25377765,36.87573249,c9f61129847cce3349bdb61940e8e46754dbdc9d,Thayu Petrol Station,-1.263012,36.8632487,gas_station
+40, Mathare,Kiamaiko,-1.25377765,36.87573249,e26d5577fec0fd6aee7b9ff6635c53e22e6284f4,Thayu Self Service,-1.2629633,36.8632045,gas_station
+41, Mathare,Kiamaiko,-1.25377765,36.87573249,4b12d52d9dfe8c5ada03e84dfa9e1ae13fb5bcc1,Cooking Gas,-1.2648485,36.8871546,gas_station
+42, Mathare,Kiamaiko,-1.25377765,36.87573249,1ed8fba56561d27f6313cdf3feb26d5a8d4d5d34,Outering Total Station,-1.2695387,36.8802249,gas_station
+43, Mathare,Kiamaiko,-1.25377765,36.87573249,4ef6d907a77e00df81f45d7c83bbd394ce18efdf,Total Outering Service Station,-1.269573,36.88025,gas_station
+44, Mathare,Kiamaiko,-1.25377765,36.87573249,1a90a6a9a0ab1efc888f119d8f78692035611c03,Gas Supplier,-1.2674979,36.8847835,gas_station
+45, Mathare,Kiamaiko,-1.25377765,36.87573249,42ae0beb656c111466298d667e47bc698012a6da,Bensey Gas Suppliers,-1.2617566,36.8901667,gas_station
+46, Mathare,Kiamaiko,-1.25377765,36.87573249,af1089f5b007aa4dcb659d6edca2fdfd370c745b,Ozone Technique Services,-1.2679484,36.8847781,gas_station
+47, Mathare,Kiamaiko,-1.25377765,36.87573249,558a7af7bf24f7a047615609c013479dedd2d0f0,Speed Point Diesel,-1.2549387,36.89287299999999,gas_station
+48, Mathare,Kiamaiko,-1.25377765,36.87573249,9cf74538e06cfa400fff40974188ebce88f02d2c,Total shop,-1.2584623,36.89240900000001,gas_station
+49, Mathare,Kiamaiko,-1.25377765,36.87573249,265318e20a66af228314fdec81b4e4351b445dfa,Total Dandora Service Station,-1.258633,36.892615,gas_station
+50, Mathare,Kiamaiko,-1.25377765,36.87573249,a13d2e16a4d1837a77a7e9d2d76c74de333ddb28,Total - survey(formerly caltex),-1.25305,36.857956,gas_station
+51, Mathare,Kiamaiko,-1.25377765,36.87573249,b2d730604701e9ccef4e62a69d870cabab3123c3,Total Survey Service Station,-1.253393,36.857902,gas_station
+52, Mathare,Kiamaiko,-1.25377765,36.87573249,d1208e80c2c9fd0ffbc0e935be180121c31a0840,Total - survey,-1.251763,36.85784,gas_station
+53, Mathare,Kiamaiko,-1.25377765,36.87573249,79f0e671d1ff1e065ffe60ae09d90fbc93ad24b5,Kama Petrol Point,-1.2439162,36.891017,gas_station
+54, Mathare,Kiamaiko,-1.25377765,36.87573249,09e7ba3cdf371ea8b4a43de862c7b150e784edb1,Henry Kerosene Pump,-1.2576964,36.89395689999999,gas_station
+55, Mathare,Kiamaiko,-1.25377765,36.87573249,24a579121ce2c31c5ed93ea582156424172f86d0,"SHELL PETROL STATION, DANDORA",-1.2543638,36.8944689,gas_station
+56, Mathare,Kiamaiko,-1.25377765,36.87573249,52b4d33371a0121845c16ed4d45adb1ad2d6c8a7,Czx Energy,-1.2592973,36.8937203,gas_station
+57, Mathare,Kiamaiko,-1.25377765,36.87573249,c624743acfb2afdf97ef0786d774a04ea01dcf26,Shell Petrol Station,-1.2543606,36.8946379,gas_station
+58, Mathare,Kiamaiko,-1.25377765,36.87573249,ecb5787d2b6ba2ae31796ff8e5dea2c47f9759bd,Midnight Filling station and Carwash,-1.2577775,36.8945994,gas_station
+59, Mathare,Kiamaiko,-1.25377765,36.87573249,d7d14b8ea948c1f97bc89e0a5c104219853ab5b6,Midnight Filling Station Dandora,-1.2577772,36.89460039999999,gas_station

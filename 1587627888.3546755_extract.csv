@@ -1,0 +1,61 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Makadara,Harambee,-1.290941,36.89721585,05ee486f954c2e46f8c91aa0b789a62c959be468,Co-operative Bank,-1.3018651,36.88802859999999,bank
+1, Makadara,Harambee,-1.290941,36.89721585,24fa14f798254712c7b5b78916e618827c7f2509,KCB Buru Buru,-1.2883975,36.88055039999999,bank
+2, Makadara,Harambee,-1.290941,36.89721585,b17c960e6fcd69561705c8848669aa12705805a3,Standard Chartered Bank ATM,-1.287593,36.880969,bank
+3, Makadara,Harambee,-1.290941,36.89721585,a49a15802ff9f6cb4761be6a0fc86a8fec773269,Co - operative Bank,-1.2831242,36.8797741,bank
+4, Makadara,Harambee,-1.290941,36.89721585,4b4ffc2e7ff052223f0415415da48f9f4777ffdf,Equity Bank Donholm,-1.3021438,36.8879913,bank
+5, Makadara,Harambee,-1.290941,36.89721585,5e929acc7dac3dac8e79d9b66a313802f85d2898,KCB ATM,-1.2846061,36.8850598,bank
+6, Makadara,Harambee,-1.290941,36.89721585,c2b6363be10c7cbe78c5f6506dbdfee0c3456131,PesaPoint POS Mwea Traders,-1.285925,36.883265,bank
+7, Makadara,Harambee,-1.290941,36.89721585,2447ba8bc5993532fe19f18aa3f93f3018513b20,PesaPoint POS Caltex Donholm Tassia,-1.301089,36.88830499999999,bank
+8, Makadara,Harambee,-1.290941,36.89721585,9677cea30e1cbf2b52f734cf8e0afbf8e1750f2f,Postbank Jogoo Road Branch,-1.304319,36.9125018,bank
+9, Makadara,Harambee,-1.290941,36.89721585,b1f79a5985ab4afd87b19fcecf604f654e2aa44f,PesaPoint POS Kent Pharmacitical Ltd - Gulf Jogoo,-1.290264,36.883903,bank
+10, Makadara,Harambee,-1.290941,36.89721585,f83e409a7920c5de546d379660f9ef734c229891,Standard Chartered Bank ATM,-1.301806,36.88814099999999,bank
+11, Makadara,Harambee,-1.290941,36.89721585,2370218acab9d397920d6513eef6a873f9964273,PesaPoint POS Caltex - Outering Road,-1.301081,36.888307,bank
+12, Makadara,Harambee,-1.290941,36.89721585,09156d49e8086de333e9b879e7ef4cf07a8ba231,PesaPoint POS Tassia Outering Road,-1.310262,36.89072700000001,bank
+13, Makadara,Harambee,-1.290941,36.89721585,9f4ff610e62acf5182546d695ba91b99490e5dd2,PesaPoint POS Top Up Africa - Outering Road,-1.31097,36.892347,bank
+14, Makadara,Harambee,-1.290941,36.89721585,fce25cf979539a58b3b408951ba9017ecf36f02b,PesaPoint POS Batian - Pipeline,-1.316054,36.894536,bank
+15, Makadara,Harambee,-1.290941,36.89721585,e6899567dc94d442b1bf5bbe914b4c7345af1b90,PesaPoint POS Macnut Farm Product,-1.301821,36.888189,bank
+16, Makadara,Harambee,-1.290941,36.89721585,542e7a77645c8fd06480eaff1274ed7303c374b8,PesaPoint POS Plan B Bar & Restaurant,-1.275156,36.90697,bank
+17, Makadara,Harambee,-1.290941,36.89721585,f55b06434f5a5b45794d6acc365807572f91741f,PesaPoint POS Kamindi Selfridges Donholm,-1.298453,36.891172,bank
+18, Makadara,Harambee,-1.290941,36.89721585,762508b365fa67ea5fb13e94d6ce83c09d501a5a,PesaPoint POS Rangechem Pharmacy - Buruburu,-1.286729,36.879343,bank
+19, Makadara,Harambee,-1.290941,36.89721585,e8e313339c318480e1c3e0b20c2d2cdfca255393,Pioneer FSA Savings and Loans,-1.2726679,36.9116271,bank
+20, Makadara,Harambee,-1.290941,36.89721585,bb06dd4e63c491eb7bc41e48953a217a9e539758,PesaPoint POS Bungoma East Pharmaceuticals,-1.275445,36.911509,bank
+21, Makadara,Harambee,-1.290941,36.89721585,63e40e65114b97b88f87ada3156ffa16b38ffaa0,PesaPoint POS Xris Pharmore Pharmacy - Avenue Park,-1.313427,36.89272199999999,bank
+22, Makadara,Harambee,-1.290941,36.89721585,88ec21eabb78f4180dd5ec2519ec789f45be7cae,PesaPoint POS Batian - Tassia,-1.311812,36.894439,bank
+23, Makadara,Harambee,-1.290941,36.89721585,44ad20844f4a1efcaffacc031dc9e3e21f3fba21,Equity Bank Buru Buru,-1.282729,36.8795522,bank
+24, Makadara,Harambee,-1.290941,36.89721585,0b9bf672294cfa31ebb73f9db3a3e995ee99aa11,PesaPoint POS Quick Mart - Donholm,-1.292951,36.898709,bank
+25, Makadara,Harambee,-1.290941,36.89721585,f9344edb4e42f15c27ba6a8b4dc62996c0c10d12,PesaPoint POS Fotune 100 - Kioi Soweto,-1.275445,36.91153,bank
+26, Makadara,Harambee,-1.290941,36.89721585,dad0d4622f080bae2d9d5d051511449a25790d2c,Equity Bank Agent,-1.295783,36.889386,bank
+27, Makadara,Harambee,-1.290941,36.89721585,18f1d4b6af51be4f73ec422f17d4e0add4192300,PesaPoint POS Surfworld Technologies,-1.298088,36.891081,bank
+28, Makadara,Harambee,-1.290941,36.89721585,51e4b4afa87c3f8002212f5e3ab345c82d38b5dc,KCB ATM,-1.2955152,36.8883665,bank
+29, Makadara,Harambee,-1.290941,36.89721585,86a325fc325a90b37abe0286cb1ace9784f8a2e6,Chase Bank - Naivas Limited - Umoja,-1.28248,36.902604,bank
+30, Makadara,Harambee,-1.290941,36.89721585,520bd7bf2b117c6fb9ecb297a831ce2f36160a55,PesaPoint POS Oil Libya - Josco Ltd,-1.283517,36.882806,bank
+31, Makadara,Harambee,-1.290941,36.89721585,f2c1a167978aa9a8996bf908d530f37613d2610b,PesaPoint POS Smart Shop,-1.2928,36.886199,bank
+32, Makadara,Harambee,-1.290941,36.89721585,19a0a01f2ec29878561eded48cf3b6d766b3043b,Co-op Kwa Jirani Lynn Communications Ltd,-1.279134,36.898166,bank
+33, Makadara,Harambee,-1.290941,36.89721585,bfa83a511f15140e78044694a6abda1d424ffacc,The Co-operative Bank,-1.2840457,36.88728870000001,bank
+34, Makadara,Harambee,-1.290941,36.89721585,2d900c188a8323b5eeb4fd583009021b12f14440,Jamii Bora Bank Ltd,-1.3008243,36.8896547,bank
+35, Makadara,Harambee,-1.290941,36.89721585,5f73444447763e734e3c9640029b14a0343d4fb0,Chase Bank - Umoja Cycles Solutions,-1.282477,36.886772,bank
+36, Makadara,Harambee,-1.290941,36.89721585,712ee0f06598a563f0c99d286bc54355fab8e33a,Chase Bank - Power Point General Suppliers,-1.285677,36.884725,bank
+37, Makadara,Harambee,-1.290941,36.89721585,e0d181e5c96b272c6e2e2259fbbf6807144786fc,PesaPoint POS Victory Mini Shop,-1.290848,36.883002,bank
+38, Makadara,Harambee,-1.290941,36.89721585,91e1683410e66d8161dc05b7e8316b7103ac8ac9,Chase Bank - Fair Deal Solutions,-1.2847654,36.8842634,bank
+39, Makadara,Harambee,-1.290941,36.89721585,1683b3d29dd3737afd80c8701208e5ea1135391e,Chase Bank - Umoja Cycles Solutions,-1.278702,36.888438,bank
+40, Makadara,Harambee,-1.290941,36.89721585,727a9386fc295f524aaf9e71c5180c747f435047,wanandege sacco bank,-1.309681,36.91229490000001,bank
+41, Makadara,Harambee,-1.290941,36.89721585,741295b6ca0f8b0325f5cac68f86b26e4fdd0411,PesaPoint POS Mt. Moriah - Mama Fred,-1.268012,36.89726100000001,bank
+42, Makadara,Harambee,-1.290941,36.89721585,8e4bf183bc6be95ed22f52889661e2b09168c639,PesaPoint POS Fotune 100 - Kona Mbaya,-1.27588,36.913078,bank
+43, Makadara,Harambee,-1.290941,36.89721585,6be73f98123ed453867452fec93b0fef1a6dca30,Co-operative Bank of Kenya,-1.283462,36.879809,bank
+44, Makadara,Harambee,-1.290941,36.89721585,60f1f61788bee2091dabbfee728086a2f0d73ec8,PesaPoint POS Mark G Shop,-1.280203,36.877536,bank
+45, Makadara,Harambee,-1.290941,36.89721585,f53ff0068d32116ef74a8662f8eacb4a07c3eff8,PesaPoint POS Tumaini Self Service - Outering,-1.310037,36.89176700000001,bank
+46, Makadara,Harambee,-1.290941,36.89721585,c8c45845350ad13e27b119a69c10d27ee2687513,Stanbic Bank-Buruburu,-1.2826375,36.87912339999999,bank
+47, Makadara,Harambee,-1.290941,36.89721585,9ab206bcb79023f3a2d1993f819a93d3bfa11edd,PesaPoint POS Wabcom Technologies - Embakasi,-1.303784,36.912496,bank
+48, Makadara,Harambee,-1.290941,36.89721585,93e6fee4729e2da3deb7e07f51c1ed431668cb66,PesaPoint POS Wabcom Technologies - Buruburu,-1.272533,36.87975399999999,bank
+49, Makadara,Harambee,-1.290941,36.89721585,5f1ba4b516596dd19718bff139ba7c5537b7a6d3,Pioneer FSA,-1.272747,36.911461,bank
+50, Makadara,Harambee,-1.290941,36.89721585,95f33451f4c9ffb8c8ac453347b0824b057acf3d,Co-op Kwa Jirani Joseph Kairu Ndungu T/ A Simba Housing Agencies,-1.317,36.892,bank
+51, Makadara,Harambee,-1.290941,36.89721585,888c2d548fd796c94b587e03a9920ba55fb2b503,PesaPoint POS Logical Links - Kariobangi South,-1.266586,36.88474000000001,bank
+52, Makadara,Harambee,-1.290941,36.89721585,986f694f271b96cd431f672fcdf1ec0ff2e9751c,Micom Investment Agency,-1.2709116,36.9046399,bank
+53, Makadara,Harambee,-1.290941,36.89721585,da2019e931b2078bdbbff3ffe60d8352b8ec1e1a,PesaPoint POS Nat Samakard,-1.302507,36.915682,bank
+54, Makadara,Harambee,-1.290941,36.89721585,9bf90cf9366f64c56fec0130530288445a9a6e4a,PesaPoint POS Innscor Bakers Inn Embakasi,-1.305092,36.917517,bank
+55, Makadara,Harambee,-1.290941,36.89721585,f451dbcdde7a1161136acd361d49bfc91dcedcc5,Equity Bank Kayole,-1.2737532,36.9108938,bank
+56, Makadara,Harambee,-1.290941,36.89721585,8d250ba81283e9d6fb1f297f593e9959d07a8abd,KCB ATM,-1.276325,36.914298,bank
+57, Makadara,Harambee,-1.290941,36.89721585,692ee4cb1ddcfe8a2ea89f08c3ab18e26197b3c4,PesaPoint POS Southend Grocers - Kariobangi,-1.266543,36.884585,bank
+58, Makadara,Harambee,-1.290941,36.89721585,4c5f53bc4185dbe657bd4b005ac3f69b44830194,National Bank ATM-Buruburu,-1.279238,36.87756,bank
+59, Makadara,Harambee,-1.290941,36.89721585,cdf86c79314143da682ffba13e32bf2453476762,Family Bank,-1.2723836,36.9109672,bank

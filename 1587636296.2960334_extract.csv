@@ -1,0 +1,41 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Mathare,Kiamaiko,-1.25377765,36.87573249,60c96536a445556cc896e8f6dc482feb1f2ed6da,PesaPoint ATM Uchumi Jipange,-1.232015,36.875674,atm
+1, Mathare,Kiamaiko,-1.25377765,36.87573249,9d3d50c36dbbbd74598967724caf96bd983819e0,PesaPoint ATM KCB - Kariobangi,-1.245959,36.88304,atm
+2, Mathare,Kiamaiko,-1.25377765,36.87573249,df895175e9cfd0f1a63c5482db424a6094cf08ed,PesaPoint ATM Umoja,-1.26982,36.87995499999999,atm
+3, Mathare,Kiamaiko,-1.25377765,36.87573249,1abded9bfd22f022257374f9d0f3e68d2c17ade7,KCB ATM - Kariobangi,-1.253693,36.87920400000001,atm
+4, Mathare,Kiamaiko,-1.25377765,36.87573249,b3044f41ca53892467e65c7d54572d91b8343fe7,Airtel Money Agent-Over Dose,-1.2564898,36.8721139,atm
+5, Mathare,Kiamaiko,-1.25377765,36.87573249,cae23c5a8e51314d8b053fcbcecd91a0262a21de,Co-op Bank ATM - Jonsaga Branch,-1.2537264,36.8693129,atm
+6, Mathare,Kiamaiko,-1.25377765,36.87573249,d1dae2545eb7fb9f763a161b5c53255b302f69ad,KCB ATM - Oil Libya Baba Dogo,-1.247702,36.87263799999999,atm
+7, Mathare,Kiamaiko,-1.25377765,36.87573249,7b2190d6e0a2853eca3ae13cfbf9bf19de2d8b9c,Kenya Commercial Bank Atm,-1.247815,36.872105,atm
+8, Mathare,Kiamaiko,-1.25377765,36.87573249,0699757005aa6be64e54143a11834998dc8b515a,Co-op Bank ATM - Kariobangi Branch,-1.2600087,36.87936210000001,atm
+9, Mathare,Kiamaiko,-1.25377765,36.87573249,8ef156ed80ff71c3f7cab5ff32036ac807f1b38e,Co-op Bank ATM - Mathare North Branch,-1.2625106,36.8790671,atm
+10, Mathare,Kiamaiko,-1.25377765,36.87573249,c2972324100855fbcbb8b22556ebf800308cc67e,PesaPoint ATM BBK Ruaraka,-1.245919,36.866903,atm
+11, Mathare,Kiamaiko,-1.25377765,36.87573249,306c890db19069cd9d3f5ab503c8b256318fae49,Express Strategies Mpesa,-1.2579381,36.8635364,atm
+12, Mathare,Kiamaiko,-1.25377765,36.87573249,2cdfd023a244a2a8c4a23af23a7165699e88e7ee,Co-op Bank ATM - Total Thika Road Branch,-1.2426719,36.8685615,atm
+13, Mathare,Kiamaiko,-1.25377765,36.87573249,395fc3da99de407e1fdb5dee7b1b38abccae86ed,Shell,-1.249925,36.86129199999999,atm
+14, Mathare,Kiamaiko,-1.25377765,36.87573249,5b0f51752e30e3998b3b3b30d6aae473b61395cb,Standard Chartered Bank ATM,-1.253738,36.859184,atm
+15, Mathare,Kiamaiko,-1.25377765,36.87573249,5e85970bd944ed56933a138a802ca52389c110ed,Co-op Bank ATM - Muranga Teachers Sacco Branch,-1.273858,36.877493,atm
+16, Mathare,Kiamaiko,-1.25377765,36.87573249,7c03ba5afa153f0e5cc905563599042e2a6f6b1d,KCB ATM - Moi Airbase Eastleigh,-1.266543,36.859173,atm
+17, Mathare,Kiamaiko,-1.25377765,36.87573249,92c77609985faf6184bf7fa981613141bcba4950,Co-op Bank ATM - Kahawa Barracks Branch,-1.2566215,36.8548983,atm
+18, Mathare,Kiamaiko,-1.25377765,36.87573249,859302edf5fa9f5e4be9e3bc39cc14bc0c02cb73,PesaPoint ATM KCB - Moi Airbase,-1.27315,36.861298,atm
+19, Mathare,Kiamaiko,-1.25377765,36.87573249,4c5f53bc4185dbe657bd4b005ac3f69b44830194,National Bank ATM-Buruburu,-1.279238,36.87756,atm
+20, Mathare,Kiamaiko,-1.25377765,36.87573249,fe62af431e47322594804ac6707ae781ee7d8d90,Co-op Bank ATM - Dandora Branch,-1.2487952,36.9015726,atm
+21, Mathare,Kiamaiko,-1.25377765,36.87573249,778898b9fd82f7bf4b39907b545c177f753dbdfd,PesaPoint ATM Buruburu,-1.283131,36.87973999999999,atm
+22, Mathare,Kiamaiko,-1.25377765,36.87573249,954641a4d493043d7ce04bcceef8b1c47e84f1fa,PesaPoint ATM CFC - KNLS Building,-1.282825,36.879301,atm
+23, Mathare,Kiamaiko,-1.25377765,36.87573249,101991f5a11d1a11940477ff4cb1b3ea5eef2b5c,Airtel Money Agent-Salome Waithira Maina,-1.2666667,36.85,atm
+24, Mathare,Kiamaiko,-1.25377765,36.87573249,66e10cbdf0b9a41cc5bcb7ec88e32f9aae3f3ed8,Co-op Bank ATM - Buru Buru Branch,-1.2833278,36.8798234,atm
+25, Mathare,Kiamaiko,-1.25377765,36.87573249,f753a87fe1f8ec6099a54b67833d6812dfd44dfd,Co-op Kwa Jirani Irene Njeri Kaunda T/ A Joycool Cosmetics Mwea,-1.283748,36.87797,atm
+26, Mathare,Kiamaiko,-1.25377765,36.87573249,5e929acc7dac3dac8e79d9b66a313802f85d2898,KCB ATM,-1.2846061,36.8850598,atm
+27, Mathare,Kiamaiko,-1.25377765,36.87573249,ba146a5c02c92baf55b88eb4bb6c0ccb7804d6a5,PesaPoint ATM Eastleigh,-1.272115,36.850574,atm
+28, Mathare,Kiamaiko,-1.25377765,36.87573249,b4dd2bc25f64ab6d6863b4f160bd5400813ac7aa,M-Pesa Ramoz Communications Ltd,-1.2724537,36.85051540000001,atm
+29, Mathare,Kiamaiko,-1.25377765,36.87573249,95451824c07155b765ca09c287c261473bd29c74,PesaPoint ATM NIC - Uchumi Buru Buru,-1.284324,36.887441,atm
+30, Mathare,Kiamaiko,-1.25377765,36.87573249,ec8b8d5597a37b7646022678a96f19a9a220f886,PesaPoint ATM KCB - Mutindwa,-1.285019,36.88478600000001,atm
+31, Mathare,Kiamaiko,-1.25377765,36.87573249,45645f9eab984f95de2e6c59cec6a4941bfebc54,M-Pesa Jobliu Telecoms,-1.2722817,36.8488526,atm
+32, Mathare,Kiamaiko,-1.25377765,36.87573249,b17c960e6fcd69561705c8848669aa12705805a3,Standard Chartered Bank ATM,-1.287593,36.880969,atm
+33, Mathare,Kiamaiko,-1.25377765,36.87573249,149f017cd888bed19f4edd3e8df3b199bdbe1384,PesaPoint ATM KCB - Buruburu,-1.288019,36.88114300000001,atm
+34, Mathare,Kiamaiko,-1.25377765,36.87573249,bd8696d292afcbdd7e0861230485f04b6ab87574,Co-op Bank ATM - Buru Buru Branch,-1.2879181,36.88115639999999,atm
+35, Mathare,Kiamaiko,-1.25377765,36.87573249,5f76685aa29b640a403d68be2ab2986f56115f0b,Co-op Bank ATM - Moi Referral Branch,-1.2859728,36.8623221,atm
+36, Mathare,Kiamaiko,-1.25377765,36.87573249,2abd9a1be0d120813c5e686638707e241caf38e2,KCB ATM - Eastleigh,-1.2790764,36.85129610000001,atm
+37, Mathare,Kiamaiko,-1.25377765,36.87573249,273c0655fc356499e16926128925dafbee06278b,Standard Chartered Bank ATM,-1.2788301,36.8499644,atm
+38, Mathare,Kiamaiko,-1.25377765,36.87573249,7deb966fd6197740c60862492a6361192cc430cb,Olmec Technical Services Ltd,-1.2599242,36.9118532,atm
+39, Mathare,Kiamaiko,-1.25377765,36.87573249,635d8949e04c0aef2162bb9f585750fbb78ea3aa,Ecobank ATM Thika Rd Mall,-1.2196317,36.88910449999999,atm

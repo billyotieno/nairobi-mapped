@@ -1,0 +1,61 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Dagoretti South,Uthiru,-1.2631329,36.7188955,3a5f15659e4c33515e81b0075d9d7491c1541d4b,Postbank,-1.2631393,36.7190889,bank
+1, Dagoretti South,Uthiru,-1.2631329,36.7188955,b167f68637810a52ece203a6815a2903804a5fad,Equity Bank Agent,-1.261523,36.719742,bank
+2, Dagoretti South,Uthiru,-1.2631329,36.7188955,a01e01d708de19b5a704f9da833bd83c228c5ece,Equity Bank Agent,-1.275167,36.71382,bank
+3, Dagoretti South,Uthiru,-1.2631329,36.7188955,85d0dd815b220eb41820761877193551d334783a,PesaPoint POS Mt. Moriah - Apec Parmacy,-1.269825,36.70136799999999,bank
+4, Dagoretti South,Uthiru,-1.2631329,36.7188955,d371c8862ff03fd5a005bc643cd6fdc6e9e67299,PesaPoint POS Logical Links - Uthiru,-1.280219,36.709495,bank
+5, Dagoretti South,Uthiru,-1.2631329,36.7188955,b38baa306d2289b8739c60c28741bca64e58291f,KCB Mtaani Jennifer Kabura Mwangi,-1.274919,36.734786,bank
+6, Dagoretti South,Uthiru,-1.2631329,36.7188955,b6b9246777ad4a009468076e23900093f47c388f,PesaPoint POS Oil Libya Ghaken Fuel,-1.2565199,36.6972364,bank
+7, Dagoretti South,Uthiru,-1.2631329,36.7188955,3baf71e72213509623d96c13ac44e08d06aa1918,Equity Bank Agent,-1.248909,36.73759499999999,bank
+8, Dagoretti South,Uthiru,-1.2631329,36.7188955,2bc2c21391109a92741c4a73e13d613f2f8a203d,PesaPoint POS Mt. Moriah - PC. TTI,-1.284206,36.729773,bank
+9, Dagoretti South,Uthiru,-1.2631329,36.7188955,2289aac60f431d77fb53a3cd65de74e707bdbc9b,Equity Agent,-1.2839357,36.7318224,bank
+10, Dagoretti South,Uthiru,-1.2631329,36.7188955,85e91516a032738b227035c5a623327caed53e23,Co-op Bank ATM - Kawangware Branch,-1.2821365,36.7369926,bank
+11, Dagoretti South,Uthiru,-1.2631329,36.7188955,92c7209ef8309dc83e2f271f37eef9c7d67c4def,Postbank Uthiru Branch,-1.2821365,36.7369926,bank
+12, Dagoretti South,Uthiru,-1.2631329,36.7188955,f17aa2b401f40b2e04f8b4ec146b5f78ec681db1,Chase Bank - Eagle Chemist,-1.254964,36.693786,bank
+13, Dagoretti South,Uthiru,-1.2631329,36.7188955,90d315f67a069e6887e960b09f23be194a70ce83,Equity Bank Kangemi,-1.2647331,36.7465881,bank
+14, Dagoretti South,Uthiru,-1.2631329,36.7188955,a142b4ce04250ce56d9003206feb5e17fae6464a,Chase Bank - Frawaki Investment - Kangemi,-1.264619,36.746611,bank
+15, Dagoretti South,Uthiru,-1.2631329,36.7188955,7ed06c043c0e11669b3cd97fb63636be803f26f6,Equity Bank Agent,-1.2663775,36.74801509999999,bank
+16, Dagoretti South,Uthiru,-1.2631329,36.7188955,333a2fa253ad222752c6819941bd7f3a76bec841,Caritas Microfinance Bank,-1.2845517,36.73756039999999,bank
+17, Dagoretti South,Uthiru,-1.2631329,36.7188955,a2931cf3a9426dc2bc279611b8e6e1f8864bcee9,Jamii Bora Bank-Kawangware,-1.284831,36.737464,bank
+18, Dagoretti South,Uthiru,-1.2631329,36.7188955,49f5ef711a59ec959fcca5e0fe87874961440e6e,Jamii Bora Bank,-1.284905,36.7374816,bank
+19, Dagoretti South,Uthiru,-1.2631329,36.7188955,1efc15adb053a64447dc3211b40a52df42894b36,Equity Bank Agent,-1.290741,36.72660800000001,bank
+20, Dagoretti South,Uthiru,-1.2631329,36.7188955,98fb82d2076f012811bad03d6152d6f4b65a60e0,Equity Bank Kawangware,-1.2850214,36.7377313,bank
+21, Dagoretti South,Uthiru,-1.2631329,36.7188955,77d5a215afdcc2a77279c68bf1a7ca975bdd6347,Krep Bank,-1.2661329,36.7488813,bank
+22, Dagoretti South,Uthiru,-1.2631329,36.7188955,55374ab896bf35a788a06e162140cbbb8ffb81b5,PesaPoint POS Setellite Supermarket,-1.280278,36.742841,bank
+23, Dagoretti South,Uthiru,-1.2631329,36.7188955,85202d5a3cb7c788641f967444db308e69c91e34,PesaPoint POS Mt. Moriah - Bei Rasmi,-1.280524,36.743109,bank
+24, Dagoretti South,Uthiru,-1.2631329,36.7188955,738a7ebe8d5dcad23534c0eed9c7ea0b97d6bd32,Co-op Bank ATM - Kangemi Branch,-1.2665117,36.7486409,bank
+25, Dagoretti South,Uthiru,-1.2631329,36.7188955,b8592139fc5db331e32f50971468d8901fb9bd7c,Family Bank - Kangemi,-1.2692739,36.7495519,bank
+26, Dagoretti South,Uthiru,-1.2631329,36.7188955,a67ed23ec35b08e7178daf0b1505cfcb3219aec3,PesaPoint POS Top Up Africa - Kawangware,-1.28194,36.744412,bank
+27, Dagoretti South,Uthiru,-1.2631329,36.7188955,29e89039af574206cef2e09b2a60b2c6a561cc71,Equity Bank Agent,-1.277656,36.687341,bank
+28, Dagoretti South,Uthiru,-1.2631329,36.7188955,513eb20fbb9115672dc34a72130729e4808e9c7c,Unaitas Sacco - Kawangware Branch,-1.2883763,36.7431092,bank
+29, Dagoretti South,Uthiru,-1.2631329,36.7188955,dc09ce48becbe740bd50235bb69499b98c0b86d3,Co-Operative Bank,-1.2884018,36.7431293,bank
+30, Dagoretti South,Uthiru,-1.2631329,36.7188955,276a2eac0ea6af8dcf2851d5599fd21e00b7bdfe,Cooperative Bank Kawangware,-1.2883582,36.7432611,bank
+31, Dagoretti South,Uthiru,-1.2631329,36.7188955,d5dac78bb2490fe7dd572851483ad844516df935,Chase Bank - Mediator Star Connectionz,-1.286175,36.745458,bank
+32, Dagoretti South,Uthiru,-1.2631329,36.7188955,7f32161d150b3995d0c85569a62520150ae0e7e1,Chase Bank - Frawaki Investment - Wanyuu,-1.278377,36.750861,bank
+33, Dagoretti South,Uthiru,-1.2631329,36.7188955,79b9d1f4381b420c1526c4ca9f883fc837fe5e5c,Co-op Kwa Jirani Tiffany Traders,-1.2823,36.7501,bank
+34, Dagoretti South,Uthiru,-1.2631329,36.7188955,984d2a968515afce77df3202c3892adf310a6e25,Ukristo Na Ufanisi Wa Anglicana Sacco Limited,-1.288423,36.74807499999999,bank
+35, Dagoretti South,Uthiru,-1.2631329,36.7188955,1862a978f3f4a35f9622e3b7a303231397dd8220,Equity Bank Agent,-1.2903852,36.7456064,bank
+36, Dagoretti South,Uthiru,-1.2631329,36.7188955,82d5574f2bf2a10b1417a745dd15f3b5a376da77,Co - operative Bank,-1.2874009,36.7488823,bank
+37, Dagoretti South,Uthiru,-1.2631329,36.7188955,efd317a059da5bfa0c4773f64f90e8a4b7345987,Cooperative Bank Kawangware 46,-1.2874539,36.7489571,bank
+38, Dagoretti South,Uthiru,-1.2631329,36.7188955,6cdc4d3663f8960063be6a536f497c345d42775c,PesaPoint POS Mt. Moriah - Top Rank,-1.283699,36.75312400000001,bank
+39, Dagoretti South,Uthiru,-1.2631329,36.7188955,9d33a16be30a0a89a95df69603c96380f3144767,Equity Bank Agent,-1.2878502,36.6859682,bank
+40, Dagoretti South,Uthiru,-1.2631329,36.7188955,31c13da79b0f52bcecdec552b0f0a6fd55c7144a,Equity Bank Agent,-1.2867084,36.7536047,bank
+41, Dagoretti South,Uthiru,-1.2631329,36.7188955,18145ca4e7c958736717077e729ce04c6d5d8c71,CO-op Bank ATM,-1.2664762,36.748648,bank
+42, Dagoretti South,Uthiru,-1.2631329,36.7188955,5a396abf216310ae93c069d27c1c47dcdd6943c0,Ukristo Na Ufanisi Wa Anglicana Sacco Limited,-1.2211557,36.7154433,bank
+43, Dagoretti South,Uthiru,-1.2631329,36.7188955,55e60fe13f24eb5666ceee6dadc5a58da7dde0dd,M-Pesa Barclays Bank,-1.2892014,36.753152,bank
+44, Dagoretti South,Uthiru,-1.2631329,36.7188955,83b0235de020397b66aaf1bb808e5c6f8839d670,PesaPoint POS Mt. Moriah - Kabira Self Selection,-1.295648,36.748945,bank
+45, Dagoretti South,Uthiru,-1.2631329,36.7188955,5f62911fc63d90893176c6338c9396ec2d90a997,PesaPoint POS Mt. Moriah - Citizen Shop,-1.295509,36.749256,bank
+46, Dagoretti South,Uthiru,-1.2631329,36.7188955,2667fba08d11a12ee41d9ea7fb3b702d19c9cbac,NCBA ILRI ATM - (ATM),-1.264288,36.7212,bank
+47, Dagoretti South,Uthiru,-1.2631329,36.7188955,d8b6bbdc1c4bca4b38e74f09e9916b2b8c248fb1,Ilri - Agency - (ATM),-1.264925,36.721194,bank
+48, Dagoretti South,Uthiru,-1.2631329,36.7188955,097f71c6ce721e268ad463de6b71cdee3ab27ea8,Equity Ndumbuini Branch,-1.2548516,36.7217535,bank
+49, Dagoretti South,Uthiru,-1.2631329,36.7188955,80cb10f954947e02d2226367dd10d8ff8a363c22,Equity Agent,-1.2808184,36.7196882,bank
+50, Dagoretti South,Uthiru,-1.2631329,36.7188955,a67f3ee71ef0c21981811587765bf809d9cbd7ca,KCB Agent,-1.284179,36.7303187,bank
+51, Dagoretti South,Uthiru,-1.2631329,36.7188955,376aee470d31ebb7d0cecefc0fb524e1cdba1416,Post Bank - Uthiru Branch,-1.280165,36.736629,bank
+52, Dagoretti South,Uthiru,-1.2631329,36.7188955,9696c95f4957cfc7b6ff93118c35cdab0a37291f,Faulu Kenya - Kawangware Branch,-1.2809229,36.7366022,bank
+53, Dagoretti South,Uthiru,-1.2631329,36.7188955,36b68249d716da62aa4e1e01a0aaa0f171a00fa8,Faulu Kenya - Kawangware Branch ATM,-1.2809229,36.7366022,bank
+54, Dagoretti South,Uthiru,-1.2631329,36.7188955,7211dd6441c7fb4e4487ee2cff13d0744aa2aa50,Dottcom Traders,-1.2546174,36.6935947,bank
+55, Dagoretti South,Uthiru,-1.2631329,36.7188955,b160ef61fdccd5234f091aeacf21160206b274cd,"MPESA,EQUITEL,CO-OP SHOP",-1.2535734,36.6933764,bank
+56, Dagoretti South,Uthiru,-1.2631329,36.7188955,2eabc5c4b7e431191cddca49b11445cf3fd05771,Post Bank - Kawangware Branch,-1.283791,36.737723,bank
+57, Dagoretti South,Uthiru,-1.2631329,36.7188955,2ec91dcb6300df4123abaf8f8e1e2307714f6af3,Equity Bank Atm,-1.2849949,36.7377468,bank
+58, Dagoretti South,Uthiru,-1.2631329,36.7188955,fb6e0e36187c62fc410ed19ece5770ef95687856,Sidian Bank,-1.2662149,36.74892000000001,bank
+59, Dagoretti South,Uthiru,-1.2631329,36.7188955,114fd5af66591b288ee30f0f44ee81a41c17605b,Sidan Bank,-1.2663358,36.7490348,bank
