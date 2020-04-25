@@ -4,7 +4,7 @@ import os
 import sys
 import shutil
 import glob
-from LocationSearch.clean_data.remove_duplicates import *
+from clean_data.remove_duplicates import *
 # from nairobi-mapped.clean_data.remove_duplicates import *
 
 
@@ -26,8 +26,13 @@ def consolidate_data_extracts(extracts_file_path="*.csv", output_file_name="defa
     # create the file copying directory
     os.mkdir(output_file_name.replace("combined_", ""))
 
+    if extracts_file_path == "*.csv":
+        file_path = "."
+    else:
+        file_path = extracts_file_path.replace('*.csv', '')
+
     # copy all the extracted files to the created folder
-    for extracted_file in glob.iglob(os.path.join(".", "*.csv")):
+    for extracted_file in glob.iglob(os.path.join(file_path, "*.csv")):
         shutil.move(extracted_file, output_file_name.replace("combined_", ""))
 
     return "consolidated/{0}.csv".format(output_file_name), output_file_name
@@ -37,10 +42,13 @@ def main():
     """ The main function consolidates file combination and phase 1 data cleaning using Harvesine
     distance"""
     # Get file_name
-    file_name = sys.argv[1]
+    # file_name = sys.argv[1]
+
+    file_name = "additional"
+
     # Test Function (consolidate_data_extracts)
     df, file_name = read_file(
-        *consolidate_data_extracts(output_file_name="combined_nairobi_"+file_name)
+        *consolidate_data_extracts(extracts_file_path="remaining_datasets/*.csv", output_file_name="combined_nairobi_"+file_name)
     )
     df = add_distance_column(df)
     df = remove_duplicate_places(df)

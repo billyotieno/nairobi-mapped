@@ -1,0 +1,61 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Mathare,Mlango Kubwa,-1.2658072,36.8456235,7a4600e65d7cb1c31913dceb8dc14cf75984d0d4,Hotel Central Park & Conference Center,-1.2849272,36.82790060000001,gym
+1, Mathare,Mlango Kubwa,-1.2658072,36.8456235,6e1330bf17c69b4380ecb461c6850ae43a095d4f,Cloud Hotel & Suites,-1.2580078,36.8185433,gym
+2, Mathare,Mlango Kubwa,-1.2658072,36.8456235,74de056db5ca24dc3a8fce3278e72cdaab042175,Abdallagym Center And Profitness,-1.2551372,36.86242190000001,gym
+3, Mathare,Mlango Kubwa,-1.2658072,36.8456235,9d76e77efddccd070b7b2eee618b9354d1678b88,Muscle Base Gym,-1.2598152,36.8646576,gym
+4, Mathare,Mlango Kubwa,-1.2658072,36.8456235,b908e49dbf6985855af5d0912bb8bcd889ad3431,Mathare Gym Fitness,-1.2559283,36.8635149,gym
+5, Mathare,Mlango Kubwa,-1.2658072,36.8456235,74b91b9cf64633588a75e79c966e34fd65e772c9,Traffic Police Headquarters,-1.256057,36.8566807,gym
+6, Mathare,Mlango Kubwa,-1.2658072,36.8456235,d97f9aaeb28d4e36b7832b485690f828d88f0841,Sina Makosa Stadium,-1.2706772,36.8651819,gym
+7, Mathare,Mlango Kubwa,-1.2658072,36.8456235,18ff913481023e69d66731bddd12c6e2186057a0,Hotel Central Park And Conferencing Facilities,-1.284566,36.82866299999999,gym
+8, Mathare,Mlango Kubwa,-1.2658072,36.8456235,9dd266fe2f23be17ce2a43838d8e84791b7d091a,WAWA Fitness Center,-1.2404088,36.8457431,gym
+9, Mathare,Mlango Kubwa,-1.2658072,36.8456235,66f041796b98020ee9be1e10edf72c4a53112018,Orthodynamic Limited,-1.283934,36.8272692,gym
+10, Mathare,Mlango Kubwa,-1.2658072,36.8456235,40a0ca37d2473545cb4a7253e88b9a68fc2af230,Workout Express Ltd,-1.2580087,36.81889170000001,gym
+11, Mathare,Mlango Kubwa,-1.2658072,36.8456235,2d7a549b13b6e846af7f8e4216a9226f1970e666,Gym Solutions,-1.285939,36.827124,gym
+12, Mathare,Mlango Kubwa,-1.2658072,36.8456235,8e973fa9ec5365ec52bae75b7eda82f24512dfb9,Great Body Gym Ltd,-1.2862234,36.8267809,gym
+13, Mathare,Mlango Kubwa,-1.2658072,36.8456235,6062a9e25104464d5c2365323d5ed533cea597aa,Fit O’ Phat,-1.2850941,36.8210341,gym
+14, Mathare,Mlango Kubwa,-1.2658072,36.8456235,cc9f23629c3e63dca468c2ff7c107084dda735da,Qwetu | Student Residences | Ruaraka,-1.2469296,36.8707706,gym
+15, Mathare,Mlango Kubwa,-1.2658072,36.8456235,6fb30dcfe4f6e8457e7ddad4a30d92e15bc5f817,The Concord Hotel & Suites,-1.2545608,36.815443,gym
+16, Mathare,Mlango Kubwa,-1.2658072,36.8456235,91f2d2ac6b9305b46c6f8fd52abd1ec707104dfd,Qwetu | Student Residences | Jogoo Road,-1.2950151,36.8612837,gym
+17, Mathare,Mlango Kubwa,-1.2658072,36.8456235,6d717c505ddef3079e7d6d4a3eaa10ef5b832ed3,Old Nation House 1st Floor,-1.2920659,36.82194619999999,gym
+18, Mathare,Mlango Kubwa,-1.2658072,36.8456235,e6fa33a2d334b57461f2623c38697c68c70f7bfc,Shasyl Spa and Barber,-1.271728,36.81054220000001,gym
+19, Mathare,Mlango Kubwa,-1.2658072,36.8456235,d60ae8fa84b3a595fdaf5c52fc882ff316a54f7c,GYM BRAVO FITNESS CENTRE,-1.2833652,36.879775,gym
+20, Mathare,Mlango Kubwa,-1.2658072,36.8456235,f99b2d950d234bcbdc6632ac47ded8e63d6dc6e5,Enzyne Creation Limited,-1.2760732,36.8080978,gym
+21, Mathare,Mlango Kubwa,-1.2658072,36.8456235,5d312e5e66e687ec37ab560fcea7a8e6f9a2f929,The Saints Health Club,-1.2896304,36.813926,gym
+22, Mathare,Mlango Kubwa,-1.2658072,36.8456235,6705e74a0b2e9c39c2b40114099a0e8ac7f25984,HIGHWAY FITNESS CENTER,-1.301129,36.8251881,gym
+23, Mathare,Mlango Kubwa,-1.2658072,36.8456235,3b5da6fc00166a867da720003b78b4709efdc4f7,Activ Kenya Ltd,-1.2778459,36.8051541,gym
+24, Mathare,Mlango Kubwa,-1.2658072,36.8456235,aa45d1e24d7a0fd242ca451ac5ac77661d294ebc,Mobicare Kenya,-1.2930569,36.8119401,gym
+25, Mathare,Mlango Kubwa,-1.2658072,36.8456235,d8eb1c38b94e491fdd3062bf6bc61564b7b66050,Arena Ltd,-1.2611318,36.8017745,gym
+26, Mathare,Mlango Kubwa,-1.2658072,36.8456235,f0e63bf7067322446f591165cc9e00faf6a8c3f5,Acacia Studios,-1.2641614,36.8007696,gym
+27, Mathare,Mlango Kubwa,-1.2658072,36.8456235,c7c92324e702344778054a0a82459aa3856d9f84,Africa Yoga Project,-1.2766646,36.8270043,gym
+28, Mathare,Mlango Kubwa,-1.2658072,36.8456235,20f4ef4bf5aed52363af7d18323b74e25b2d185b,Africa Yoga Project,-1.2583213,36.8186128,gym
+29, Mathare,Mlango Kubwa,-1.2658072,36.8456235,a27714b7702cf620b23d809f6d820a9bee1db189,Daystar Gym & Fitness Centre,-1.2687747,36.84442439999999,gym
+30, Mathare,Mlango Kubwa,-1.2658072,36.8456235,56e433290e1731bbe7e10afde3d645052bf17a55,Uncle Jims Gym,-1.2701901,36.8472862,gym
+31, Mathare,Mlango Kubwa,-1.2658072,36.8456235,c2cb9521add9fd03f03128ebe2de63aa37c062e6,Body 4 Life Gym,-1.2706348,36.8449485,gym
+32, Mathare,Mlango Kubwa,-1.2658072,36.8456235,dbe7e62a6e905e67987ad96e19fb07a34ec0eb32,Golden Gym,-1.268907,36.85001369999999,gym
+33, Mathare,Mlango Kubwa,-1.2658072,36.8456235,c6e2b641c613759de0dc279b34061de8dcc19cb2,Body 4 Life Gym,-1.2713636,36.8445435,gym
+34, Mathare,Mlango Kubwa,-1.2658072,36.8456235,e088e303b5bed177c5ba2a68ca00ca2b467901d9,Nuwaf Abdulahi,-1.2667224,36.8398293,gym
+35, Mathare,Mlango Kubwa,-1.2658072,36.8456235,178e175d46b86aed8b8f317d877665078a65a88c,Dazzles Hair Beauty & Barber Shop,-1.2651743,36.8387699,gym
+36, Mathare,Mlango Kubwa,-1.2658072,36.8456235,09b2f9cf2fd88742156a3834bb23449b54076048,Captain Mugai,-1.2731553,36.8490347,gym
+37, Mathare,Mlango Kubwa,-1.2658072,36.8456235,ae8eb46dde74a10c77ab1e6ff224bfc2671cfd1e,Peak Physique Gym,-1.2643205,36.83761740000001,gym
+38, Mathare,Mlango Kubwa,-1.2658072,36.8456235,7db310a1d38893c3e6c98e0bcb10fe9c540d739b,Iron Man Fitness Center,-1.274242,36.84361429999999,gym
+39, Mathare,Mlango Kubwa,-1.2658072,36.8456235,4357aa218948dfbcfed1abf41a889ff9d4b19b67,Map Of Kenya,-1.2743341,36.8490424,gym
+40, Mathare,Mlango Kubwa,-1.2658072,36.8456235,3035be89d21a0c320df0f99e3ad03d3233b80a83,Axion Gym,-1.2707447,36.83614969999999,gym
+41, Mathare,Mlango Kubwa,-1.2658072,36.8456235,6327fb4bc9aaec5385bf69cb61e4a38470c2f01f,Pumwani Boys Sports Complex,-1.2713888,36.8357534,gym
+42, Mathare,Mlango Kubwa,-1.2658072,36.8456235,cf11f753509ad34cee6b2e35a17652b473cfb7d9,Pumwani Play Groung,-1.2711692,36.83559510000001,gym
+43, Mathare,Mlango Kubwa,-1.2658072,36.8456235,6d0dc463f645da537ba06fed15bc2554d4cd64b7,Xtreem Fitness Centre,-1.2768604,36.8423056,gym
+44, Mathare,Mlango Kubwa,-1.2658072,36.8456235,ab86625da09f921220514f1918f2a5d972a61f9a,Andaluss Gym,-1.2784891,36.8497964,gym
+45, Mathare,Mlango Kubwa,-1.2658072,36.8456235,6bd6185950a9dc4990f301ede8fbe392ded1388c,Fitness Empire,-1.2796396,36.84564339999999,gym
+46, Mathare,Mlango Kubwa,-1.2658072,36.8456235,8f9329b836964eca9258b38fbd5035fb5f3e3b41,Jambo Football Acedemy,-1.2789809,36.8408037,gym
+47, Mathare,Mlango Kubwa,-1.2658072,36.8456235,fe8fe8bafbf94fb75cf1ef33c8f83a0f73add203,Omax Auto Spares,-1.2810149,36.8480098,gym
+48, Mathare,Mlango Kubwa,-1.2658072,36.8456235,88ede83afb939e1c1815f40094a8be13260726b8,Gym & Pumwani Social Hall,-1.2816645,36.8458837,gym
+49, Mathare,Mlango Kubwa,-1.2658072,36.8456235,f842fe4a6950dd818bde4c5969ab5e081d8f7807,Cricket Court,-1.2765052,36.8334956,gym
+50, Mathare,Mlango Kubwa,-1.2658072,36.8456235,ee61c537e36143040c45f3e403ff93094d15ded6,Sir Ali Muslim Gym,-1.2760842,36.8326789,gym
+51, Mathare,Mlango Kubwa,-1.2658072,36.8456235,e4b84a1cd51c2b4c03186e350e806b5bdb73e75f,Kariokor Social Hall,-1.2790412,36.83531350000001,gym
+52, Mathare,Mlango Kubwa,-1.2658072,36.8456235,a4a0ce0bd9979526c9550a620ec05539ea117d05,Gosh Massage And Fitness,-1.2581084,36.8306297,gym
+53, Mathare,Mlango Kubwa,-1.2658072,36.8456235,bc1d83b831889669f3b90290ad713d39115060d3,RacingSportGym Parklands,-1.2580237,36.8299442,gym
+54, Mathare,Mlango Kubwa,-1.2658072,36.8456235,1374d621eaf8e0262a59eacf65cc15ff5b7fda2e,Paward apartments,-1.2700353,36.8286033,gym
+55, Mathare,Mlango Kubwa,-1.2658072,36.8456235,454945636f13eb4dc225a3c4a823558a136a4e8f,pumwani social hall,-1.2843138,36.84376769999999,gym
+56, Mathare,Mlango Kubwa,-1.2658072,36.8456235,b32b7d7df4cac58afd47bdcdc302ad94eb4ada88,Toptech Gym,-1.2746652,36.8290645,gym
+57, Mathare,Mlango Kubwa,-1.2658072,36.8456235,12ba919c64b55f43b9b84fe7544e29e80d598fab,Laurasam Fitness Centre,-1.2737335,36.8281399,gym
+58, Mathare,Mlango Kubwa,-1.2658072,36.8456235,be6f6332145d982cbee5157785063f0ae542806d,City Park Stadium Parking Lot,-1.2605697,36.82667679999999,gym
+59, Mathare,Mlango Kubwa,-1.2658072,36.8456235,193b6c0f4683e992358a87823ced66bbf70a02b6,Fit 4 Life Gym,-1.258928,36.8270141,gym

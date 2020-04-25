@@ -1,0 +1,61 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Westlands,Kitisuru,-1.2395542,36.7839651,4678cc162e270cde9254023b9ef0cb73f9e2474f,"Warwick Centre, Gigiri.",-1.235574,36.811389,shopping_mall
+1, Westlands,Kitisuru,-1.2395542,36.7839651,beda60ff462b7f62e443a1c7ff5d0f4c1d5b8e86,Westgate Shopping Mall,-1.2572267,36.8032074,shopping_mall
+2, Westlands,Kitisuru,-1.2395542,36.7839651,3ead2390ec60bb4097b34cc513bb4ab216821a09,Mpaka Plaza,-1.2647083,36.8050588,shopping_mall
+3, Westlands,Kitisuru,-1.2395542,36.7839651,33aa0848e98aec8c36fc1b42b1fde61bb9fa8e0f,Viking House,-1.2643854,36.8011288,shopping_mall
+4, Westlands,Kitisuru,-1.2395542,36.7839651,52cea94c652095217d5f96ade83a8e68455c3e06,Gigiri Shopping Centre,-1.2374187,36.81015639999999,shopping_mall
+5, Westlands,Kitisuru,-1.2395542,36.7839651,347c68b61e8b465ef7020f4c8b4c78e39cedb400,MediaSpace Kenya,-1.2623056,36.7973114,shopping_mall
+6, Westlands,Kitisuru,-1.2395542,36.7839651,800fe4e6ed895ba3682a8fa0ce97fb3102288ecb,Gigiri Square,-1.2361074,36.8112125,shopping_mall
+7, Westlands,Kitisuru,-1.2395542,36.7839651,9560a37f5fa6524b82d20e8a18388929fc3766ef,Escapade Fashions,-1.2648789,36.80077199999999,shopping_mall
+8, Westlands,Kitisuru,-1.2395542,36.7839651,a241e173d165e0787a3754809d7ebac94e346783,"Sarit, your city!",-1.2610974,36.8019788,shopping_mall
+9, Westlands,Kitisuru,-1.2395542,36.7839651,245361cea774f4ce26ebc59c9d919a6852cab7b0,Mosquito Specialists Kenya,-1.2669169,36.7936942,shopping_mall
+10, Westlands,Kitisuru,-1.2395542,36.7839651,6b4b6ec58cf475bbad7763709fb317438b380f82,Two Rivers Mall,-1.210846,36.7946976,shopping_mall
+11, Westlands,Kitisuru,-1.2395542,36.7839651,093ae5650a13ad5447219e8fe2aad3aa7d964346,Quick Mart Ruaka,-1.2068367,36.7834295,shopping_mall
+12, Westlands,Kitisuru,-1.2395542,36.7839651,0171b7334237fabeec180777180309411a19725f,Ruaka Square,-1.2062762,36.78455299999999,shopping_mall
+13, Westlands,Kitisuru,-1.2395542,36.7839651,87f79159c30bf2368a5b55b98c99a23d0a7f15ed,Alma,-1.2047809,36.7696777,shopping_mall
+14, Westlands,Kitisuru,-1.2395542,36.7839651,9cc932e8d73866f08957b8f0c09e4089ae628499,Nunuza Stores Ltd.,-1.268732,36.809501,shopping_mall
+15, Westlands,Kitisuru,-1.2395542,36.7839651,2023318b6df8a426978237ce7a93662dd08ca703,Khushbu Plaza & Residency,-1.2613078,36.8167906,shopping_mall
+16, Westlands,Kitisuru,-1.2395542,36.7839651,93eddb1efd06ead42d55bc92993a311b4b3f9432,Sky Mall,-1.2571961,36.8180089,shopping_mall
+17, Westlands,Kitisuru,-1.2395542,36.7839651,3adaa305c48a029921e7dec35e6b4a16f3c21b04,The Village Market,-1.2294041,36.80480290000001,shopping_mall
+18, Westlands,Kitisuru,-1.2395542,36.7839651,7ffb962f5d10bba34e12e0661175c067f807bd9a,Morganite Limited,-1.2828276,36.791849,shopping_mall
+19, Westlands,Kitisuru,-1.2395542,36.7839651,3bcc5c6c8c0373694ec3887a3d33a61f095ca140,Ukken Imports Ltd,-1.2572056,36.824606,shopping_mall
+20, Westlands,Kitisuru,-1.2395542,36.7839651,ee41ec3d022af78e0288131f78496eb59689b175,Spinners Web,-1.2389013,36.78076379999999,shopping_mall
+21, Westlands,Kitisuru,-1.2395542,36.7839651,688ef834ec4807c5436442e77f30ef7f3e817866,Damson Investments,-1.2415233,36.775704,shopping_mall
+22, Westlands,Kitisuru,-1.2395542,36.7839651,51bc37569c339428c419349e8e4fd67318cc280c,Muthaiga Mall,-1.2365183,36.7928667,shopping_mall
+23, Westlands,Kitisuru,-1.2395542,36.7839651,90c45d238f399986c953601ef93f35996b64448d,New Muthaiga Shopping Mall,-1.2365575,36.7928814,shopping_mall
+24, Westlands,Kitisuru,-1.2395542,36.7839651,2c350a4d5b1ee2730aa791e4bc086c3a4191eee0,e-fam [Every Family],-1.249734,36.7855841,shopping_mall
+25, Westlands,Kitisuru,-1.2395542,36.7839651,88deffa6efd2fc872756a8692a60dd75a50e652c,JOPET HEIGHTS,-1.2344675,36.7741276,shopping_mall
+26, Westlands,Kitisuru,-1.2395542,36.7839651,e207dd7e6c17f8878b6c7db7dc0d85a036e55e82,Pavilion Plaza,-1.2510502,36.7858633,shopping_mall
+27, Westlands,Kitisuru,-1.2395542,36.7839651,0ee73a4b26667222232543631fa99c136ee028e8,Spring Valley Mall,-1.2518478,36.78595409999999,shopping_mall
+28, Westlands,Kitisuru,-1.2395542,36.7839651,017f13066869ce28c0e086d48ea55381a8e6a939,lwala lwa nyama,-1.2519888,36.7935695,shopping_mall
+29, Westlands,Kitisuru,-1.2395542,36.7839651,6ea0fb6d1aed972ac61e9a5b5e823b50acfdf54d,Spring Valley Shopping Center,-1.2543135,36.79225929999999,shopping_mall
+30, Westlands,Kitisuru,-1.2395542,36.7839651,023e5691bd7d2c115277066bc22f37eb8e21a6d1,A.M Enterprises,-1.2225262,36.7809818,shopping_mall
+31, Westlands,Kitisuru,-1.2395542,36.7839651,043570499532fb703ffe374e7dfe4c678441a9f8,Mumbura Business Centre,-1.221065,36.7788922,shopping_mall
+32, Westlands,Kitisuru,-1.2395542,36.7839651,0dd6d0f256d593002da3d10ed40075386728f91b,Abc Place Nairobi,-1.2595978,36.7772749,shopping_mall
+33, Westlands,Kitisuru,-1.2395542,36.7839651,98e4b76780b689e587a4323177221d11ccacb72d,Azalea Heights,-1.2539757,36.7996946,shopping_mall
+34, Westlands,Kitisuru,-1.2395542,36.7839651,0efd622a9f65e9195f1a56e446fab717293873a4,"Anise Spices, Nuts & Grains",-1.2306591,36.8041134,shopping_mall
+35, Westlands,Kitisuru,-1.2395542,36.7839651,6518619db51a1704dc0813afabdcbd981246467b,The Village Market,-1.2306192,36.80413079999999,shopping_mall
+36, Westlands,Kitisuru,-1.2395542,36.7839651,44307e685fd7266a53601f70481bd67498da6c44,Kwa Kamau Shop,-1.2188007,36.7741994,shopping_mall
+37, Westlands,Kitisuru,-1.2395542,36.7839651,f23037a791fdfb219225a3cd7dd6f9547a2a8fbf,Brooks Apartments,-1.2364104,36.8068486,shopping_mall
+38, Westlands,Kitisuru,-1.2395542,36.7839651,b3891286c34364d92c66d16e28849d07c41aa4fb,Souk,-1.2295275,36.8048986,shopping_mall
+39, Westlands,Kitisuru,-1.2395542,36.7839651,fb4fb6326a367c23d057f36c2e85d375ca4cae07,KA Burn Stage,-1.2204777,36.7693168,shopping_mall
+40, Westlands,Kitisuru,-1.2395542,36.7839651,388becb27ca72221859dd39d1d6fab34c5c34731,Herbivore Garden Centre,-1.233108,36.807262,shopping_mall
+41, Westlands,Kitisuru,-1.2395542,36.7839651,045f9bcd4a56ac385b17dea2aa7218281c686c97,Salute I World,-1.2572275,36.80229320000001,shopping_mall
+42, Westlands,Kitisuru,-1.2395542,36.7839651,9226d0b73b3561e1e41147d0545d3b020824c750,Zaki Furniture,-1.2197765,36.7673725,shopping_mall
+43, Westlands,Kitisuru,-1.2395542,36.7839651,7f19b852169d14178cd95f7d6c691c30fe13fc42,Jaks barber,-1.2196438,36.7669916,shopping_mall
+44, Westlands,Kitisuru,-1.2395542,36.7839651,26b1179a9951f5aff03f85fa32d86078ead918a6,Njororo Shop,-1.2193736,36.76663349999999,shopping_mall
+45, Westlands,Kitisuru,-1.2395542,36.7839651,7d621f60b75954223d23873e182af1896b35551e,Gachie Trye Center,-1.2194018,36.766543,shopping_mall
+46, Westlands,Kitisuru,-1.2395542,36.7839651,b26082b30a40b76a166dd6e6d9da63978f16e373,Pop Up Market - Westgate,-1.2577349,36.8035138,shopping_mall
+47, Westlands,Kitisuru,-1.2395542,36.7839651,1bf143aa74917b908df73aebcabc48c9507538c2,Art Oro Jewellers,-1.2561325,36.80502320000001,shopping_mall
+48, Westlands,Kitisuru,-1.2395542,36.7839651,9843b8c718bdd063f7c722ea4ae53559dcc537e9,Ha Njoroge,-1.2184595,36.7669393,shopping_mall
+49, Westlands,Kitisuru,-1.2395542,36.7839651,7ef0da4015bbab874016521ade569158a6f03e96,Kihara Market (108),-1.2187525,36.7664384,shopping_mall
+50, Westlands,Kitisuru,-1.2395542,36.7839651,e075506f33a94ada5a0b51df8bbec610db62bc18,Kari's Kinyozi,-1.2189774,36.7661021,shopping_mall
+51, Westlands,Kitisuru,-1.2395542,36.7839651,e4aad801757bfa95cc13cf295c99ad3dabf36073,Wakai Building,-1.219095,36.7658456,shopping_mall
+52, Westlands,Kitisuru,-1.2395542,36.7839651,29c543677d6e59535d5b20eda9a6860d2fe5b7de,Sarit Center Phase III,-1.2606546,36.801329,shopping_mall
+53, Westlands,Kitisuru,-1.2395542,36.7839651,51b85f9634bb73709ea1b089877b5d17d98a96da,Warwick Plaza,-1.2353941,36.81130169999999,shopping_mall
+54, Westlands,Kitisuru,-1.2395542,36.7839651,8e5ce772ff7c1382aed01b8600f98356602a041d,Jiko Jiko,-1.2185148,36.7658376,shopping_mall
+55, Westlands,Kitisuru,-1.2395542,36.7839651,d3f99ce417bf8f88a4061935fd134326833e38a1,Njoroge Apartment,-1.2182396,36.76614939999999,shopping_mall
+56, Westlands,Kitisuru,-1.2395542,36.7839651,ba047748f1879901c3c084fbd4bf6d3593cfe374,Jemimah Shops,-1.2187806,36.765511,shopping_mall
+57, Westlands,Kitisuru,-1.2395542,36.7839651,abed5cc7f5b676d2dbd82978843dcddabfaa57e7,Rosslyn Riviera Mall,-1.2162555,36.7994937,shopping_mall
+58, Westlands,Kitisuru,-1.2395542,36.7839651,eea28265a95dd87ebfcbd9e7c19e73dc3c369a96,Utawala Trading Centre,-1.2611605,36.80197769999999,shopping_mall
+59, Westlands,Kitisuru,-1.2395542,36.7839651,eaabe24edf34ec6a593b5e30236d1549c71b2e05,Bonny Kim Kinyozi,-1.218667,36.76486360000001,shopping_mall

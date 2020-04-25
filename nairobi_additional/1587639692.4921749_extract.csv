@@ -1,0 +1,41 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Ruaraka,Lucky Summer,-1.2393083,36.898786,f3fab4bb91b287b1391e8cbacdc4a638ce2e8b81,Dense Gas Logistics & Kerosene,-1.2299237,36.8775254,gas_station
+1, Ruaraka,Lucky Summer,-1.2393083,36.898786,d0675d239b8daa2d0e07e4691c2d1f4c71eeddc9,Kahangara Education Foundation,-1.2156509,36.9027194,gas_station
+2, Ruaraka,Lucky Summer,-1.2393083,36.898786,f4e70a3f94b6c000d0274bb35d9c0de8c38a4d9c,G-gas shop,-1.225601,36.924546,gas_station
+3, Ruaraka,Lucky Summer,-1.2393083,36.898786,0a48bcb137825cc0ff9edb4e26590defc11e415f,Co-op Kwa Jirani Sango Filling Station,-1.266,36.8858,gas_station
+4, Ruaraka,Lucky Summer,-1.2393083,36.898786,19540c286ff0cb495e5c17db8b13a020511659cd,Gulf Energy-Thome,-1.2102992,36.87525449999999,gas_station
+5, Ruaraka,Lucky Summer,-1.2393083,36.898786,9e5ebf4475d68cdd03321359ae487a47df0a2406,OiLibya Njiru,-1.2534648,36.9336095,gas_station
+6, Ruaraka,Lucky Summer,-1.2393083,36.898786,ffd4756d693e7c8330ea0c729130a5fdf5dc055a,G-gas shop,-1.2774,36.89364,gas_station
+7, Ruaraka,Lucky Summer,-1.2393083,36.898786,395fc3da99de407e1fdb5dee7b1b38abccae86ed,Shell,-1.249925,36.86129199999999,gas_station
+8, Ruaraka,Lucky Summer,-1.2393083,36.898786,72d0c8680e9a13905433a1cd8e15dc846db85027,Kenol Buruburu Mesora,-1.279034,36.877686,gas_station
+9, Ruaraka,Lucky Summer,-1.2393083,36.898786,20dbbbd39a2998ba144a419ba01f40f5c6ad4149,Diesel Point,-1.2436199,36.9062331,gas_station
+10, Ruaraka,Lucky Summer,-1.2393083,36.898786,79f0e671d1ff1e065ffe60ae09d90fbc93ad24b5,Kama Petrol Point,-1.2439162,36.891017,gas_station
+11, Ruaraka,Lucky Summer,-1.2393083,36.898786,e5784d385b474d2cae27c00eac38a03eb441d804,Gaz Centre,-1.24949,36.9004131,gas_station
+12, Ruaraka,Lucky Summer,-1.2393083,36.898786,cd8754a882d067aa73c19aff5a43b4ddfaf7d708,Torati Educational Centre,-1.2497701,36.90133009999999,gas_station
+13, Ruaraka,Lucky Summer,-1.2393083,36.898786,1e4855c72a2a6592734802dcd195e2b585bd4475,Kk Petrol Station,-1.2491989,36.9035509,gas_station
+14, Ruaraka,Lucky Summer,-1.2393083,36.898786,9c7da789ff622704307531ba027e48ae6186f178,KK Filling Station,-1.246559,36.908333,gas_station
+15, Ruaraka,Lucky Summer,-1.2393083,36.898786,476c8cf7ad07269b1b69e4e6efad22f6651328e0,Kasario Road,-1.2374187,36.913221,gas_station
+16, Ruaraka,Lucky Summer,-1.2393083,36.898786,c624743acfb2afdf97ef0786d774a04ea01dcf26,Shell Petrol Station,-1.2543606,36.8946379,gas_station
+17, Ruaraka,Lucky Summer,-1.2393083,36.898786,24a579121ce2c31c5ed93ea582156424172f86d0,"SHELL PETROL STATION, DANDORA",-1.2543638,36.8944689,gas_station
+18, Ruaraka,Lucky Summer,-1.2393083,36.898786,17605d20041dbb2e2b3474ddd1cee263d60f0c0b,Blessed Kerosene Pump,-1.2550322,36.89952419999999,gas_station
+19, Ruaraka,Lucky Summer,-1.2393083,36.898786,558a7af7bf24f7a047615609c013479dedd2d0f0,Speed Point Diesel,-1.2549387,36.89287299999999,gas_station
+20, Ruaraka,Lucky Summer,-1.2393083,36.898786,d1b1450af88c21fd06c9f44d5cdef6b0bed6b3fe,Eppl,-1.2437472,36.882466,gas_station
+21, Ruaraka,Lucky Summer,-1.2393083,36.898786,58bd154428001af5f3db218db8ea5a7623546686,Euro EPP etrol Stations,-1.2438937,36.881468,gas_station
+22, Ruaraka,Lucky Summer,-1.2393083,36.898786,af21372f6a13d4be377b38d815987db96abaf75e,Midnight Filling Station And Carwash 24hrs,-1.2576896,36.89503610000001,gas_station
+23, Ruaraka,Lucky Summer,-1.2393083,36.898786,4a09c15010a713dab144619f6787ef01af793490,Njoras Diesel Pump,-1.2577601,36.8950127,gas_station
+24, Ruaraka,Lucky Summer,-1.2393083,36.898786,d7d14b8ea948c1f97bc89e0a5c104219853ab5b6,Midnight Filling Station Dandora,-1.2577772,36.89460039999999,gas_station
+25, Ruaraka,Lucky Summer,-1.2393083,36.898786,ecb5787d2b6ba2ae31796ff8e5dea2c47f9759bd,Midnight Filling station and Carwash,-1.2577775,36.8945994,gas_station
+26, Ruaraka,Lucky Summer,-1.2393083,36.898786,09e7ba3cdf371ea8b4a43de862c7b150e784edb1,Henry Kerosene Pump,-1.2576964,36.89395689999999,gas_station
+27, Ruaraka,Lucky Summer,-1.2393083,36.898786,8821eb11a04b4802aeb553832cbe1574e2c172b5,Mkota Gas,-1.253228,36.88509579999999,gas_station
+28, Ruaraka,Lucky Summer,-1.2393083,36.898786,9cf74538e06cfa400fff40974188ebce88f02d2c,Total shop,-1.2584623,36.89240900000001,gas_station
+29, Ruaraka,Lucky Summer,-1.2393083,36.898786,265318e20a66af228314fdec81b4e4351b445dfa,Total Dandora Service Station,-1.258633,36.892615,gas_station
+30, Ruaraka,Lucky Summer,-1.2393083,36.898786,84f9a3d6743ca76561e2d2df44369d6c6fe1ad7d,Chieko Paul Gas Point,-1.2345263,36.918584,gas_station
+31, Ruaraka,Lucky Summer,-1.2393083,36.898786,52b4d33371a0121845c16ed4d45adb1ad2d6c8a7,Czx Energy,-1.2592973,36.8937203,gas_station
+32, Ruaraka,Lucky Summer,-1.2393083,36.898786,3647a5f556141750a5c10fa629b0d6cb234c6464,Las Vegas Petrol Station,-1.2185728,36.89612220000001,gas_station
+33, Ruaraka,Lucky Summer,-1.2393083,36.898786,2337c3d8060c0c1e1d3f89d3e99f9bc415590b86,Kamunyu Petrol Station,-1.21869,36.90254,gas_station
+34, Ruaraka,Lucky Summer,-1.2393083,36.898786,c89dc121efd259261747ef1e32b0d2cd09bc8960,Crescent Service Station,-1.2276872,36.8813123,gas_station
+35, Ruaraka,Lucky Summer,-1.2393083,36.898786,e5f29210c943f4f78da1238414633dd9d1139839,SHELL KASARANI PETROL STATION,-1.2183112,36.8958229,gas_station
+36, Ruaraka,Lucky Summer,-1.2393083,36.898786,c1aae93989ba58d469c4cb0d89f2c076190afab5,Shell,-1.2183068,36.8958466,gas_station
+37, Ruaraka,Lucky Summer,-1.2393083,36.898786,02a66e19a7bf48c6280eae4b93694874bf82c280,Total Petrol Station - Mwiki Road,-1.2248966,36.914475,gas_station
+38, Ruaraka,Lucky Summer,-1.2393083,36.898786,06eba5b9eed9c72d17a1c0824ec81ebd44b763fe,Lake oil,-1.218005,36.8963333,gas_station
+39, Ruaraka,Lucky Summer,-1.2393083,36.898786,d8a72ed0b5b61b3447bdca19ad97942c7f7f02f3,Riders Car Care Centre,-1.2238562,36.9138825,gas_station

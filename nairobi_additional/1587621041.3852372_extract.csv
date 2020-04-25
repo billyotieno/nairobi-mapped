@@ -1,0 +1,21 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,b528d635cbb16e98d63f70eed874d1e346d1f2f7,Library,-1.282015,36.8159009,library
+1, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,5a043566f629a91870e10b6c05d73bfaf47b52f9,Library And Information Support Services,-1.2870892,36.8280253,library
+2, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,9203cd3ea96e62702021cda837186734369b5e87,"Gaturu Muthoga Adv, head office",-1.2859898,36.82058749999999,library
+3, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,17bf3fd78ae992e605c8fea5143866bad3c333d5,Bhaktivedanta Library,-1.2747437,36.81831059999999,library
+4, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,edafc850f1ca0bcb11e26cf311e04704c9ed6bc9,MoMoviez,-1.3005025,36.78716819999999,library
+5, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,d953031d7bedcb5f473f868fc164a18e25e4da47,Strathmore University Library,-1.3096725,36.8140502,library
+6, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,e2dbfb8574bf2d4173be7f6254cc9d12c2ed980f,Kenya National Library Service,-1.2947476,36.81140029999999,library
+7, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,5cd4b2930766c64229fe2552d4f85a794557f6e9,Upper Hill School Library,-1.3000356,36.8177283,library
+8, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,1073b88b01f2bbec2228739f57ee26b5b101f5c3,"McMillan Memorial Library, Nairobi",-1.2835884,36.82121780000001,library
+9, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,151ab7639670365a8088a9ee4c0ff01a01b94520,Library.co.ke,-1.2815,36.8172535,library
+10, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,1843c0ca126a3d72066af464db4c331a61e415b8,PALIAct Ukombozi Library,-1.280525,36.8179807,library
+11, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,f7fc6e73afc64020612440b5288b40728fd2c6ef,Jomo Kenyatta Memorial Library,-1.2801647,36.8158588,library
+12, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,77ff828e55fbe3f74a058a6cc47c1895f5116940,"Christian Science Reading Room, Nairobi",-1.2854608,36.8140939,library
+13, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,283160e0e56c4bbdbcc01ae6d6e6d04520ba9bc6,Christian Science library,-1.2854608,36.8140939,library
+14, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,4d34b4a57a04265255081317edd4c69452bbd81f,Mahatma Gandhi graduate library,-1.2793677,36.8166232,library
+15, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,9cfe632828dc7d5a51bbca571899ccb943e67d7a,Institute Of Development Studies Library,-1.2793315,36.81687,library
+16, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,c9d68cb0f66ae187047f5ae5d11f448f24243960,Syed Abdullah Memorial Library,-1.2831313,36.821183,library
+17, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,f1576a923be650b3758f0cfcd0999aaf2af733b4,University of Nairobi College of Architecture and Engineering Library,-1.2811287,36.8124306,library
+18, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,bd094e8fa051e7c75fdb6ed39bc82e913e259301,Fanusi Library,-1.2829313,36.81151979999999,library
+19, Starehe,Nairobi Central,-1.2832533000000002,36.8172449,b1383299cf6a85c36aabdd32ce9820c64597899c,Worldspace Video House,-1.2839171,36.8246279,library

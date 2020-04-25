@@ -1,0 +1,4 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Lang'ata,Mugumoini,-1.1991235,36.846741200000004,412bd19d42aeec4faac0f0321f75855a5e8ead22,Video library,-1.1722367,36.8243426,library
+1, Lang'ata,Mugumoini,-1.1991235,36.846741200000004,dc1073111b65cb3ba22ccec17e4ea755a091069a,Library,-1.2162153,36.8789899,library
+2, Lang'ata,Mugumoini,-1.1991235,36.846741200000004,e35a761e163a06470dfacf6b04c94d602d400c82,USIU-Africa Library,-1.216542,36.87891339999999,library

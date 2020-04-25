@@ -1,0 +1,61 @@
+,constituency,ward,clat,clon,place_id,place_name,place_lat,place_long,place_type
+0, Westlands,Kitisuru,-1.2395542,36.7839651,46d0c68670843c35ccdfabdab6cc0ba41ec4a2e1,Oil Libya,-1.2593201,36.77987319999999,gas_station
+1, Westlands,Kitisuru,-1.2395542,36.7839651,9b87989c84c3fe16e3a68824949c34fc3cacac7d,OLA Energy,-1.259345,36.779909,gas_station
+2, Westlands,Kitisuru,-1.2395542,36.7839651,873999e9f6c6f0f84ffde82d903777efe5fff1da,Kobil Limuru Road,-1.2389965,36.8115029,gas_station
+3, Westlands,Kitisuru,-1.2395542,36.7839651,2cb8cbadc6bb69a0b35adf2e9c02ba55fcfb7b67,OLA Energy,-1.263829,36.803099,gas_station
+4, Westlands,Kitisuru,-1.2395542,36.7839651,975fe8a720b9ff8431c0e9f3075218c60e87088a,Sean Garstin Motors,-1.2805528,36.7696306,gas_station
+5, Westlands,Kitisuru,-1.2395542,36.7839651,28f5c2b61d9198bf05517f863014bbdfdafbf613,SUSHAZ LIMITED,-1.2715617,36.8137076,gas_station
+6, Westlands,Kitisuru,-1.2395542,36.7839651,d718a1f2a5d370576e5c1f6a704deb80949f968d,OLA Energy,-1.2484408,36.7971817,gas_station
+7, Westlands,Kitisuru,-1.2395542,36.7839651,e4819f2c1be8944fe8f29d565e7d92c08e7eddb5,Total - spring valley,-1.253677,36.792087,gas_station
+8, Westlands,Kitisuru,-1.2395542,36.7839651,17d4d6b9e96ae5e1d5ee54e6de0d1fa0264106aa,Total - waiyaki way,-1.255886,36.78182,gas_station
+9, Westlands,Kitisuru,-1.2395542,36.7839651,5b84fc4d14e48acae438cfcc6e30ca0f9f8ad0d7,Total,-1.254015,36.792091,gas_station
+10, Westlands,Kitisuru,-1.2395542,36.7839651,30766d81ccd16e82a9bf6eb0aa146a5314d6b8c5,Fuel Drop Filling Station,-1.2225895,36.7816123,gas_station
+11, Westlands,Kitisuru,-1.2395542,36.7839651,251ed605be2562082f151a66405b76bbd736ee69,West End Filling Station,-1.2221312,36.78063059999999,gas_station
+12, Westlands,Kitisuru,-1.2395542,36.7839651,f2b079d9c0ef7b14b3f8f07444358e1abacdb259,Josan Gas,-1.2210169,36.7789876,gas_station
+13, Westlands,Kitisuru,-1.2395542,36.7839651,32e811a00374e28f1ffdeb4b3dc77ee12053ebad,Total-Waiyaki Way,-1.258767,36.781871,gas_station
+14, Westlands,Kitisuru,-1.2395542,36.7839651,6ea608d07e4982331f0039ecd1adafa243345b7d,Total Waiyaki Way Service Station,-1.2586973,36.7812743,gas_station
+15, Westlands,Kitisuru,-1.2395542,36.7839651,f3d5bdccaf138f13a02d8aa1d1a5bf155a7d4f0c,Total - abc,-1.258964,36.778473,gas_station
+16, Westlands,Kitisuru,-1.2395542,36.7839651,fec6db0911c6870931354db918c2b97fc46960c0,Total ABC Service Station,-1.2592679,36.7788172,gas_station
+17, Westlands,Kitisuru,-1.2395542,36.7839651,0466bca02933ec516a8201f60f0d7008e1331dc3,Shell,-1.2599677,36.7856853,gas_station
+18, Westlands,Kitisuru,-1.2395542,36.7839651,b4695d83afd497b0794cbad3cffa76aa15e6212e,Total-ABC,-1.259314,36.778503,gas_station
+19, Westlands,Kitisuru,-1.2395542,36.7839651,5e22cb41ae687d7a02812d3ce4ecb81e53848fb8,Total Gigiri Service Station,-1.2321615,36.8035592,gas_station
+20, Westlands,Kitisuru,-1.2395542,36.7839651,45de39fb005484059bf5f31c1a0970d3b4d807bc,Total Petrol Station,-1.232024,36.80352969999999,gas_station
+21, Westlands,Kitisuru,-1.2395542,36.7839651,8ba6646fbc5e1ecc8f8312b1f961403601fbc732,Shell,-1.2307878,36.8034172,gas_station
+22, Westlands,Kitisuru,-1.2395542,36.7839651,3575689291e8c47d9a00a4b5075b0643314a1303,Pency unique Investment and Services,-1.2370674,36.809805,gas_station
+23, Westlands,Kitisuru,-1.2395542,36.7839651,005d3c163069add1e975e29c3fa2bf5b0259de93,Gigiri Service Station,-1.2376524,36.8100122,gas_station
+24, Westlands,Kitisuru,-1.2395542,36.7839651,dc768e9b5eaa9b9e456d39f205b85db5d81f8046,Gasolina Petrol Station,-1.2197866,36.7665796,gas_station
+25, Westlands,Kitisuru,-1.2395542,36.7839651,596e5c269224d23cc3e68ad14016b93b0a7b43cf,Rubis Fuel Station Gigiri,-1.2379637,36.810261,gas_station
+26, Westlands,Kitisuru,-1.2395542,36.7839651,ac3453b8aff4e0d9d1fb1934f2e0303e6dbaf0eb,Kenol Petrol Station,-1.237963,36.8103253,gas_station
+27, Westlands,Kitisuru,-1.2395542,36.7839651,f42042fc5f4fb092ee679c6bb11daef7729d7418,Unep RUBIS Petro Station,-1.2381374,36.81037999999999,gas_station
+28, Westlands,Kitisuru,-1.2395542,36.7839651,0c076d05161f14777bcb5a86457eb15e019958f3,Lit service station,-1.238928,36.811665,gas_station
+29, Westlands,Kitisuru,-1.2395542,36.7839651,86d49b4fa58794e766358d90f1d1e4f8b8d1471c,United Nations Petrol Station,-1.2357749,36.8121707,gas_station
+30, Westlands,Kitisuru,-1.2395542,36.7839651,8fb54c24f5e86fef48d68f96c8acd23801332faf,Shell,-1.2628049,36.801006,gas_station
+31, Westlands,Kitisuru,-1.2395542,36.7839651,cedc9c0a3e068f23a2c02e6bd5941ddd1ef4c5fd,New Rockwell Petrol and Service Station,-1.2628506,36.8010395,gas_station
+32, Westlands,Kitisuru,-1.2395542,36.7839651,1caae5407f56900bc58aa3f3fa5e2d25f0e92938,Kenol Loresho,-1.2515265,36.7571908,gas_station
+33, Westlands,Kitisuru,-1.2395542,36.7839651,d3f2fa5cd9c0ff1710ec8935b5524c1419d8bf41,Total Rosslyn Service Station,-1.2106474,36.7894119,gas_station
+34, Westlands,Kitisuru,-1.2395542,36.7839651,884f63a21197cfc408ab1fc9b45777127efb783f,Rockwell Service Station,-1.2637484,36.8010647,gas_station
+35, Westlands,Kitisuru,-1.2395542,36.7839651,ba8be48ed75db3c5f2ecbda94750620dac8a5a5c,Shell,-1.2630401,36.8027307,gas_station
+36, Westlands,Kitisuru,-1.2395542,36.7839651,8f09ff71c269193f173d7975f8ebcce4ead06ce7,Shaz Energy Station,-1.2097034,36.7886126,gas_station
+37, Westlands,Kitisuru,-1.2395542,36.7839651,ae620694c9054b96e3d18e88d4afeb0639a20359,Delta Petrol Station,-1.2094992,36.78835069999999,gas_station
+38, Westlands,Kitisuru,-1.2395542,36.7839651,6d1f418be44e0fe115d1b62eb898f1a4114ebf79,Delta Service Station – Ruaka Town,-1.2093923,36.78821049999999,gas_station
+39, Westlands,Kitisuru,-1.2395542,36.7839651,8624d49f3eeeb423be58962eea6a314eb9cbb052,Urafiki Service Station,-1.2087276,36.78803550000001,gas_station
+40, Westlands,Kitisuru,-1.2395542,36.7839651,cbbf06cbfcefd13d067459883ebe2e53c98a09fe,PETRO Petrol Station,-1.2634809,36.7639124,gas_station
+41, Westlands,Kitisuru,-1.2395542,36.7839651,99fb726e8476b2655f8c07b33243a3744c4942ce,Winam Handcraft,-1.2506416,36.8134059,gas_station
+42, Westlands,Kitisuru,-1.2395542,36.7839651,5bca5213f9da4ef29bc2725f18e473a2e333a26f,Oilcom petrol station,-1.2652834,36.8031156,gas_station
+43, Westlands,Kitisuru,-1.2395542,36.7839651,5331e672d130cd9faaf776adcb3d5972e7d3acf6,Nyota service station ltd,-1.265602,36.803467,gas_station
+44, Westlands,Kitisuru,-1.2395542,36.7839651,85c91c1ec93b4979cc3aea0543d6a59eca374cba,ROBA GAS SUPPLIER,-1.2068331,36.78180909999999,gas_station
+45, Westlands,Kitisuru,-1.2395542,36.7839651,e61bd63d7e555f082d603965c18eb967baaa5a92,Chiromo Service Station,-1.2663476,36.802959,gas_station
+46, Westlands,Kitisuru,-1.2395542,36.7839651,5ccd789d545c036bf715984e3e730dc7d66f86d5,Total Service Station,-1.2632205,36.8092118,gas_station
+47, Westlands,Kitisuru,-1.2395542,36.7839651,bf91f8af6cbcbc5feb0dacbbb77184053fedf50b,Nucleur Service Station,-1.2638722,36.7592305,gas_station
+48, Westlands,Kitisuru,-1.2395542,36.7839651,210c846a36dbb823d961c0e00f54b0fa55a9a5ba,Total Utalii Service Station,-1.2633243,36.8092221,gas_station
+49, Westlands,Kitisuru,-1.2395542,36.7839651,2f88b10fe4ce5196729fed599421359c92453810,GEL Waiyaki Way,-1.2639599,36.75866190000001,gas_station
+50, Westlands,Kitisuru,-1.2395542,36.7839651,13a943fe8434e656ba0c112a5066e4f66f58a07f,Total Kitisuru Service Station,-1.2351609,36.748992,gas_station
+51, Westlands,Kitisuru,-1.2395542,36.7839651,7833de0e22105210407f8627b7af564753034db2,Total - utalii,-1.263486,36.81033499999999,gas_station
+52, Westlands,Kitisuru,-1.2395542,36.7839651,8c55e5b41678131ee8af04cbf139a39fdcf4e9b1,Total- utalii service station,-1.263776,36.810292,gas_station
+53, Westlands,Kitisuru,-1.2395542,36.7839651,dc5d508ae65b29b5d9e93ee7489a30ac044b98fb,Total-limuru rd,-1.26378,36.810313,gas_station
+54, Westlands,Kitisuru,-1.2395542,36.7839651,8e3512bf1ba855042651e05a5bd54dd28b898666,Total - ruaka,-1.20367,36.787874,gas_station
+55, Westlands,Kitisuru,-1.2395542,36.7839651,875d32a1022869f91e6bf1aa11e35aa206fb610a,By Grace Kerosene Pump,-1.2042258,36.7734044,gas_station
+56, Westlands,Kitisuru,-1.2395542,36.7839651,cfa6628a3fd5a5e85f7d9aca109f82a03de4e6f6,Engen Petrol Station,-1.264358,36.7566761,gas_station
+57, Westlands,Kitisuru,-1.2395542,36.7839651,08388fbc32cc5a049577ec798781f5e69e0eeffa,Engen Waiyaki,-1.264374,36.756682,gas_station
+58, Westlands,Kitisuru,-1.2395542,36.7839651,87fdc16bc95c6ab144e4987c9fd385e330453aaa,Engen Petrol Station,-1.2644677,36.7566517,gas_station
+59, Westlands,Kitisuru,-1.2395542,36.7839651,c6ff6cdc797da69a25ac742c74a7cb7f7b555669,Gas Point Depot -Ruaka,-1.2040435,36.7734061,gas_station
